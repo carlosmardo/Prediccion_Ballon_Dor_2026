@@ -1,0 +1,29 @@
+Traceback (most recent call last):
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus\browser_decorator.py", line 199, in run_task
+    result = func(driver, data)
+             ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\carlo\Desktop\predecir-balon-de-oro\sofascore_player_stats.py", line 322, in prueba_laliga
+    resultado = driver.run_js(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus_driver\driver.py", line 746, in run_js
+    return self._tab.evaluate(script,args=args,await_promise=True, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus_driver\core\tab.py", line 1026, in evaluate
+    raise JavascriptException(errors)
+botasaurus_driver.exceptions.JavascriptException: 
+exceptionId: 1
+text: Uncaught
+lineNumber: 8
+columnNumber: 16
+scriptId: 270
+exception: 
+	type: object
+	subtype: error
+	className: Error
+	description: Error: No se encontró la temporada 05/06
+    at <anonymous>:9:23
+    at <anonymous>:17:16
+    at <anonymous>:25:3
+	objectId: -1268490498399232119.1.2
+
+

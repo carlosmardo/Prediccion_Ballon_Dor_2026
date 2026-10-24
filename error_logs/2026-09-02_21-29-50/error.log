@@ -1,0 +1,51 @@
+Traceback (most recent call last):
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus\browser_decorator.py", line 199, in run_task
+    result = func(driver, data)
+             ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\carlo\Desktop\predecir-balon-de-oro\sofascore_player_stats.py", line 150, in scrape
+    season_data = driver.run_js("""
+                  ^^^^^^^^^^^^^^^^^
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus_driver\driver.py", line 746, in run_js
+    return self._tab.evaluate(script,args=args,await_promise=True, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus_driver\core\tab.py", line 1025, in evaluate
+    handle_exception(core, errors.exception)
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus_driver\exceptions.py", line 177, in handle_exception
+    raise SyntaxError(core)
+botasaurus_driver.exceptions.SyntaxError: Syntax Error in the following code:
+
+
+        return (() => {
+            const buttons = Array.from(document.querySelectorAll("button"));
+
+            const seasonButton = buttons.find(
+                el =>
+                    el.className &&
+                    el.className.includes("dropdown__button") &&
+                    el.innerText &&
+                    /^\\d{2}\\/\\d{2}$/.test(el.innerText.trim())
+            );
+
+            if (!seasonButton) {
+                return {
+                    error: "No se encontró el botón de temporadas",
+                    buttons: buttons.map(b => ({
+                        text: b.innerText,
+                        className: b.className
+                    }))
+                };
+            }
+
+            seasonButton.click();
+
+            const options = Array.from(
+                document.querySelectorAll('li[role="option"]')
+            );
+
+            return options.map(option => ({
+                text: option.innerText.trim(),
+                html: option.outerHTML
+            }));
+        })();
+    
+Please review the syntax and run again.

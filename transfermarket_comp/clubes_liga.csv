@@ -1,0 +1,5369 @@
+club_id,club,temporada,liga,posicion
+5,AC Milan,26/27,Serie A,4
+5,AC Milan,25/26,Serie A,5
+5,AC Milan,24/25,Serie A,8
+5,AC Milan,23/24,Serie A,2
+5,AC Milan,22/23,Serie A,4
+5,AC Milan,21/22,Serie A,1
+5,AC Milan,20/21,Serie A,2
+5,AC Milan,19/20,Serie A,6
+5,AC Milan,18/19,Serie A,5
+5,AC Milan,17/18,Serie A,6
+5,AC Milan,16/17,Serie A,6
+5,AC Milan,15/16,Serie A,7
+5,AC Milan,14/15,Serie A,10
+5,AC Milan,13/14,Serie A,8
+5,AC Milan,12/13,Serie A,3
+5,AC Milan,11/12,Serie A,2
+5,AC Milan,10/11,Serie A,1
+5,AC Milan,09/10,Serie A,3
+5,AC Milan,08/09,Serie A,3
+5,AC Milan,07/08,Serie A,5
+5,AC Milan,06/07,Serie A,4
+5,AC Milan,05/06,Serie A,3
+5,AC Milan,04/05,Serie A,2
+5,AC Milan,03/04,Serie A,1
+5,AC Milan,02/03,Serie A,3
+5,AC Milan,01/02,Serie A,4
+5,AC Milan,00/01,Serie A,6
+5,AC Milan,99/00,Serie A,3
+5,AC Milan,98/99,Serie A,1
+5,AC Milan,97/98,Serie A,10
+5,AC Milan,96/97,Serie A,11
+5,AC Milan,95/96,Serie A,1
+5,AC Milan,94/95,Serie A,4
+5,AC Milan,93/94,Serie A,1
+5,AC Milan,92/93,Serie A,1
+5,AC Milan,91/92,Serie A,1
+5,AC Milan,90/91,Serie A,2
+5,AC Milan,89/90,Serie A,2
+5,AC Milan,88/89,Serie A,3
+5,AC Milan,87/88,Serie A,1
+5,AC Milan,86/87,Serie A,6
+5,AC Milan,85/86,Serie A,7
+5,AC Milan,84/85,Serie A,5
+5,AC Milan,83/84,Serie A,6
+5,AC Milan,82/83,Serie A,1
+5,AC Milan,81/82,Serie A,14
+5,AC Milan,80/81,Serie A,1
+5,AC Milan,79/80,Serie A,15
+5,AC Milan,78/79,Serie A,1
+5,AC Milan,77/78,Serie A,4
+5,AC Milan,76/77,Serie A,12
+5,AC Milan,75/76,Serie A,3
+5,AC Milan,74/75,Serie A,5
+5,AC Milan,73/74,Serie A,9
+5,AC Milan,72/73,Serie A,2
+5,AC Milan,71/72,Serie A,2
+5,AC Milan,70/71,Serie A,2
+5,AC Milan,69/70,Serie A,4
+5,AC Milan,68/69,Serie A,3
+5,AC Milan,67/68,Serie A,1
+5,AC Milan,66/67,Serie A,8
+5,AC Milan,65/66,Serie A,7
+5,AC Milan,64/65,Serie A,2
+5,AC Milan,63/64,Serie A,3
+5,AC Milan,62/63,Serie A,3
+5,AC Milan,61/62,Serie A,1
+5,AC Milan,60/61,Serie A,2
+5,AC Milan,59/60,Serie A,3
+5,AC Milan,58/59,Serie A,1
+5,AC Milan,57/58,Serie A,11
+5,AC Milan,56/57,Serie A,1
+5,AC Milan,55/56,Serie A,2
+5,AC Milan,54/55,Serie A,1
+5,AC Milan,53/54,Serie A,3
+5,AC Milan,52/53,Serie A,3
+5,AC Milan,51/52,Serie A,2
+5,AC Milan,50/51,Serie A,1
+5,AC Milan,49/50,Serie A,2
+5,AC Milan,48/49,Serie A,3
+5,AC Milan,47/48,Serie A,3
+5,AC Milan,46/47,Serie A,4
+5,AC Milan,45/46,Serie A,4
+5,AC Milan,42/43,Serie A,8
+5,AC Milan,41/42,Serie A,10
+5,AC Milan,40/41,Serie A,3
+5,AC Milan,39/40,Serie A,8
+5,AC Milan,38/39,Serie A,9
+5,AC Milan,37/38,Serie A,3
+5,AC Milan,36/37,Serie A,4
+5,AC Milan,35/36,Serie A,9
+5,AC Milan,34/35,Serie A,12
+5,AC Milan,33/34,Serie A,9
+5,AC Milan,32/33,Serie A,11
+5,AC Milan,31/32,Serie A,5
+5,AC Milan,30/31,Serie A,12
+5,AC Milan,1929/30,Serie A,11
+5,AC Milan,1928/29,Serie A,2
+5,AC Milan,1927/28,Serie A,4
+5,AC Milan,1926/27,Serie A,1
+5,AC Milan,1925/26,Serie A,8
+5,AC Milan,1924/25,Serie A,8
+5,AC Milan,1923/24,Serie A,9
+5,AC Milan,1922/23,Serie A,11
+5,AC Milan,1921/22,Serie A,9
+610,Ajax,26/27,Eredivisie,6
+610,Ajax,25/26,Eredivisie,5
+610,Ajax,24/25,Eredivisie,2
+610,Ajax,23/24,Eredivisie,5
+610,Ajax,22/23,Eredivisie,3
+610,Ajax,21/22,Eredivisie,1
+610,Ajax,20/21,Eredivisie,1
+610,Ajax,19/20,Eredivisie,1
+610,Ajax,18/19,Eredivisie,1
+610,Ajax,17/18,Eredivisie,2
+610,Ajax,16/17,Eredivisie,2
+610,Ajax,15/16,Eredivisie,2
+610,Ajax,14/15,Eredivisie,2
+610,Ajax,13/14,Eredivisie,1
+610,Ajax,12/13,Eredivisie,1
+610,Ajax,11/12,Eredivisie,1
+610,Ajax,10/11,Eredivisie,1
+610,Ajax,09/10,Eredivisie,2
+610,Ajax,08/09,Eredivisie,3
+610,Ajax,07/08,Eredivisie,2
+610,Ajax,06/07,Eredivisie,2
+610,Ajax,05/06,Eredivisie,4
+610,Ajax,04/05,Eredivisie,2
+610,Ajax,03/04,Eredivisie,1
+610,Ajax,02/03,Eredivisie,2
+610,Ajax,01/02,Eredivisie,1
+610,Ajax,00/01,Eredivisie,3
+610,Ajax,99/00,Eredivisie,5
+610,Ajax,98/99,Eredivisie,6
+610,Ajax,97/98,Eredivisie,1
+610,Ajax,96/97,Eredivisie,4
+610,Ajax,95/96,Eredivisie,1
+610,Ajax,94/95,Eredivisie,1
+610,Ajax,93/94,Eredivisie,1
+610,Ajax,92/93,Eredivisie,3
+610,Ajax,91/92,Eredivisie,2
+610,Ajax,90/91,Eredivisie,2
+610,Ajax,89/90,Eredivisie,1
+610,Ajax,88/89,Eredivisie,2
+610,Ajax,87/88,Eredivisie,2
+610,Ajax,86/87,Eredivisie,2
+610,Ajax,85/86,Eredivisie,2
+610,Ajax,84/85,Eredivisie,1
+610,Ajax,83/84,Eredivisie,3
+610,Ajax,82/83,Eredivisie,1
+610,Ajax,81/82,Eredivisie,1
+610,Ajax,80/81,Eredivisie,2
+610,Ajax,79/80,Eredivisie,1
+610,Ajax,78/79,Eredivisie,1
+610,Ajax,77/78,Eredivisie,2
+610,Ajax,76/77,Eredivisie,1
+610,Ajax,75/76,Eredivisie,3
+610,Ajax,74/75,Eredivisie,3
+610,Ajax,73/74,Eredivisie,3
+610,Ajax,72/73,Eredivisie,1
+610,Ajax,71/72,Eredivisie,1
+610,Ajax,70/71,Eredivisie,2
+610,Ajax,69/70,Eredivisie,1
+610,Ajax,68/69,Eredivisie,2
+610,Ajax,67/68,Eredivisie,1
+610,Ajax,66/67,Eredivisie,1
+610,Ajax,65/66,Eredivisie,1
+610,Ajax,64/65,Eredivisie,13
+610,Ajax,63/64,Eredivisie,5
+610,Ajax,62/63,Eredivisie,2
+610,Ajax,61/62,Eredivisie,4
+610,Ajax,60/61,Eredivisie,2
+610,Ajax,59/60,Eredivisie,1
+610,Ajax,58/59,Eredivisie,6
+610,Ajax,57/58,Eredivisie,3
+610,Ajax,56/57,Eredivisie,1
+610,Ajax,55/56,Eredivisie,4
+610,Ajax,54/55,Eredivisie,3
+610,Ajax,53/54,Eredivisie,2
+610,Ajax,52/53,Eredivisie,3
+610,Ajax,51/52,Eredivisie,1
+610,Ajax,50/51,Eredivisie,8
+610,Ajax,49/50,Eredivisie,1
+610,Ajax,47/48,Eredivisie,3
+610,Ajax,46/47,Eredivisie,1
+610,Ajax,43/44,Eredivisie,2
+610,Ajax,42/43,Eredivisie,6
+610,Ajax,41/42,Eredivisie,6
+610,Ajax,37/38,Eredivisie,2
+610,Ajax,36/37,Eredivisie,1
+610,Ajax,35/36,Eredivisie,1
+610,Ajax,34/35,Eredivisie,1
+610,Ajax,33/34,Eredivisie,1
+610,Ajax,32/33,Eredivisie,2
+610,Ajax,30/31,Eredivisie,1
+610,Ajax,1927/28,Eredivisie,1
+610,Ajax,1921/22,Eredivisie,3
+610,Ajax,1919/20,Eredivisie,5
+610,Ajax,1917/18,Eredivisie,1
+610,Ajax,1912/13,Eredivisie,9
+610,Ajax,1911/12,Eredivisie,8
+6297,Al-Gharafa,26/27,Qatar Stars League,9
+6297,Al-Gharafa,25/26,Qatar Stars League,4
+6297,Al-Gharafa,24/25,Qatar Stars League,3
+6297,Al-Gharafa,23/24,Qatar Stars League,3
+6297,Al-Gharafa,22/23,Qatar Stars League,6
+6297,Al-Gharafa,21/22,Qatar Stars League,5
+6297,Al-Gharafa,20/21,Qatar Stars League,4
+6297,Al-Gharafa,19/20,Qatar Stars League,4
+6297,Al-Gharafa,18/19,Qatar Stars League,8
+6297,Al-Gharafa,17/18,Qatar Stars League,5
+6297,Al-Gharafa,16/17,Qatar Stars League,5
+6297,Al-Gharafa,15/16,Qatar Stars League,9
+6297,Al-Gharafa,14/15,Qatar Stars League,7
+8023,Al-Ittihad,26/27,Saudi Pro League,4
+8023,Al-Ittihad,25/26,Saudi Pro League,5
+8023,Al-Ittihad,24/25,Saudi Pro League,1
+8023,Al-Ittihad,23/24,Saudi Pro League,5
+8023,Al-Ittihad,22/23,Saudi Pro League,1
+8023,Al-Ittihad,21/22,Saudi Pro League,2
+8023,Al-Ittihad,20/21,Saudi Pro League,3
+8023,Al-Ittihad,19/20,Saudi Pro League,11
+8023,Al-Ittihad,18/19,Saudi Pro League,10
+8023,Al-Ittihad,17/18,Saudi Pro League,9
+8023,Al-Ittihad,16/17,Saudi Pro League,4
+8023,Al-Ittihad,15/16,Saudi Pro League,3
+8023,Al-Ittihad,14/15,Saudi Pro League,4
+8023,Al-Ittihad,13/14,Saudi Pro League,6
+8023,Al-Ittihad,12/13,Saudi Pro League,7
+8023,Al-Ittihad,11/12,Saudi Pro League,5
+8023,Al-Ittihad,10/11,Saudi Pro League,2
+8023,Al-Ittihad,09/10,Saudi Pro League,2
+8023,Al-Ittihad,08/09,Saudi Pro League,1
+8023,Al-Ittihad,07/08,Saudi Pro League,2
+8023,Al-Ittihad,06/07,Saudi Pro League,3
+8023,Al-Ittihad,05/06,Saudi Pro League,3
+8023,Al-Ittihad,04/05,Saudi Pro League,3
+8023,Al-Ittihad,03/04,Saudi Pro League,1
+8023,Al-Ittihad,02/03,Saudi Pro League,1
+8023,Al-Ittihad,01/02,Saudi Pro League,2
+8023,Al-Ittihad,00/01,Saudi Pro League,4
+8023,Al-Ittihad,99/00,Saudi Pro League,1
+8023,Al-Ittihad,98/99,Saudi Pro League,2
+8023,Al-Ittihad,97/98,Saudi Pro League,7
+8023,Al-Ittihad,96/97,Saudi Pro League,1
+8023,Al-Ittihad,95/96,Saudi Pro League,1
+8023,Al-Ittihad,83/84,Saudi Pro League,2
+8023,Al-Ittihad,82/83,Saudi Pro League,6
+8023,Al-Ittihad,81/82,Saudi Pro League,1
+8023,Al-Ittihad,80/81,Saudi Pro League,6
+8023,Al-Ittihad,77/78,Saudi Pro League,4
+8023,Al-Ittihad,76/77,Saudi Pro League,4
+8023,Al-Ittihad,74/75,Saudi Pro League,2
+11,Arsenal,26/27,Premier League,2
+11,Arsenal,25/26,Premier League,1
+11,Arsenal,24/25,Premier League,2
+11,Arsenal,23/24,Premier League,2
+11,Arsenal,22/23,Premier League,2
+11,Arsenal,21/22,Premier League,5
+11,Arsenal,20/21,Premier League,8
+11,Arsenal,19/20,Premier League,8
+11,Arsenal,18/19,Premier League,5
+11,Arsenal,17/18,Premier League,6
+11,Arsenal,16/17,Premier League,5
+11,Arsenal,15/16,Premier League,2
+11,Arsenal,14/15,Premier League,3
+11,Arsenal,13/14,Premier League,4
+11,Arsenal,12/13,Premier League,4
+11,Arsenal,11/12,Premier League,3
+11,Arsenal,10/11,Premier League,4
+11,Arsenal,09/10,Premier League,3
+11,Arsenal,08/09,Premier League,4
+11,Arsenal,07/08,Premier League,3
+11,Arsenal,06/07,Premier League,4
+11,Arsenal,05/06,Premier League,4
+11,Arsenal,04/05,Premier League,2
+11,Arsenal,03/04,Premier League,1
+11,Arsenal,02/03,Premier League,2
+11,Arsenal,01/02,Premier League,1
+11,Arsenal,00/01,Premier League,2
+11,Arsenal,99/00,Premier League,2
+11,Arsenal,98/99,Premier League,2
+11,Arsenal,97/98,Premier League,1
+11,Arsenal,96/97,Premier League,3
+11,Arsenal,95/96,Premier League,5
+11,Arsenal,94/95,Premier League,12
+11,Arsenal,93/94,Premier League,4
+11,Arsenal,92/93,Premier League,10
+11,Arsenal,91/92,Premier League,4
+11,Arsenal,90/91,Premier League,1
+11,Arsenal,89/90,Premier League,4
+11,Arsenal,88/89,Premier League,1
+11,Arsenal,87/88,Premier League,6
+11,Arsenal,86/87,Premier League,4
+11,Arsenal,85/86,Premier League,7
+11,Arsenal,84/85,Premier League,7
+11,Arsenal,83/84,Premier League,6
+11,Arsenal,82/83,Premier League,10
+11,Arsenal,81/82,Premier League,5
+11,Arsenal,80/81,Premier League,3
+11,Arsenal,79/80,Premier League,4
+11,Arsenal,78/79,Premier League,7
+11,Arsenal,77/78,Premier League,5
+11,Arsenal,76/77,Premier League,8
+11,Arsenal,75/76,Premier League,17
+11,Arsenal,74/75,Premier League,16
+11,Arsenal,73/74,Premier League,10
+11,Arsenal,72/73,Premier League,2
+11,Arsenal,71/72,Premier League,5
+11,Arsenal,70/71,Premier League,1
+11,Arsenal,69/70,Premier League,12
+11,Arsenal,68/69,Premier League,4
+11,Arsenal,67/68,Premier League,9
+11,Arsenal,66/67,Premier League,7
+11,Arsenal,65/66,Premier League,14
+11,Arsenal,64/65,Premier League,13
+11,Arsenal,63/64,Premier League,8
+11,Arsenal,62/63,Premier League,7
+11,Arsenal,61/62,Premier League,9
+11,Arsenal,60/61,Premier League,11
+11,Arsenal,59/60,Premier League,13
+11,Arsenal,58/59,Premier League,3
+11,Arsenal,57/58,Premier League,14
+11,Arsenal,56/57,Premier League,5
+11,Arsenal,55/56,Premier League,5
+11,Arsenal,54/55,Premier League,9
+11,Arsenal,53/54,Premier League,12
+11,Arsenal,52/53,Premier League,1
+11,Arsenal,51/52,Premier League,2
+11,Arsenal,50/51,Premier League,5
+11,Arsenal,49/50,Premier League,6
+11,Arsenal,48/49,Premier League,5
+11,Arsenal,47/48,Premier League,1
+11,Arsenal,46/47,Premier League,13
+11,Arsenal,39/40,Premier League,2
+11,Arsenal,38/39,Premier League,5
+11,Arsenal,37/38,Premier League,1
+11,Arsenal,36/37,Premier League,3
+11,Arsenal,35/36,Premier League,6
+11,Arsenal,34/35,Premier League,1
+11,Arsenal,33/34,Premier League,1
+11,Arsenal,32/33,Premier League,1
+11,Arsenal,31/32,Premier League,2
+11,Arsenal,30/31,Premier League,1
+11,Arsenal,1929/30,Premier League,14
+11,Arsenal,1928/29,Premier League,9
+11,Arsenal,1927/28,Premier League,10
+11,Arsenal,1926/27,Premier League,11
+11,Arsenal,1925/26,Premier League,2
+11,Arsenal,1924/25,Premier League,16
+11,Arsenal,1923/24,Premier League,19
+11,Arsenal,1922/23,Premier League,12
+11,Arsenal,1921/22,Premier League,15
+11,Arsenal,1920/21,Premier League,10
+11,Arsenal,1919/20,Premier League,10
+11,Arsenal,1912/13,Premier League,20
+11,Arsenal,1911/12,Premier League,10
+11,Arsenal,1910/11,Premier League,12
+11,Arsenal,1909/10,Premier League,18
+11,Arsenal,1908/09,Premier League,6
+11,Arsenal,1907/08,Premier League,16
+11,Arsenal,1906/07,Premier League,4
+11,Arsenal,1905/06,Premier League,12
+11,Arsenal,1904/05,Premier League,10
+11,Arsenal,1896/97,Premier League,4
+12,AS Roma,26/27,Serie A,1
+12,AS Roma,25/26,Serie A,3
+12,AS Roma,24/25,Serie A,5
+12,AS Roma,23/24,Serie A,6
+12,AS Roma,22/23,Serie A,6
+12,AS Roma,21/22,Serie A,6
+12,AS Roma,20/21,Serie A,7
+12,AS Roma,19/20,Serie A,5
+12,AS Roma,18/19,Serie A,6
+12,AS Roma,17/18,Serie A,3
+12,AS Roma,16/17,Serie A,2
+12,AS Roma,15/16,Serie A,3
+12,AS Roma,14/15,Serie A,2
+12,AS Roma,13/14,Serie A,2
+12,AS Roma,12/13,Serie A,6
+12,AS Roma,11/12,Serie A,7
+12,AS Roma,10/11,Serie A,6
+12,AS Roma,09/10,Serie A,2
+12,AS Roma,08/09,Serie A,6
+12,AS Roma,07/08,Serie A,2
+12,AS Roma,06/07,Serie A,2
+12,AS Roma,05/06,Serie A,2
+12,AS Roma,04/05,Serie A,8
+12,AS Roma,03/04,Serie A,2
+12,AS Roma,02/03,Serie A,8
+12,AS Roma,01/02,Serie A,2
+12,AS Roma,00/01,Serie A,1
+12,AS Roma,99/00,Serie A,6
+12,AS Roma,98/99,Serie A,5
+12,AS Roma,97/98,Serie A,4
+12,AS Roma,96/97,Serie A,12
+12,AS Roma,95/96,Serie A,5
+12,AS Roma,94/95,Serie A,5
+12,AS Roma,93/94,Serie A,7
+12,AS Roma,92/93,Serie A,10
+12,AS Roma,91/92,Serie A,5
+12,AS Roma,90/91,Serie A,9
+12,AS Roma,89/90,Serie A,6
+12,AS Roma,88/89,Serie A,7
+12,AS Roma,87/88,Serie A,3
+12,AS Roma,86/87,Serie A,7
+12,AS Roma,85/86,Serie A,2
+12,AS Roma,84/85,Serie A,7
+12,AS Roma,83/84,Serie A,2
+12,AS Roma,82/83,Serie A,1
+12,AS Roma,81/82,Serie A,3
+12,AS Roma,80/81,Serie A,2
+12,AS Roma,79/80,Serie A,6
+12,AS Roma,78/79,Serie A,10
+12,AS Roma,77/78,Serie A,8
+12,AS Roma,76/77,Serie A,9
+12,AS Roma,75/76,Serie A,10
+12,AS Roma,74/75,Serie A,3
+12,AS Roma,73/74,Serie A,7
+12,AS Roma,72/73,Serie A,11
+12,AS Roma,71/72,Serie A,7
+12,AS Roma,70/71,Serie A,6
+12,AS Roma,69/70,Serie A,11
+12,AS Roma,68/69,Serie A,8
+12,AS Roma,67/68,Serie A,11
+12,AS Roma,66/67,Serie A,10
+12,AS Roma,65/66,Serie A,8
+12,AS Roma,64/65,Serie A,9
+12,AS Roma,63/64,Serie A,12
+12,AS Roma,62/63,Serie A,5
+12,AS Roma,61/62,Serie A,5
+12,AS Roma,60/61,Serie A,5
+12,AS Roma,59/60,Serie A,9
+12,AS Roma,58/59,Serie A,6
+12,AS Roma,57/58,Serie A,5
+12,AS Roma,56/57,Serie A,14
+12,AS Roma,55/56,Serie A,7
+12,AS Roma,54/55,Serie A,3
+12,AS Roma,53/54,Serie A,6
+12,AS Roma,52/53,Serie A,6
+12,AS Roma,51/52,Serie A,1
+12,AS Roma,50/51,Serie A,19
+12,AS Roma,49/50,Serie A,17
+12,AS Roma,48/49,Serie A,14
+12,AS Roma,47/48,Serie A,18
+12,AS Roma,46/47,Serie A,16
+12,AS Roma,42/43,Serie A,11
+12,AS Roma,41/42,Serie A,1
+12,AS Roma,40/41,Serie A,10
+12,AS Roma,39/40,Serie A,7
+12,AS Roma,38/39,Serie A,7
+12,AS Roma,37/38,Serie A,6
+12,AS Roma,36/37,Serie A,10
+12,AS Roma,35/36,Serie A,2
+12,AS Roma,34/35,Serie A,4
+12,AS Roma,33/34,Serie A,5
+12,AS Roma,32/33,Serie A,5
+12,AS Roma,31/32,Serie A,3
+12,AS Roma,30/31,Serie A,2
+12,AS Roma,1929/30,Serie A,8
+12,AS Roma,1928/29,Serie A,3
+12,AS Roma,1927/28,Serie A,7
+800,Atalanta,26/27,Serie A,8
+800,Atalanta,25/26,Serie A,7
+800,Atalanta,24/25,Serie A,3
+800,Atalanta,23/24,Serie A,4
+800,Atalanta,22/23,Serie A,5
+800,Atalanta,21/22,Serie A,8
+800,Atalanta,20/21,Serie A,3
+800,Atalanta,19/20,Serie A,3
+800,Atalanta,18/19,Serie A,3
+800,Atalanta,17/18,Serie A,7
+800,Atalanta,16/17,Serie A,4
+800,Atalanta,15/16,Serie A,13
+800,Atalanta,14/15,Serie A,17
+800,Atalanta,13/14,Serie A,11
+800,Atalanta,12/13,Serie A,15
+800,Atalanta,11/12,Serie A,12
+800,Atalanta,10/11,Serie A,1
+800,Atalanta,09/10,Serie A,18
+800,Atalanta,08/09,Serie A,11
+800,Atalanta,07/08,Serie A,9
+800,Atalanta,06/07,Serie A,8
+800,Atalanta,05/06,Serie A,1
+800,Atalanta,04/05,Serie A,20
+800,Atalanta,03/04,Serie A,5
+800,Atalanta,02/03,Serie A,14
+800,Atalanta,01/02,Serie A,9
+800,Atalanta,00/01,Serie A,7
+800,Atalanta,99/00,Serie A,3
+800,Atalanta,98/99,Serie A,6
+800,Atalanta,97/98,Serie A,16
+800,Atalanta,96/97,Serie A,10
+800,Atalanta,95/96,Serie A,13
+800,Atalanta,94/95,Serie A,4
+800,Atalanta,93/94,Serie A,17
+800,Atalanta,92/93,Serie A,8
+800,Atalanta,91/92,Serie A,10
+800,Atalanta,90/91,Serie A,10
+800,Atalanta,89/90,Serie A,7
+800,Atalanta,88/89,Serie A,6
+800,Atalanta,87/88,Serie A,4
+800,Atalanta,86/87,Serie A,15
+800,Atalanta,85/86,Serie A,8
+800,Atalanta,84/85,Serie A,10
+800,Atalanta,83/84,Serie A,1
+800,Atalanta,82/83,Serie A,9
+800,Atalanta,81/82,Serie A,1
+800,Atalanta,80/81,Serie A,18
+800,Atalanta,79/80,Serie A,10
+800,Atalanta,78/79,Serie A,14
+800,Atalanta,77/78,Serie A,9
+800,Atalanta,76/77,Serie A,2
+800,Atalanta,75/76,Serie A,10
+800,Atalanta,74/75,Serie A,6
+800,Atalanta,73/74,Serie A,11
+800,Atalanta,72/73,Serie A,14
+800,Atalanta,71/72,Serie A,10
+800,Atalanta,70/71,Serie A,4
+800,Atalanta,69/70,Serie A,16
+800,Atalanta,68/69,Serie A,16
+800,Atalanta,67/68,Serie A,13
+800,Atalanta,66/67,Serie A,11
+800,Atalanta,65/66,Serie A,14
+800,Atalanta,64/65,Serie A,11
+800,Atalanta,63/64,Serie A,11
+800,Atalanta,62/63,Serie A,8
+800,Atalanta,61/62,Serie A,6
+800,Atalanta,60/61,Serie A,11
+800,Atalanta,59/60,Serie A,11
+800,Atalanta,58/59,Serie A,1
+800,Atalanta,57/58,Serie A,17
+800,Atalanta,56/57,Serie A,15
+800,Atalanta,55/56,Serie A,15
+800,Atalanta,54/55,Serie A,15
+800,Atalanta,53/54,Serie A,10
+800,Atalanta,52/53,Serie A,9
+800,Atalanta,51/52,Serie A,12
+800,Atalanta,50/51,Serie A,14
+800,Atalanta,49/50,Serie A,8
+800,Atalanta,48/49,Serie A,15
+800,Atalanta,47/48,Serie A,6
+800,Atalanta,46/47,Serie A,9
+800,Atalanta,45/46,Serie A,10
+800,Atalanta,42/43,Serie A,10
+800,Atalanta,41/42,Serie A,13
+800,Atalanta,40/41,Serie A,6
+800,Atalanta,39/40,Serie A,1
+800,Atalanta,38/39,Serie A,3
+800,Atalanta,37/38,Serie A,15
+800,Atalanta,36/37,Serie A,2
+800,Atalanta,35/36,Serie A,10
+800,Atalanta,34/35,Serie A,7
+800,Atalanta,33/34,Serie A,5
+800,Atalanta,32/33,Serie A,16
+800,Atalanta,31/32,Serie A,4
+800,Atalanta,30/31,Serie A,6
+800,Atalanta,1929/30,Serie A,8
+800,Atalanta,1928/29,Serie A,15
+621,Athletic Bilbao,26/27,LaLiga,9
+621,Athletic Bilbao,25/26,LaLiga,12
+621,Athletic Bilbao,24/25,LaLiga,4
+621,Athletic Bilbao,23/24,LaLiga,5
+621,Athletic Bilbao,22/23,LaLiga,8
+621,Athletic Bilbao,21/22,LaLiga,8
+621,Athletic Bilbao,20/21,LaLiga,9
+621,Athletic Bilbao,19/20,LaLiga,11
+621,Athletic Bilbao,18/19,LaLiga,8
+621,Athletic Bilbao,17/18,LaLiga,16
+621,Athletic Bilbao,16/17,LaLiga,7
+621,Athletic Bilbao,15/16,LaLiga,5
+621,Athletic Bilbao,14/15,LaLiga,7
+621,Athletic Bilbao,13/14,LaLiga,4
+621,Athletic Bilbao,12/13,LaLiga,12
+621,Athletic Bilbao,11/12,LaLiga,10
+621,Athletic Bilbao,10/11,LaLiga,6
+621,Athletic Bilbao,09/10,LaLiga,8
+621,Athletic Bilbao,08/09,LaLiga,13
+621,Athletic Bilbao,07/08,LaLiga,11
+621,Athletic Bilbao,06/07,LaLiga,17
+621,Athletic Bilbao,05/06,LaLiga,12
+621,Athletic Bilbao,04/05,LaLiga,9
+621,Athletic Bilbao,03/04,LaLiga,5
+621,Athletic Bilbao,02/03,LaLiga,7
+621,Athletic Bilbao,01/02,LaLiga,9
+621,Athletic Bilbao,00/01,LaLiga,12
+621,Athletic Bilbao,99/00,LaLiga,11
+621,Athletic Bilbao,98/99,LaLiga,8
+621,Athletic Bilbao,97/98,LaLiga,2
+621,Athletic Bilbao,96/97,LaLiga,6
+621,Athletic Bilbao,95/96,LaLiga,14
+621,Athletic Bilbao,94/95,LaLiga,8
+621,Athletic Bilbao,93/94,LaLiga,5
+621,Athletic Bilbao,92/93,LaLiga,8
+621,Athletic Bilbao,91/92,LaLiga,14
+621,Athletic Bilbao,90/91,LaLiga,12
+621,Athletic Bilbao,89/90,LaLiga,12
+621,Athletic Bilbao,88/89,LaLiga,7
+621,Athletic Bilbao,87/88,LaLiga,4
+621,Athletic Bilbao,86/87,LaLiga,9
+621,Athletic Bilbao,85/86,LaLiga,3
+621,Athletic Bilbao,84/85,LaLiga,3
+621,Athletic Bilbao,83/84,LaLiga,1
+621,Athletic Bilbao,82/83,LaLiga,1
+621,Athletic Bilbao,81/82,LaLiga,4
+621,Athletic Bilbao,80/81,LaLiga,9
+621,Athletic Bilbao,79/80,LaLiga,7
+621,Athletic Bilbao,78/79,LaLiga,9
+621,Athletic Bilbao,77/78,LaLiga,3
+621,Athletic Bilbao,76/77,LaLiga,3
+621,Athletic Bilbao,75/76,LaLiga,5
+621,Athletic Bilbao,74/75,LaLiga,10
+621,Athletic Bilbao,73/74,LaLiga,5
+621,Athletic Bilbao,72/73,LaLiga,9
+621,Athletic Bilbao,71/72,LaLiga,9
+621,Athletic Bilbao,70/71,LaLiga,6
+621,Athletic Bilbao,69/70,LaLiga,2
+621,Athletic Bilbao,68/69,LaLiga,9
+621,Athletic Bilbao,67/68,LaLiga,7
+621,Athletic Bilbao,66/67,LaLiga,7
+621,Athletic Bilbao,65/66,LaLiga,5
+621,Athletic Bilbao,64/65,LaLiga,8
+621,Athletic Bilbao,63/64,LaLiga,7
+621,Athletic Bilbao,62/63,LaLiga,10
+621,Athletic Bilbao,61/62,LaLiga,5
+621,Athletic Bilbao,60/61,LaLiga,7
+621,Athletic Bilbao,59/60,LaLiga,3
+621,Athletic Bilbao,58/59,LaLiga,3
+621,Athletic Bilbao,57/58,LaLiga,6
+621,Athletic Bilbao,56/57,LaLiga,4
+621,Athletic Bilbao,55/56,LaLiga,1
+621,Athletic Bilbao,54/55,LaLiga,3
+621,Athletic Bilbao,53/54,LaLiga,6
+621,Athletic Bilbao,52/53,LaLiga,6
+621,Athletic Bilbao,51/52,LaLiga,2
+621,Athletic Bilbao,50/51,LaLiga,7
+621,Athletic Bilbao,49/50,LaLiga,6
+621,Athletic Bilbao,48/49,LaLiga,6
+621,Athletic Bilbao,47/48,LaLiga,6
+621,Athletic Bilbao,46/47,LaLiga,2
+621,Athletic Bilbao,45/46,LaLiga,3
+621,Athletic Bilbao,44/45,LaLiga,6
+621,Athletic Bilbao,43/44,LaLiga,9
+621,Athletic Bilbao,42/43,LaLiga,1
+621,Athletic Bilbao,41/42,LaLiga,7
+621,Athletic Bilbao,40/41,LaLiga,2
+621,Athletic Bilbao,39/40,LaLiga,3
+621,Athletic Bilbao,35/36,LaLiga,1
+621,Athletic Bilbao,34/35,LaLiga,4
+621,Athletic Bilbao,33/34,LaLiga,1
+621,Athletic Bilbao,32/33,LaLiga,2
+621,Athletic Bilbao,31/32,LaLiga,2
+621,Athletic Bilbao,30/31,LaLiga,1
+621,Athletic Bilbao,1929/30,LaLiga,1
+621,Athletic Bilbao,1928/29,LaLiga,3
+13,Atletico Madrid,26/27,LaLiga,6
+13,Atletico Madrid,25/26,LaLiga,4
+13,Atletico Madrid,24/25,LaLiga,3
+13,Atletico Madrid,23/24,LaLiga,4
+13,Atletico Madrid,22/23,LaLiga,3
+13,Atletico Madrid,21/22,LaLiga,3
+13,Atletico Madrid,20/21,LaLiga,1
+13,Atletico Madrid,19/20,LaLiga,3
+13,Atletico Madrid,18/19,LaLiga,2
+13,Atletico Madrid,17/18,LaLiga,2
+13,Atletico Madrid,16/17,LaLiga,3
+13,Atletico Madrid,15/16,LaLiga,3
+13,Atletico Madrid,14/15,LaLiga,3
+13,Atletico Madrid,13/14,LaLiga,1
+13,Atletico Madrid,12/13,LaLiga,3
+13,Atletico Madrid,11/12,LaLiga,5
+13,Atletico Madrid,10/11,LaLiga,7
+13,Atletico Madrid,09/10,LaLiga,9
+13,Atletico Madrid,08/09,LaLiga,4
+13,Atletico Madrid,07/08,LaLiga,4
+13,Atletico Madrid,06/07,LaLiga,7
+13,Atletico Madrid,05/06,LaLiga,10
+13,Atletico Madrid,04/05,LaLiga,11
+13,Atletico Madrid,03/04,LaLiga,7
+13,Atletico Madrid,02/03,LaLiga,12
+13,Atletico Madrid,01/02,LaLiga,1
+13,Atletico Madrid,00/01,LaLiga,4
+13,Atletico Madrid,99/00,LaLiga,19
+13,Atletico Madrid,98/99,LaLiga,13
+13,Atletico Madrid,97/98,LaLiga,7
+13,Atletico Madrid,96/97,LaLiga,5
+13,Atletico Madrid,95/96,LaLiga,1
+13,Atletico Madrid,94/95,LaLiga,14
+13,Atletico Madrid,93/94,LaLiga,12
+13,Atletico Madrid,92/93,LaLiga,6
+13,Atletico Madrid,91/92,LaLiga,3
+13,Atletico Madrid,90/91,LaLiga,2
+13,Atletico Madrid,89/90,LaLiga,4
+13,Atletico Madrid,88/89,LaLiga,4
+13,Atletico Madrid,87/88,LaLiga,3
+13,Atletico Madrid,86/87,LaLiga,4
+13,Atletico Madrid,85/86,LaLiga,5
+13,Atletico Madrid,84/85,LaLiga,2
+13,Atletico Madrid,83/84,LaLiga,4
+13,Atletico Madrid,82/83,LaLiga,3
+13,Atletico Madrid,81/82,LaLiga,8
+13,Atletico Madrid,80/81,LaLiga,3
+13,Atletico Madrid,79/80,LaLiga,13
+13,Atletico Madrid,78/79,LaLiga,3
+13,Atletico Madrid,77/78,LaLiga,6
+13,Atletico Madrid,76/77,LaLiga,1
+13,Atletico Madrid,75/76,LaLiga,3
+13,Atletico Madrid,74/75,LaLiga,6
+13,Atletico Madrid,73/74,LaLiga,2
+13,Atletico Madrid,72/73,LaLiga,1
+13,Atletico Madrid,71/72,LaLiga,4
+13,Atletico Madrid,70/71,LaLiga,3
+13,Atletico Madrid,69/70,LaLiga,1
+13,Atletico Madrid,68/69,LaLiga,6
+13,Atletico Madrid,67/68,LaLiga,6
+13,Atletico Madrid,66/67,LaLiga,4
+13,Atletico Madrid,65/66,LaLiga,1
+13,Atletico Madrid,64/65,LaLiga,2
+13,Atletico Madrid,63/64,LaLiga,8
+13,Atletico Madrid,62/63,LaLiga,2
+13,Atletico Madrid,61/62,LaLiga,3
+13,Atletico Madrid,60/61,LaLiga,2
+13,Atletico Madrid,59/60,LaLiga,5
+13,Atletico Madrid,58/59,LaLiga,5
+13,Atletico Madrid,57/58,LaLiga,2
+13,Atletico Madrid,56/57,LaLiga,5
+13,Atletico Madrid,55/56,LaLiga,5
+13,Atletico Madrid,54/55,LaLiga,8
+13,Atletico Madrid,53/54,LaLiga,11
+13,Atletico Madrid,52/53,LaLiga,7
+13,Atletico Madrid,51/52,LaLiga,4
+13,Atletico Madrid,50/51,LaLiga,1
+13,Atletico Madrid,49/50,LaLiga,1
+13,Atletico Madrid,48/49,LaLiga,4
+13,Atletico Madrid,47/48,LaLiga,3
+13,Atletico Madrid,46/47,LaLiga,3
+13,Atletico Madrid,45/46,LaLiga,7
+13,Atletico Madrid,44/45,LaLiga,3
+13,Atletico Madrid,43/44,LaLiga,2
+13,Atletico Madrid,42/43,LaLiga,8
+13,Atletico Madrid,41/42,LaLiga,3
+13,Atletico Madrid,40/41,LaLiga,1
+13,Atletico Madrid,39/40,LaLiga,1
+13,Atletico Madrid,35/36,LaLiga,11
+13,Atletico Madrid,34/35,LaLiga,7
+13,Atletico Madrid,33/34,LaLiga,2
+13,Atletico Madrid,32/33,LaLiga,2
+13,Atletico Madrid,31/32,LaLiga,4
+13,Atletico Madrid,30/31,LaLiga,3
+13,Atletico Madrid,1929/30,LaLiga,10
+13,Atletico Madrid,1928/29,LaLiga,6
+131,Barcelona,26/27,LaLiga,1
+131,Barcelona,25/26,LaLiga,1
+131,Barcelona,24/25,LaLiga,1
+131,Barcelona,23/24,LaLiga,2
+131,Barcelona,22/23,LaLiga,1
+131,Barcelona,21/22,LaLiga,2
+131,Barcelona,20/21,LaLiga,3
+131,Barcelona,19/20,LaLiga,2
+131,Barcelona,18/19,LaLiga,1
+131,Barcelona,17/18,LaLiga,1
+131,Barcelona,16/17,LaLiga,2
+131,Barcelona,15/16,LaLiga,1
+131,Barcelona,14/15,LaLiga,1
+131,Barcelona,13/14,LaLiga,2
+131,Barcelona,12/13,LaLiga,1
+131,Barcelona,11/12,LaLiga,2
+131,Barcelona,10/11,LaLiga,1
+131,Barcelona,09/10,LaLiga,1
+131,Barcelona,08/09,LaLiga,1
+131,Barcelona,07/08,LaLiga,3
+131,Barcelona,06/07,LaLiga,2
+131,Barcelona,05/06,LaLiga,1
+131,Barcelona,04/05,LaLiga,1
+131,Barcelona,03/04,LaLiga,2
+131,Barcelona,02/03,LaLiga,6
+131,Barcelona,01/02,LaLiga,4
+131,Barcelona,00/01,LaLiga,4
+131,Barcelona,99/00,LaLiga,2
+131,Barcelona,98/99,LaLiga,1
+131,Barcelona,97/98,LaLiga,1
+131,Barcelona,96/97,LaLiga,2
+131,Barcelona,95/96,LaLiga,3
+131,Barcelona,94/95,LaLiga,4
+131,Barcelona,93/94,LaLiga,1
+131,Barcelona,92/93,LaLiga,1
+131,Barcelona,91/92,LaLiga,1
+131,Barcelona,90/91,LaLiga,1
+131,Barcelona,89/90,LaLiga,3
+131,Barcelona,88/89,LaLiga,2
+131,Barcelona,87/88,LaLiga,6
+131,Barcelona,86/87,LaLiga,2
+131,Barcelona,85/86,LaLiga,2
+131,Barcelona,84/85,LaLiga,1
+131,Barcelona,83/84,LaLiga,3
+131,Barcelona,82/83,LaLiga,4
+131,Barcelona,81/82,LaLiga,2
+131,Barcelona,80/81,LaLiga,5
+131,Barcelona,79/80,LaLiga,4
+131,Barcelona,78/79,LaLiga,5
+131,Barcelona,77/78,LaLiga,2
+131,Barcelona,76/77,LaLiga,2
+131,Barcelona,75/76,LaLiga,2
+131,Barcelona,74/75,LaLiga,3
+131,Barcelona,73/74,LaLiga,1
+131,Barcelona,72/73,LaLiga,2
+131,Barcelona,71/72,LaLiga,3
+131,Barcelona,70/71,LaLiga,2
+131,Barcelona,69/70,LaLiga,4
+131,Barcelona,68/69,LaLiga,3
+131,Barcelona,67/68,LaLiga,2
+131,Barcelona,66/67,LaLiga,2
+131,Barcelona,65/66,LaLiga,3
+131,Barcelona,64/65,LaLiga,6
+131,Barcelona,63/64,LaLiga,2
+131,Barcelona,62/63,LaLiga,6
+131,Barcelona,61/62,LaLiga,2
+131,Barcelona,60/61,LaLiga,4
+131,Barcelona,59/60,LaLiga,1
+131,Barcelona,58/59,LaLiga,1
+131,Barcelona,57/58,LaLiga,3
+131,Barcelona,56/57,LaLiga,3
+131,Barcelona,55/56,LaLiga,2
+131,Barcelona,54/55,LaLiga,2
+131,Barcelona,53/54,LaLiga,2
+131,Barcelona,52/53,LaLiga,1
+131,Barcelona,51/52,LaLiga,1
+131,Barcelona,50/51,LaLiga,4
+131,Barcelona,49/50,LaLiga,5
+131,Barcelona,48/49,LaLiga,1
+131,Barcelona,47/48,LaLiga,1
+131,Barcelona,46/47,LaLiga,4
+131,Barcelona,45/46,LaLiga,2
+131,Barcelona,44/45,LaLiga,1
+131,Barcelona,43/44,LaLiga,6
+131,Barcelona,42/43,LaLiga,3
+131,Barcelona,41/42,LaLiga,12
+131,Barcelona,40/41,LaLiga,3
+131,Barcelona,39/40,LaLiga,10
+131,Barcelona,35/36,LaLiga,5
+131,Barcelona,34/35,LaLiga,6
+131,Barcelona,33/34,LaLiga,9
+131,Barcelona,32/33,LaLiga,4
+131,Barcelona,31/32,LaLiga,3
+131,Barcelona,30/31,LaLiga,4
+131,Barcelona,1929/30,LaLiga,2
+131,Barcelona,1928/29,LaLiga,1
+15,Bayer Leverkusen,26/27,Bundesliga,7
+15,Bayer Leverkusen,25/26,Bundesliga,6
+15,Bayer Leverkusen,24/25,Bundesliga,2
+15,Bayer Leverkusen,23/24,Bundesliga,1
+15,Bayer Leverkusen,22/23,Bundesliga,6
+15,Bayer Leverkusen,21/22,Bundesliga,3
+15,Bayer Leverkusen,20/21,Bundesliga,6
+15,Bayer Leverkusen,19/20,Bundesliga,5
+15,Bayer Leverkusen,18/19,Bundesliga,4
+15,Bayer Leverkusen,17/18,Bundesliga,5
+15,Bayer Leverkusen,16/17,Bundesliga,12
+15,Bayer Leverkusen,15/16,Bundesliga,3
+15,Bayer Leverkusen,14/15,Bundesliga,4
+15,Bayer Leverkusen,13/14,Bundesliga,4
+15,Bayer Leverkusen,12/13,Bundesliga,3
+15,Bayer Leverkusen,11/12,Bundesliga,5
+15,Bayer Leverkusen,10/11,Bundesliga,2
+15,Bayer Leverkusen,09/10,Bundesliga,4
+15,Bayer Leverkusen,08/09,Bundesliga,9
+15,Bayer Leverkusen,07/08,Bundesliga,7
+15,Bayer Leverkusen,06/07,Bundesliga,5
+15,Bayer Leverkusen,05/06,Bundesliga,5
+15,Bayer Leverkusen,04/05,Bundesliga,6
+15,Bayer Leverkusen,03/04,Bundesliga,3
+15,Bayer Leverkusen,02/03,Bundesliga,15
+15,Bayer Leverkusen,01/02,Bundesliga,2
+15,Bayer Leverkusen,00/01,Bundesliga,4
+15,Bayer Leverkusen,99/00,Bundesliga,2
+15,Bayer Leverkusen,98/99,Bundesliga,2
+15,Bayer Leverkusen,97/98,Bundesliga,3
+15,Bayer Leverkusen,96/97,Bundesliga,2
+15,Bayer Leverkusen,95/96,Bundesliga,14
+15,Bayer Leverkusen,94/95,Bundesliga,7
+15,Bayer Leverkusen,93/94,Bundesliga,3
+15,Bayer Leverkusen,92/93,Bundesliga,5
+15,Bayer Leverkusen,91/92,Bundesliga,6
+15,Bayer Leverkusen,90/91,Bundesliga,8
+15,Bayer Leverkusen,89/90,Bundesliga,5
+15,Bayer Leverkusen,88/89,Bundesliga,8
+15,Bayer Leverkusen,87/88,Bundesliga,8
+15,Bayer Leverkusen,86/87,Bundesliga,6
+15,Bayer Leverkusen,85/86,Bundesliga,6
+15,Bayer Leverkusen,84/85,Bundesliga,13
+15,Bayer Leverkusen,83/84,Bundesliga,7
+15,Bayer Leverkusen,82/83,Bundesliga,11
+15,Bayer Leverkusen,81/82,Bundesliga,16
+15,Bayer Leverkusen,80/81,Bundesliga,11
+15,Bayer Leverkusen,79/80,Bundesliga,12
+15,Bayer Leverkusen,78/79,Bundesliga,1
+15,Bayer Leverkusen,77/78,Bundesliga,8
+15,Bayer Leverkusen,76/77,Bundesliga,10
+15,Bayer Leverkusen,75/76,Bundesliga,15
+15,Bayer Leverkusen,72/73,Bundesliga,17
+15,Bayer Leverkusen,71/72,Bundesliga,8
+15,Bayer Leverkusen,70/71,Bundesliga,7
+15,Bayer Leverkusen,69/70,Bundesliga,11
+15,Bayer Leverkusen,68/69,Bundesliga,8
+15,Bayer Leverkusen,67/68,Bundesliga,2
+15,Bayer Leverkusen,66/67,Bundesliga,10
+15,Bayer Leverkusen,65/66,Bundesliga,14
+15,Bayer Leverkusen,64/65,Bundesliga,16
+15,Bayer Leverkusen,63/64,Bundesliga,12
+15,Bayer Leverkusen,62/63,Bundesliga,9
+15,Bayer Leverkusen,55/56,Bundesliga,15
+15,Bayer Leverkusen,54/55,Bundesliga,3
+15,Bayer Leverkusen,53/54,Bundesliga,8
+15,Bayer Leverkusen,52/53,Bundesliga,10
+15,Bayer Leverkusen,51/52,Bundesliga,6
+27,Bayern Munich,26/27,Bundesliga,6
+27,Bayern Munich,25/26,Bundesliga,1
+27,Bayern Munich,24/25,Bundesliga,1
+27,Bayern Munich,23/24,Bundesliga,3
+27,Bayern Munich,22/23,Bundesliga,1
+27,Bayern Munich,21/22,Bundesliga,1
+27,Bayern Munich,20/21,Bundesliga,1
+27,Bayern Munich,19/20,Bundesliga,1
+27,Bayern Munich,18/19,Bundesliga,1
+27,Bayern Munich,17/18,Bundesliga,1
+27,Bayern Munich,16/17,Bundesliga,1
+27,Bayern Munich,15/16,Bundesliga,1
+27,Bayern Munich,14/15,Bundesliga,1
+27,Bayern Munich,13/14,Bundesliga,1
+27,Bayern Munich,12/13,Bundesliga,1
+27,Bayern Munich,11/12,Bundesliga,2
+27,Bayern Munich,10/11,Bundesliga,3
+27,Bayern Munich,09/10,Bundesliga,1
+27,Bayern Munich,08/09,Bundesliga,2
+27,Bayern Munich,07/08,Bundesliga,1
+27,Bayern Munich,06/07,Bundesliga,4
+27,Bayern Munich,05/06,Bundesliga,1
+27,Bayern Munich,04/05,Bundesliga,1
+27,Bayern Munich,03/04,Bundesliga,2
+27,Bayern Munich,02/03,Bundesliga,1
+27,Bayern Munich,01/02,Bundesliga,3
+27,Bayern Munich,00/01,Bundesliga,1
+27,Bayern Munich,99/00,Bundesliga,1
+27,Bayern Munich,98/99,Bundesliga,1
+27,Bayern Munich,97/98,Bundesliga,2
+27,Bayern Munich,96/97,Bundesliga,1
+27,Bayern Munich,95/96,Bundesliga,2
+27,Bayern Munich,94/95,Bundesliga,6
+27,Bayern Munich,93/94,Bundesliga,1
+27,Bayern Munich,92/93,Bundesliga,2
+27,Bayern Munich,91/92,Bundesliga,10
+27,Bayern Munich,90/91,Bundesliga,2
+27,Bayern Munich,89/90,Bundesliga,1
+27,Bayern Munich,88/89,Bundesliga,1
+27,Bayern Munich,87/88,Bundesliga,2
+27,Bayern Munich,86/87,Bundesliga,1
+27,Bayern Munich,85/86,Bundesliga,1
+27,Bayern Munich,84/85,Bundesliga,1
+27,Bayern Munich,83/84,Bundesliga,4
+27,Bayern Munich,82/83,Bundesliga,4
+27,Bayern Munich,81/82,Bundesliga,3
+27,Bayern Munich,80/81,Bundesliga,1
+27,Bayern Munich,79/80,Bundesliga,1
+27,Bayern Munich,78/79,Bundesliga,4
+27,Bayern Munich,77/78,Bundesliga,12
+27,Bayern Munich,76/77,Bundesliga,7
+27,Bayern Munich,75/76,Bundesliga,3
+27,Bayern Munich,74/75,Bundesliga,10
+27,Bayern Munich,73/74,Bundesliga,1
+27,Bayern Munich,72/73,Bundesliga,1
+27,Bayern Munich,71/72,Bundesliga,1
+27,Bayern Munich,70/71,Bundesliga,2
+27,Bayern Munich,69/70,Bundesliga,2
+27,Bayern Munich,68/69,Bundesliga,1
+27,Bayern Munich,67/68,Bundesliga,5
+27,Bayern Munich,66/67,Bundesliga,6
+27,Bayern Munich,65/66,Bundesliga,3
+27,Bayern Munich,64/65,Bundesliga,1
+27,Bayern Munich,63/64,Bundesliga,2
+27,Bayern Munich,62/63,Bundesliga,3
+27,Bayern Munich,61/62,Bundesliga,3
+27,Bayern Munich,60/61,Bundesliga,7
+27,Bayern Munich,59/60,Bundesliga,3
+27,Bayern Munich,58/59,Bundesliga,4
+27,Bayern Munich,57/58,Bundesliga,7
+27,Bayern Munich,56/57,Bundesliga,10
+27,Bayern Munich,54/55,Bundesliga,16
+27,Bayern Munich,53/54,Bundesliga,8
+27,Bayern Munich,52/53,Bundesliga,6
+27,Bayern Munich,51/52,Bundesliga,8
+27,Bayern Munich,50/51,Bundesliga,9
+27,Bayern Munich,49/50,Bundesliga,13
+27,Bayern Munich,48/49,Bundesliga,3
+27,Bayern Munich,46/47,Bundesliga,11
+27,Bayern Munich,45/46,Bundesliga,6
+1025,Bologna,26/27,Serie A,15
+1025,Bologna,25/26,Serie A,8
+1025,Bologna,24/25,Serie A,9
+1025,Bologna,23/24,Serie A,5
+1025,Bologna,22/23,Serie A,9
+1025,Bologna,21/22,Serie A,13
+1025,Bologna,20/21,Serie A,12
+1025,Bologna,19/20,Serie A,12
+1025,Bologna,18/19,Serie A,10
+1025,Bologna,17/18,Serie A,15
+1025,Bologna,16/17,Serie A,15
+1025,Bologna,15/16,Serie A,14
+1025,Bologna,14/15,Serie A,4
+1025,Bologna,13/14,Serie A,19
+1025,Bologna,12/13,Serie A,13
+1025,Bologna,11/12,Serie A,9
+1025,Bologna,10/11,Serie A,16
+1025,Bologna,09/10,Serie A,17
+1025,Bologna,08/09,Serie A,17
+1025,Bologna,07/08,Serie A,2
+1025,Bologna,06/07,Serie A,7
+1025,Bologna,05/06,Serie A,8
+1025,Bologna,04/05,Serie A,17
+1025,Bologna,03/04,Serie A,12
+1025,Bologna,02/03,Serie A,11
+1025,Bologna,01/02,Serie A,7
+1025,Bologna,00/01,Serie A,10
+1025,Bologna,99/00,Serie A,12
+1025,Bologna,98/99,Serie A,9
+1025,Bologna,97/98,Serie A,8
+1025,Bologna,96/97,Serie A,7
+1025,Bologna,95/96,Serie A,1
+1025,Bologna,94/95,Serie A,1
+1025,Bologna,93/94,Serie A,4
+1025,Bologna,92/93,Serie A,18
+1025,Bologna,91/92,Serie A,11
+1025,Bologna,90/91,Serie A,18
+1025,Bologna,89/90,Serie A,8
+1025,Bologna,88/89,Serie A,13
+1025,Bologna,87/88,Serie A,1
+1025,Bologna,86/87,Serie A,10
+1025,Bologna,85/86,Serie A,6
+1025,Bologna,84/85,Serie A,11
+1025,Bologna,83/84,Serie A,2
+1025,Bologna,82/83,Serie A,17
+1025,Bologna,81/82,Serie A,15
+1025,Bologna,80/81,Serie A,7
+1025,Bologna,79/80,Serie A,9
+1025,Bologna,78/79,Serie A,13
+1025,Bologna,77/78,Serie A,10
+1025,Bologna,76/77,Serie A,10
+1025,Bologna,75/76,Serie A,6
+1025,Bologna,74/75,Serie A,7
+1025,Bologna,73/74,Serie A,8
+1025,Bologna,72/73,Serie A,7
+1025,Bologna,71/72,Serie A,11
+1025,Bologna,70/71,Serie A,5
+1025,Bologna,69/70,Serie A,10
+1025,Bologna,68/69,Serie A,9
+1025,Bologna,67/68,Serie A,6
+1025,Bologna,66/67,Serie A,3
+1025,Bologna,65/66,Serie A,2
+1025,Bologna,64/65,Serie A,7
+1025,Bologna,63/64,Serie A,1
+1025,Bologna,62/63,Serie A,4
+1025,Bologna,61/62,Serie A,4
+1025,Bologna,60/61,Serie A,9
+1025,Bologna,59/60,Serie A,7
+1025,Bologna,58/59,Serie A,10
+1025,Bologna,57/58,Serie A,6
+1025,Bologna,56/57,Serie A,5
+1025,Bologna,55/56,Serie A,5
+1025,Bologna,54/55,Serie A,4
+1025,Bologna,53/54,Serie A,7
+1025,Bologna,52/53,Serie A,5
+1025,Bologna,51/52,Serie A,16
+1025,Bologna,50/51,Serie A,7
+1025,Bologna,49/50,Serie A,15
+1025,Bologna,48/49,Serie A,6
+1025,Bologna,47/48,Serie A,9
+1025,Bologna,46/47,Serie A,5
+1025,Bologna,45/46,Serie A,7
+1025,Bologna,42/43,Serie A,6
+1025,Bologna,41/42,Serie A,7
+1025,Bologna,40/41,Serie A,1
+1025,Bologna,39/40,Serie A,2
+1025,Bologna,38/39,Serie A,1
+1025,Bologna,37/38,Serie A,5
+1025,Bologna,36/37,Serie A,1
+1025,Bologna,35/36,Serie A,1
+1025,Bologna,34/35,Serie A,6
+1025,Bologna,33/34,Serie A,4
+1025,Bologna,32/33,Serie A,3
+1025,Bologna,31/32,Serie A,2
+1025,Bologna,30/31,Serie A,3
+1025,Bologna,1929/30,Serie A,5
+1025,Bologna,1928/29,Serie A,1
+1025,Bologna,1927/28,Serie A,1
+1025,Bologna,1926/27,Serie A,3
+1025,Bologna,1925/26,Serie A,1
+1025,Bologna,1924/25,Serie A,1
+1025,Bologna,1923/24,Serie A,1
+1025,Bologna,1922/23,Serie A,10
+1025,Bologna,1921/22,Serie A,3
+16,Borussia Dortmund,26/27,Bundesliga,3
+16,Borussia Dortmund,25/26,Bundesliga,2
+16,Borussia Dortmund,24/25,Bundesliga,4
+16,Borussia Dortmund,23/24,Bundesliga,5
+16,Borussia Dortmund,22/23,Bundesliga,2
+16,Borussia Dortmund,21/22,Bundesliga,2
+16,Borussia Dortmund,20/21,Bundesliga,3
+16,Borussia Dortmund,19/20,Bundesliga,2
+16,Borussia Dortmund,18/19,Bundesliga,2
+16,Borussia Dortmund,17/18,Bundesliga,4
+16,Borussia Dortmund,16/17,Bundesliga,3
+16,Borussia Dortmund,15/16,Bundesliga,2
+16,Borussia Dortmund,14/15,Bundesliga,7
+16,Borussia Dortmund,13/14,Bundesliga,2
+16,Borussia Dortmund,12/13,Bundesliga,2
+16,Borussia Dortmund,11/12,Bundesliga,1
+16,Borussia Dortmund,10/11,Bundesliga,1
+16,Borussia Dortmund,09/10,Bundesliga,5
+16,Borussia Dortmund,08/09,Bundesliga,6
+16,Borussia Dortmund,07/08,Bundesliga,13
+16,Borussia Dortmund,06/07,Bundesliga,9
+16,Borussia Dortmund,05/06,Bundesliga,7
+16,Borussia Dortmund,04/05,Bundesliga,7
+16,Borussia Dortmund,03/04,Bundesliga,6
+16,Borussia Dortmund,02/03,Bundesliga,3
+16,Borussia Dortmund,01/02,Bundesliga,1
+16,Borussia Dortmund,00/01,Bundesliga,3
+16,Borussia Dortmund,99/00,Bundesliga,11
+16,Borussia Dortmund,98/99,Bundesliga,4
+16,Borussia Dortmund,97/98,Bundesliga,10
+16,Borussia Dortmund,96/97,Bundesliga,3
+16,Borussia Dortmund,95/96,Bundesliga,1
+16,Borussia Dortmund,94/95,Bundesliga,1
+16,Borussia Dortmund,93/94,Bundesliga,4
+16,Borussia Dortmund,92/93,Bundesliga,4
+16,Borussia Dortmund,91/92,Bundesliga,2
+16,Borussia Dortmund,90/91,Bundesliga,10
+16,Borussia Dortmund,89/90,Bundesliga,4
+16,Borussia Dortmund,88/89,Bundesliga,7
+16,Borussia Dortmund,87/88,Bundesliga,13
+16,Borussia Dortmund,86/87,Bundesliga,4
+16,Borussia Dortmund,85/86,Bundesliga,16
+16,Borussia Dortmund,84/85,Bundesliga,14
+16,Borussia Dortmund,83/84,Bundesliga,13
+16,Borussia Dortmund,82/83,Bundesliga,7
+16,Borussia Dortmund,81/82,Bundesliga,6
+16,Borussia Dortmund,80/81,Bundesliga,7
+16,Borussia Dortmund,79/80,Bundesliga,6
+16,Borussia Dortmund,78/79,Bundesliga,12
+16,Borussia Dortmund,77/78,Bundesliga,11
+16,Borussia Dortmund,76/77,Bundesliga,8
+16,Borussia Dortmund,75/76,Bundesliga,2
+16,Borussia Dortmund,74/75,Bundesliga,6
+16,Borussia Dortmund,73/74,Bundesliga,6
+16,Borussia Dortmund,72/73,Bundesliga,4
+16,Borussia Dortmund,71/72,Bundesliga,17
+16,Borussia Dortmund,70/71,Bundesliga,13
+16,Borussia Dortmund,69/70,Bundesliga,5
+16,Borussia Dortmund,68/69,Bundesliga,16
+16,Borussia Dortmund,67/68,Bundesliga,14
+16,Borussia Dortmund,66/67,Bundesliga,3
+16,Borussia Dortmund,65/66,Bundesliga,2
+16,Borussia Dortmund,64/65,Bundesliga,3
+16,Borussia Dortmund,63/64,Bundesliga,4
+16,Borussia Dortmund,62/63,Bundesliga,2
+16,Borussia Dortmund,61/62,Bundesliga,8
+16,Borussia Dortmund,60/61,Bundesliga,2
+16,Borussia Dortmund,59/60,Bundesliga,3
+16,Borussia Dortmund,58/59,Bundesliga,5
+16,Borussia Dortmund,57/58,Bundesliga,5
+16,Borussia Dortmund,56/57,Bundesliga,1
+16,Borussia Dortmund,55/56,Bundesliga,1
+16,Borussia Dortmund,54/55,Bundesliga,5
+16,Borussia Dortmund,53/54,Bundesliga,5
+16,Borussia Dortmund,52/53,Bundesliga,1
+16,Borussia Dortmund,51/52,Bundesliga,4
+16,Borussia Dortmund,50/51,Bundesliga,3
+16,Borussia Dortmund,49/50,Bundesliga,1
+16,Borussia Dortmund,48/49,Bundesliga,1
+16,Borussia Dortmund,47/48,Bundesliga,1
+371,Celtic,26/27,Scottish Premiership,1
+371,Celtic,25/26,Scottish Premiership,3
+371,Celtic,24/25,Scottish Premiership,1
+371,Celtic,23/24,Scottish Premiership,1
+371,Celtic,22/23,Scottish Premiership,1
+371,Celtic,21/22,Scottish Premiership,1
+371,Celtic,20/21,Scottish Premiership,2
+371,Celtic,19/20,Scottish Premiership,1
+371,Celtic,18/19,Scottish Premiership,1
+371,Celtic,17/18,Scottish Premiership,1
+371,Celtic,16/17,Scottish Premiership,1
+371,Celtic,15/16,Scottish Premiership,1
+371,Celtic,14/15,Scottish Premiership,1
+371,Celtic,13/14,Scottish Premiership,1
+371,Celtic,12/13,Scottish Premiership,1
+371,Celtic,11/12,Scottish Premiership,1
+371,Celtic,10/11,Scottish Premiership,2
+371,Celtic,09/10,Scottish Premiership,2
+371,Celtic,08/09,Scottish Premiership,2
+371,Celtic,07/08,Scottish Premiership,1
+371,Celtic,06/07,Scottish Premiership,1
+371,Celtic,05/06,Scottish Premiership,1
+371,Celtic,04/05,Scottish Premiership,2
+371,Celtic,03/04,Scottish Premiership,1
+371,Celtic,02/03,Scottish Premiership,2
+371,Celtic,01/02,Scottish Premiership,1
+371,Celtic,00/01,Scottish Premiership,1
+371,Celtic,99/00,Scottish Premiership,2
+371,Celtic,98/99,Scottish Premiership,2
+371,Celtic,97/98,Scottish Premiership,1
+371,Celtic,96/97,Scottish Premiership,2
+371,Celtic,95/96,Scottish Premiership,2
+371,Celtic,94/95,Scottish Premiership,4
+371,Celtic,93/94,Scottish Premiership,4
+371,Celtic,92/93,Scottish Premiership,3
+371,Celtic,91/92,Scottish Premiership,3
+371,Celtic,90/91,Scottish Premiership,3
+371,Celtic,89/90,Scottish Premiership,5
+371,Celtic,88/89,Scottish Premiership,3
+371,Celtic,87/88,Scottish Premiership,1
+371,Celtic,86/87,Scottish Premiership,1
+371,Celtic,85/86,Scottish Premiership,1
+371,Celtic,66/67,Scottish Premiership,1
+371,Celtic,66/67,Scottish Premiership,1
+371,Celtic,66/67,Scottish Premiership,1
+371,Celtic,1927/28,Scottish Premiership,2
+371,Celtic,1898/99,Scottish Premiership,3
+371,Celtic,1896/97,Scottish Premiership,4
+371,Celtic,1895/96,Scottish Premiership,1
+371,Celtic,1892/93,Scottish Premiership,1
+371,Celtic,1891/92,Scottish Premiership,2
+2410,CSKA Moscow,25/26,Premier Liga,5
+2410,CSKA Moscow,24/25,Premier Liga,3
+2410,CSKA Moscow,23/24,Premier Liga,6
+2410,CSKA Moscow,22/23,Premier Liga,2
+2410,CSKA Moscow,21/22,Premier Liga,5
+2410,CSKA Moscow,20/21,Premier Liga,6
+2410,CSKA Moscow,19/20,Premier Liga,4
+2410,CSKA Moscow,18/19,Premier Liga,4
+2410,CSKA Moscow,17/18,Premier Liga,2
+2410,CSKA Moscow,16/17,Premier Liga,2
+2410,CSKA Moscow,15/16,Premier Liga,1
+2410,CSKA Moscow,14/15,Premier Liga,2
+2410,CSKA Moscow,13/14,Premier Liga,1
+2410,CSKA Moscow,12/13,Premier Liga,1
+2410,CSKA Moscow,10/11,Premier Liga,3
+2410,CSKA Moscow,09/10,Premier Liga,2
+2410,CSKA Moscow,08/09,Premier Liga,5
+2410,CSKA Moscow,07/08,Premier Liga,2
+2410,CSKA Moscow,06/07,Premier Liga,3
+2410,CSKA Moscow,05/06,Premier Liga,1
+2410,CSKA Moscow,04/05,Premier Liga,1
+2410,CSKA Moscow,03/04,Premier Liga,2
+2410,CSKA Moscow,02/03,Premier Liga,1
+2410,CSKA Moscow,01/02,Premier Liga,2
+2410,CSKA Moscow,00/01,Premier Liga,7
+2410,CSKA Moscow,99/00,Premier Liga,8
+2410,CSKA Moscow,98/99,Premier Liga,3
+2410,CSKA Moscow,97/98,Premier Liga,2
+2410,CSKA Moscow,96/97,Premier Liga,12
+2410,CSKA Moscow,95/96,Premier Liga,5
+2410,CSKA Moscow,94/95,Premier Liga,6
+2410,CSKA Moscow,93/94,Premier Liga,11
+2410,CSKA Moscow,92/93,Premier Liga,9
+2410,CSKA Moscow,91/92,Premier Liga,4
+2410,CSKA Moscow,90/91,Premier Liga,1
+2410,CSKA Moscow,89/90,Premier Liga,2
+2410,CSKA Moscow,88/89,Premier Liga,1
+2410,CSKA Moscow,87/88,Premier Liga,3
+2410,CSKA Moscow,86/87,Premier Liga,15
+2410,CSKA Moscow,85/86,Premier Liga,1
+2410,CSKA Moscow,84/85,Premier Liga,2
+2410,CSKA Moscow,83/84,Premier Liga,18
+2410,CSKA Moscow,82/83,Premier Liga,11
+2410,CSKA Moscow,81/82,Premier Liga,14
+2410,CSKA Moscow,80/81,Premier Liga,6
+2410,CSKA Moscow,79/80,Premier Liga,5
+2410,CSKA Moscow,78/79,Premier Liga,8
+2410,CSKA Moscow,77/78,Premier Liga,6
+2410,CSKA Moscow,76/77,Premier Liga,14
+2410,CSKA Moscow,75/76,Premier Liga,7
+2410,CSKA Moscow,74/75,Premier Liga,13
+2410,CSKA Moscow,73/74,Premier Liga,13
+2410,CSKA Moscow,72/73,Premier Liga,10
+2410,CSKA Moscow,71/72,Premier Liga,5
+2410,CSKA Moscow,70/71,Premier Liga,12
+2410,CSKA Moscow,69/70,Premier Liga,1
+2410,CSKA Moscow,68/69,Premier Liga,2
+2410,CSKA Moscow,67/68,Premier Liga,4
+2410,CSKA Moscow,66/67,Premier Liga,9
+2410,CSKA Moscow,65/66,Premier Liga,5
+2410,CSKA Moscow,64/65,Premier Liga,3
+2410,CSKA Moscow,62/63,Premier Liga,7
+2410,CSKA Moscow,61/62,Premier Liga,2
+2410,CSKA Moscow,60/61,Premier Liga,1
+2410,CSKA Moscow,59/60,Premier Liga,3
+2410,CSKA Moscow,58/59,Premier Liga,9
+2410,CSKA Moscow,57/58,Premier Liga,3
+2410,CSKA Moscow,56/57,Premier Liga,5
+2410,CSKA Moscow,55/56,Premier Liga,3
+2410,CSKA Moscow,54/55,Premier Liga,3
+2410,CSKA Moscow,53/54,Premier Liga,6
+2410,CSKA Moscow,50/51,Premier Liga,1
+2410,CSKA Moscow,49/50,Premier Liga,1
+2410,CSKA Moscow,48/49,Premier Liga,2
+2410,CSKA Moscow,47/48,Premier Liga,1
+2410,CSKA Moscow,46/47,Premier Liga,1
+2410,CSKA Moscow,45/46,Premier Liga,1
+2410,CSKA Moscow,44/45,Premier Liga,2
+2410,CSKA Moscow,39/40,Premier Liga,4
+2410,CSKA Moscow,37/38,Premier Liga,2
+2410,CSKA Moscow,36/37,Premier Liga,9
+2410,CSKA Moscow,35/36,Premier Liga,4
+897,Deportivo La Coruna,26/27,LaLiga,5
+897,Deportivo La Coruna,25/26,LaLiga,2
+897,Deportivo La Coruna,24/25,LaLiga,15
+897,Deportivo La Coruna,23/24,LaLiga,1
+897,Deportivo La Coruna,22/23,LaLiga,4
+897,Deportivo La Coruna,21/22,LaLiga,2
+897,Deportivo La Coruna,20/21,LaLiga,4
+897,Deportivo La Coruna,19/20,LaLiga,19
+897,Deportivo La Coruna,18/19,LaLiga,6
+897,Deportivo La Coruna,17/18,LaLiga,18
+897,Deportivo La Coruna,16/17,LaLiga,16
+897,Deportivo La Coruna,15/16,LaLiga,15
+897,Deportivo La Coruna,14/15,LaLiga,16
+897,Deportivo La Coruna,13/14,LaLiga,2
+897,Deportivo La Coruna,12/13,LaLiga,19
+897,Deportivo La Coruna,11/12,LaLiga,1
+897,Deportivo La Coruna,10/11,LaLiga,18
+897,Deportivo La Coruna,09/10,LaLiga,10
+897,Deportivo La Coruna,08/09,LaLiga,7
+897,Deportivo La Coruna,07/08,LaLiga,9
+897,Deportivo La Coruna,06/07,LaLiga,13
+897,Deportivo La Coruna,05/06,LaLiga,8
+897,Deportivo La Coruna,04/05,LaLiga,8
+897,Deportivo La Coruna,03/04,LaLiga,3
+897,Deportivo La Coruna,02/03,LaLiga,3
+897,Deportivo La Coruna,01/02,LaLiga,2
+897,Deportivo La Coruna,00/01,LaLiga,2
+897,Deportivo La Coruna,99/00,LaLiga,1
+897,Deportivo La Coruna,98/99,LaLiga,6
+897,Deportivo La Coruna,97/98,LaLiga,12
+897,Deportivo La Coruna,96/97,LaLiga,3
+897,Deportivo La Coruna,95/96,LaLiga,9
+897,Deportivo La Coruna,94/95,LaLiga,2
+897,Deportivo La Coruna,93/94,LaLiga,2
+897,Deportivo La Coruna,92/93,LaLiga,3
+897,Deportivo La Coruna,91/92,LaLiga,17
+897,Deportivo La Coruna,90/91,LaLiga,2
+897,Deportivo La Coruna,89/90,LaLiga,4
+897,Deportivo La Coruna,88/89,LaLiga,10
+897,Deportivo La Coruna,87/88,LaLiga,16
+897,Deportivo La Coruna,86/87,LaLiga,5
+897,Deportivo La Coruna,85/86,LaLiga,6
+897,Deportivo La Coruna,84/85,LaLiga,13
+897,Deportivo La Coruna,83/84,LaLiga,9
+897,Deportivo La Coruna,82/83,LaLiga,4
+897,Deportivo La Coruna,81/82,LaLiga,12
+897,Deportivo La Coruna,79/80,LaLiga,18
+897,Deportivo La Coruna,72/73,LaLiga,17
+897,Deportivo La Coruna,71/72,LaLiga,14
+897,Deportivo La Coruna,70/71,LaLiga,3
+897,Deportivo La Coruna,69/70,LaLiga,14
+897,Deportivo La Coruna,68/69,LaLiga,11
+897,Deportivo La Coruna,67/68,LaLiga,1
+897,Deportivo La Coruna,66/67,LaLiga,16
+897,Deportivo La Coruna,65/66,LaLiga,1
+897,Deportivo La Coruna,64/65,LaLiga,16
+897,Deportivo La Coruna,63/64,LaLiga,1
+897,Deportivo La Coruna,62/63,LaLiga,14
+897,Deportivo La Coruna,61/62,LaLiga,1
+897,Deportivo La Coruna,60/61,LaLiga,3
+897,Deportivo La Coruna,59/60,LaLiga,4
+897,Deportivo La Coruna,58/59,LaLiga,7
+897,Deportivo La Coruna,57/58,LaLiga,13
+897,Deportivo La Coruna,56/57,LaLiga,15
+897,Deportivo La Coruna,55/56,LaLiga,12
+897,Deportivo La Coruna,54/55,LaLiga,7
+897,Deportivo La Coruna,53/54,LaLiga,7
+897,Deportivo La Coruna,52/53,LaLiga,14
+897,Deportivo La Coruna,51/52,LaLiga,11
+897,Deportivo La Coruna,50/51,LaLiga,12
+897,Deportivo La Coruna,49/50,LaLiga,2
+897,Deportivo La Coruna,48/49,LaLiga,11
+897,Deportivo La Coruna,47/48,LaLiga,2
+897,Deportivo La Coruna,46/47,LaLiga,13
+897,Deportivo La Coruna,45/46,LaLiga,2
+897,Deportivo La Coruna,44/45,LaLiga,14
+897,Deportivo La Coruna,43/44,LaLiga,12
+897,Deportivo La Coruna,42/43,LaLiga,9
+897,Deportivo La Coruna,41/42,LaLiga,4
+897,Deportivo La Coruna,40/41,LaLiga,2
+897,Deportivo La Coruna,39/40,LaLiga,1
+897,Deportivo La Coruna,35/36,LaLiga,7
+897,Deportivo La Coruna,34/35,LaLiga,7
+897,Deportivo La Coruna,33/34,LaLiga,7
+897,Deportivo La Coruna,32/33,LaLiga,5
+897,Deportivo La Coruna,31/32,LaLiga,6
+897,Deportivo La Coruna,30/31,LaLiga,9
+897,Deportivo La Coruna,1929/30,LaLiga,7
+897,Deportivo La Coruna,1928/29,LaLiga,8
+29,Everton,26/27,Premier League,8
+29,Everton,25/26,Premier League,13
+29,Everton,24/25,Premier League,13
+29,Everton,23/24,Premier League,15
+29,Everton,22/23,Premier League,17
+29,Everton,21/22,Premier League,16
+29,Everton,20/21,Premier League,10
+29,Everton,19/20,Premier League,12
+29,Everton,18/19,Premier League,8
+29,Everton,17/18,Premier League,8
+29,Everton,16/17,Premier League,7
+29,Everton,15/16,Premier League,11
+29,Everton,14/15,Premier League,11
+29,Everton,13/14,Premier League,5
+29,Everton,12/13,Premier League,6
+29,Everton,11/12,Premier League,7
+29,Everton,10/11,Premier League,7
+29,Everton,09/10,Premier League,8
+29,Everton,08/09,Premier League,5
+29,Everton,07/08,Premier League,5
+29,Everton,06/07,Premier League,6
+29,Everton,05/06,Premier League,11
+29,Everton,04/05,Premier League,4
+29,Everton,03/04,Premier League,17
+29,Everton,02/03,Premier League,7
+29,Everton,01/02,Premier League,15
+29,Everton,00/01,Premier League,16
+29,Everton,99/00,Premier League,13
+29,Everton,98/99,Premier League,14
+29,Everton,97/98,Premier League,17
+29,Everton,96/97,Premier League,15
+29,Everton,95/96,Premier League,6
+29,Everton,94/95,Premier League,15
+29,Everton,93/94,Premier League,17
+29,Everton,92/93,Premier League,13
+29,Everton,91/92,Premier League,12
+29,Everton,90/91,Premier League,9
+29,Everton,89/90,Premier League,6
+29,Everton,88/89,Premier League,8
+29,Everton,87/88,Premier League,4
+29,Everton,86/87,Premier League,1
+29,Everton,85/86,Premier League,2
+29,Everton,84/85,Premier League,1
+29,Everton,83/84,Premier League,7
+29,Everton,82/83,Premier League,7
+29,Everton,81/82,Premier League,8
+29,Everton,80/81,Premier League,15
+29,Everton,79/80,Premier League,19
+29,Everton,78/79,Premier League,4
+29,Everton,77/78,Premier League,3
+29,Everton,76/77,Premier League,9
+29,Everton,75/76,Premier League,11
+29,Everton,74/75,Premier League,4
+29,Everton,73/74,Premier League,7
+29,Everton,72/73,Premier League,17
+29,Everton,71/72,Premier League,15
+29,Everton,70/71,Premier League,14
+29,Everton,69/70,Premier League,1
+29,Everton,68/69,Premier League,3
+29,Everton,67/68,Premier League,5
+29,Everton,66/67,Premier League,6
+29,Everton,65/66,Premier League,11
+29,Everton,64/65,Premier League,4
+29,Everton,63/64,Premier League,3
+29,Everton,62/63,Premier League,1
+29,Everton,61/62,Premier League,4
+29,Everton,60/61,Premier League,5
+29,Everton,59/60,Premier League,15
+29,Everton,58/59,Premier League,16
+29,Everton,57/58,Premier League,15
+29,Everton,56/57,Premier League,15
+29,Everton,55/56,Premier League,15
+29,Everton,54/55,Premier League,11
+29,Everton,53/54,Premier League,2
+29,Everton,52/53,Premier League,16
+29,Everton,50/51,Premier League,21
+29,Everton,49/50,Premier League,18
+29,Everton,48/49,Premier League,18
+29,Everton,47/48,Premier League,14
+29,Everton,46/47,Premier League,10
+29,Everton,39/40,Premier League,6
+29,Everton,38/39,Premier League,1
+29,Everton,37/38,Premier League,14
+29,Everton,36/37,Premier League,17
+29,Everton,35/36,Premier League,16
+29,Everton,34/35,Premier League,8
+29,Everton,33/34,Premier League,14
+29,Everton,32/33,Premier League,11
+29,Everton,31/32,Premier League,1
+29,Everton,1929/30,Premier League,22
+29,Everton,1928/29,Premier League,18
+29,Everton,1927/28,Premier League,1
+29,Everton,1926/27,Premier League,20
+29,Everton,1925/26,Premier League,15
+29,Everton,1924/25,Premier League,17
+29,Everton,1923/24,Premier League,6
+29,Everton,1922/23,Premier League,4
+29,Everton,1921/22,Premier League,20
+29,Everton,1920/21,Premier League,7
+29,Everton,1919/20,Premier League,16
+29,Everton,1914/15,Premier League,1
+29,Everton,1913/14,Premier League,16
+29,Everton,1912/13,Premier League,11
+29,Everton,1911/12,Premier League,2
+29,Everton,1910/11,Premier League,4
+29,Everton,1909/10,Premier League,9
+29,Everton,1908/09,Premier League,3
+29,Everton,1907/08,Premier League,10
+29,Everton,1906/07,Premier League,3
+29,Everton,1905/06,Premier League,11
+29,Everton,1904/05,Premier League,2
+29,Everton,1903/04,Premier League,3
+29,Everton,1902/03,Premier League,14
+29,Everton,1901/02,Premier League,2
+29,Everton,1900/01,Premier League,6
+29,Everton,1899/00,Premier League,11
+29,Everton,1898/99,Premier League,4
+29,Everton,1893/94,Premier League,6
+29,Everton,1893/94,Premier League,6
+29,Everton,1892/93,Premier League,3
+29,Everton,1892/93,Premier League,3
+29,Everton,1892/93,Premier League,3
+29,Everton,1892/93,Premier League,3
+29,Everton,1891/92,Premier League,5
+29,Everton,1891/92,Premier League,5
+29,Everton,1891/92,Premier League,5
+29,Everton,1889/90,Premier League,2
+29,Everton,1889/90,Premier League,2
+29,Everton,1889/90,Premier League,2
+430,Fiorentina,26/27,Serie A,20
+430,Fiorentina,25/26,Serie A,15
+430,Fiorentina,24/25,Serie A,6
+430,Fiorentina,23/24,Serie A,8
+430,Fiorentina,22/23,Serie A,8
+430,Fiorentina,21/22,Serie A,7
+430,Fiorentina,20/21,Serie A,13
+430,Fiorentina,19/20,Serie A,10
+430,Fiorentina,18/19,Serie A,16
+430,Fiorentina,17/18,Serie A,8
+430,Fiorentina,16/17,Serie A,8
+430,Fiorentina,15/16,Serie A,5
+430,Fiorentina,14/15,Serie A,4
+430,Fiorentina,13/14,Serie A,4
+430,Fiorentina,12/13,Serie A,4
+430,Fiorentina,11/12,Serie A,13
+430,Fiorentina,10/11,Serie A,9
+430,Fiorentina,09/10,Serie A,11
+430,Fiorentina,08/09,Serie A,4
+430,Fiorentina,07/08,Serie A,4
+430,Fiorentina,06/07,Serie A,6
+430,Fiorentina,05/06,Serie A,9
+430,Fiorentina,04/05,Serie A,16
+430,Fiorentina,03/04,Serie A,6
+430,Fiorentina,02/03,Serie A,1
+430,Fiorentina,01/02,Serie A,17
+430,Fiorentina,00/01,Serie A,9
+430,Fiorentina,99/00,Serie A,7
+430,Fiorentina,98/99,Serie A,3
+430,Fiorentina,97/98,Serie A,5
+430,Fiorentina,96/97,Serie A,9
+430,Fiorentina,95/96,Serie A,4
+430,Fiorentina,94/95,Serie A,10
+430,Fiorentina,93/94,Serie A,1
+430,Fiorentina,92/93,Serie A,16
+430,Fiorentina,91/92,Serie A,12
+430,Fiorentina,90/91,Serie A,12
+430,Fiorentina,89/90,Serie A,13
+430,Fiorentina,88/89,Serie A,8
+430,Fiorentina,87/88,Serie A,8
+430,Fiorentina,86/87,Serie A,11
+430,Fiorentina,85/86,Serie A,5
+430,Fiorentina,84/85,Serie A,9
+430,Fiorentina,83/84,Serie A,3
+430,Fiorentina,82/83,Serie A,5
+430,Fiorentina,81/82,Serie A,2
+430,Fiorentina,80/81,Serie A,5
+430,Fiorentina,79/80,Serie A,5
+430,Fiorentina,78/79,Serie A,6
+430,Fiorentina,77/78,Serie A,15
+430,Fiorentina,76/77,Serie A,3
+430,Fiorentina,75/76,Serie A,9
+430,Fiorentina,74/75,Serie A,8
+430,Fiorentina,73/74,Serie A,6
+430,Fiorentina,72/73,Serie A,5
+430,Fiorentina,71/72,Serie A,6
+430,Fiorentina,70/71,Serie A,13
+430,Fiorentina,69/70,Serie A,5
+430,Fiorentina,68/69,Serie A,1
+430,Fiorentina,67/68,Serie A,4
+430,Fiorentina,66/67,Serie A,5
+430,Fiorentina,65/66,Serie A,4
+430,Fiorentina,64/65,Serie A,5
+430,Fiorentina,63/64,Serie A,4
+430,Fiorentina,62/63,Serie A,6
+430,Fiorentina,61/62,Serie A,3
+430,Fiorentina,60/61,Serie A,7
+430,Fiorentina,59/60,Serie A,2
+430,Fiorentina,58/59,Serie A,2
+430,Fiorentina,57/58,Serie A,2
+430,Fiorentina,56/57,Serie A,2
+430,Fiorentina,55/56,Serie A,1
+430,Fiorentina,54/55,Serie A,5
+430,Fiorentina,53/54,Serie A,4
+430,Fiorentina,52/53,Serie A,7
+430,Fiorentina,51/52,Serie A,5
+430,Fiorentina,50/51,Serie A,5
+430,Fiorentina,49/50,Serie A,5
+430,Fiorentina,48/49,Serie A,10
+430,Fiorentina,47/48,Serie A,7
+430,Fiorentina,46/47,Serie A,17
+430,Fiorentina,42/43,Serie A,7
+430,Fiorentina,41/42,Serie A,9
+430,Fiorentina,40/41,Serie A,4
+430,Fiorentina,39/40,Serie A,13
+430,Fiorentina,38/39,Serie A,1
+430,Fiorentina,37/38,Serie A,16
+430,Fiorentina,36/37,Serie A,9
+430,Fiorentina,35/36,Serie A,13
+430,Fiorentina,34/35,Serie A,3
+430,Fiorentina,33/34,Serie A,6
+430,Fiorentina,32/33,Serie A,6
+430,Fiorentina,31/32,Serie A,4
+430,Fiorentina,30/31,Serie A,1
+430,Fiorentina,1929/30,Serie A,4
+430,Fiorentina,1928/29,Serie A,16
+141,Galatasaray,26/27,Süper Lig,1
+141,Galatasaray,25/26,Süper Lig,1
+141,Galatasaray,24/25,Süper Lig,1
+141,Galatasaray,23/24,Süper Lig,1
+141,Galatasaray,22/23,Süper Lig,1
+141,Galatasaray,21/22,Süper Lig,13
+141,Galatasaray,20/21,Süper Lig,2
+141,Galatasaray,19/20,Süper Lig,6
+141,Galatasaray,18/19,Süper Lig,1
+141,Galatasaray,17/18,Süper Lig,1
+141,Galatasaray,16/17,Süper Lig,4
+141,Galatasaray,15/16,Süper Lig,6
+141,Galatasaray,14/15,Süper Lig,1
+141,Galatasaray,13/14,Süper Lig,2
+141,Galatasaray,12/13,Süper Lig,1
+141,Galatasaray,11/12,Süper Lig,1
+141,Galatasaray,10/11,Süper Lig,8
+141,Galatasaray,09/10,Süper Lig,3
+141,Galatasaray,08/09,Süper Lig,5
+141,Galatasaray,07/08,Süper Lig,1
+141,Galatasaray,06/07,Süper Lig,3
+141,Galatasaray,05/06,Süper Lig,1
+141,Galatasaray,04/05,Süper Lig,3
+141,Galatasaray,03/04,Süper Lig,6
+141,Galatasaray,02/03,Süper Lig,2
+141,Galatasaray,01/02,Süper Lig,1
+141,Galatasaray,00/01,Süper Lig,2
+141,Galatasaray,99/00,Süper Lig,1
+141,Galatasaray,98/99,Süper Lig,1
+141,Galatasaray,97/98,Süper Lig,1
+141,Galatasaray,96/97,Süper Lig,1
+141,Galatasaray,95/96,Süper Lig,4
+141,Galatasaray,94/95,Süper Lig,3
+141,Galatasaray,93/94,Süper Lig,1
+141,Galatasaray,92/93,Süper Lig,1
+141,Galatasaray,91/92,Süper Lig,3
+141,Galatasaray,90/91,Süper Lig,2
+141,Galatasaray,89/90,Süper Lig,4
+141,Galatasaray,88/89,Süper Lig,3
+141,Galatasaray,87/88,Süper Lig,1
+141,Galatasaray,86/87,Süper Lig,1
+141,Galatasaray,85/86,Süper Lig,2
+141,Galatasaray,84/85,Süper Lig,5
+141,Galatasaray,83/84,Süper Lig,3
+141,Galatasaray,82/83,Süper Lig,3
+141,Galatasaray,81/82,Süper Lig,11
+141,Galatasaray,80/81,Süper Lig,3
+141,Galatasaray,79/80,Süper Lig,8
+141,Galatasaray,78/79,Süper Lig,2
+141,Galatasaray,77/78,Süper Lig,3
+141,Galatasaray,76/77,Süper Lig,5
+141,Galatasaray,75/76,Süper Lig,3
+141,Galatasaray,74/75,Süper Lig,2
+141,Galatasaray,73/74,Süper Lig,5
+141,Galatasaray,72/73,Süper Lig,1
+141,Galatasaray,71/72,Süper Lig,1
+141,Galatasaray,70/71,Süper Lig,1
+141,Galatasaray,69/70,Süper Lig,7
+141,Galatasaray,68/69,Süper Lig,1
+141,Galatasaray,67/68,Süper Lig,3
+141,Galatasaray,66/67,Süper Lig,3
+141,Galatasaray,63/64,Süper Lig,3
+141,Galatasaray,61/62,Süper Lig,1
+141,Galatasaray,58/59,Süper Lig,1
+69261,Inter Miami,25/26,Major League Soccer,2
+69261,Inter Miami,24/25,Major League Soccer,3
+69261,Inter Miami,23/24,Major League Soccer,1
+69261,Inter Miami,22/23,Major League Soccer,14
+69261,Inter Miami,21/22,Major League Soccer,6
+69261,Inter Miami,21/22,Major League Soccer,6
+69261,Inter Miami,20/21,Major League Soccer,11
+69261,Inter Miami,19/20,Major League Soccer,10
+46,Inter Milan,26/27,Serie A,2
+46,Inter Milan,25/26,Serie A,1
+46,Inter Milan,24/25,Serie A,2
+46,Inter Milan,23/24,Serie A,1
+46,Inter Milan,22/23,Serie A,3
+46,Inter Milan,21/22,Serie A,2
+46,Inter Milan,20/21,Serie A,1
+46,Inter Milan,19/20,Serie A,2
+46,Inter Milan,18/19,Serie A,4
+46,Inter Milan,17/18,Serie A,4
+46,Inter Milan,16/17,Serie A,7
+46,Inter Milan,15/16,Serie A,4
+46,Inter Milan,14/15,Serie A,8
+46,Inter Milan,13/14,Serie A,5
+46,Inter Milan,12/13,Serie A,9
+46,Inter Milan,11/12,Serie A,6
+46,Inter Milan,10/11,Serie A,2
+46,Inter Milan,09/10,Serie A,1
+46,Inter Milan,08/09,Serie A,1
+46,Inter Milan,07/08,Serie A,1
+46,Inter Milan,06/07,Serie A,1
+46,Inter Milan,05/06,Serie A,1
+46,Inter Milan,04/05,Serie A,3
+46,Inter Milan,03/04,Serie A,4
+46,Inter Milan,02/03,Serie A,2
+46,Inter Milan,01/02,Serie A,3
+46,Inter Milan,00/01,Serie A,5
+46,Inter Milan,99/00,Serie A,4
+46,Inter Milan,98/99,Serie A,8
+46,Inter Milan,97/98,Serie A,2
+46,Inter Milan,96/97,Serie A,3
+46,Inter Milan,95/96,Serie A,7
+46,Inter Milan,94/95,Serie A,6
+46,Inter Milan,93/94,Serie A,13
+46,Inter Milan,92/93,Serie A,2
+46,Inter Milan,91/92,Serie A,8
+46,Inter Milan,90/91,Serie A,3
+46,Inter Milan,89/90,Serie A,3
+46,Inter Milan,88/89,Serie A,1
+46,Inter Milan,87/88,Serie A,5
+46,Inter Milan,86/87,Serie A,3
+46,Inter Milan,85/86,Serie A,6
+46,Inter Milan,84/85,Serie A,3
+46,Inter Milan,83/84,Serie A,4
+46,Inter Milan,82/83,Serie A,3
+46,Inter Milan,81/82,Serie A,5
+46,Inter Milan,80/81,Serie A,4
+46,Inter Milan,79/80,Serie A,1
+46,Inter Milan,78/79,Serie A,4
+46,Inter Milan,77/78,Serie A,5
+46,Inter Milan,76/77,Serie A,4
+46,Inter Milan,75/76,Serie A,4
+46,Inter Milan,74/75,Serie A,9
+46,Inter Milan,73/74,Serie A,4
+46,Inter Milan,72/73,Serie A,4
+46,Inter Milan,71/72,Serie A,5
+46,Inter Milan,70/71,Serie A,1
+46,Inter Milan,69/70,Serie A,2
+46,Inter Milan,68/69,Serie A,4
+46,Inter Milan,67/68,Serie A,5
+46,Inter Milan,66/67,Serie A,2
+46,Inter Milan,65/66,Serie A,1
+46,Inter Milan,64/65,Serie A,1
+46,Inter Milan,63/64,Serie A,2
+46,Inter Milan,62/63,Serie A,1
+46,Inter Milan,61/62,Serie A,2
+46,Inter Milan,60/61,Serie A,3
+46,Inter Milan,59/60,Serie A,4
+46,Inter Milan,58/59,Serie A,3
+46,Inter Milan,57/58,Serie A,10
+46,Inter Milan,56/57,Serie A,6
+46,Inter Milan,55/56,Serie A,4
+46,Inter Milan,54/55,Serie A,8
+46,Inter Milan,53/54,Serie A,1
+46,Inter Milan,52/53,Serie A,1
+46,Inter Milan,51/52,Serie A,3
+46,Inter Milan,50/51,Serie A,2
+46,Inter Milan,49/50,Serie A,3
+46,Inter Milan,48/49,Serie A,2
+46,Inter Milan,47/48,Serie A,14
+46,Inter Milan,46/47,Serie A,10
+46,Inter Milan,45/46,Serie A,2
+46,Inter Milan,42/43,Serie A,4
+46,Inter Milan,41/42,Serie A,12
+46,Inter Milan,40/41,Serie A,2
+46,Inter Milan,39/40,Serie A,1
+46,Inter Milan,38/39,Serie A,3
+46,Inter Milan,37/38,Serie A,1
+46,Inter Milan,36/37,Serie A,8
+46,Inter Milan,35/36,Serie A,4
+46,Inter Milan,34/35,Serie A,2
+46,Inter Milan,33/34,Serie A,2
+46,Inter Milan,32/33,Serie A,2
+46,Inter Milan,31/32,Serie A,6
+46,Inter Milan,30/31,Serie A,5
+46,Inter Milan,1929/30,Serie A,1
+46,Inter Milan,1928/29,Serie A,5
+46,Inter Milan,1927/28,Serie A,2
+46,Inter Milan,1926/27,Serie A,2
+46,Inter Milan,1925/26,Serie A,5
+46,Inter Milan,1923/24,Serie A,3
+46,Inter Milan,1922/23,Serie A,20
+46,Inter Milan,1921/22,Serie A,12
+506,Juventus,26/27,Serie A,5
+506,Juventus,25/26,Serie A,6
+506,Juventus,24/25,Serie A,4
+506,Juventus,23/24,Serie A,3
+506,Juventus,22/23,Serie A,7
+506,Juventus,21/22,Serie A,4
+506,Juventus,20/21,Serie A,4
+506,Juventus,19/20,Serie A,1
+506,Juventus,18/19,Serie A,1
+506,Juventus,17/18,Serie A,1
+506,Juventus,16/17,Serie A,1
+506,Juventus,15/16,Serie A,1
+506,Juventus,14/15,Serie A,1
+506,Juventus,13/14,Serie A,1
+506,Juventus,12/13,Serie A,1
+506,Juventus,11/12,Serie A,1
+506,Juventus,10/11,Serie A,7
+506,Juventus,09/10,Serie A,7
+506,Juventus,08/09,Serie A,2
+506,Juventus,07/08,Serie A,3
+506,Juventus,06/07,Serie A,1
+506,Juventus,05/06,Serie A,20
+506,Juventus,04/05,Serie A,1
+506,Juventus,03/04,Serie A,3
+506,Juventus,02/03,Serie A,1
+506,Juventus,01/02,Serie A,1
+506,Juventus,00/01,Serie A,2
+506,Juventus,99/00,Serie A,2
+506,Juventus,98/99,Serie A,6
+506,Juventus,97/98,Serie A,1
+506,Juventus,96/97,Serie A,1
+506,Juventus,95/96,Serie A,2
+506,Juventus,94/95,Serie A,1
+506,Juventus,93/94,Serie A,2
+506,Juventus,92/93,Serie A,4
+506,Juventus,91/92,Serie A,2
+506,Juventus,90/91,Serie A,7
+506,Juventus,89/90,Serie A,4
+506,Juventus,88/89,Serie A,4
+506,Juventus,87/88,Serie A,6
+506,Juventus,86/87,Serie A,2
+506,Juventus,85/86,Serie A,1
+506,Juventus,84/85,Serie A,6
+506,Juventus,83/84,Serie A,1
+506,Juventus,82/83,Serie A,2
+506,Juventus,81/82,Serie A,1
+506,Juventus,80/81,Serie A,1
+506,Juventus,79/80,Serie A,2
+506,Juventus,78/79,Serie A,3
+506,Juventus,77/78,Serie A,1
+506,Juventus,76/77,Serie A,1
+506,Juventus,75/76,Serie A,2
+506,Juventus,74/75,Serie A,1
+506,Juventus,73/74,Serie A,2
+506,Juventus,72/73,Serie A,1
+506,Juventus,71/72,Serie A,1
+506,Juventus,70/71,Serie A,4
+506,Juventus,69/70,Serie A,3
+506,Juventus,68/69,Serie A,5
+506,Juventus,67/68,Serie A,3
+506,Juventus,66/67,Serie A,1
+506,Juventus,65/66,Serie A,5
+506,Juventus,64/65,Serie A,4
+506,Juventus,63/64,Serie A,5
+506,Juventus,62/63,Serie A,2
+506,Juventus,61/62,Serie A,13
+506,Juventus,60/61,Serie A,1
+506,Juventus,59/60,Serie A,1
+506,Juventus,58/59,Serie A,4
+506,Juventus,57/58,Serie A,1
+506,Juventus,56/57,Serie A,9
+506,Juventus,55/56,Serie A,12
+506,Juventus,54/55,Serie A,7
+506,Juventus,53/54,Serie A,2
+506,Juventus,52/53,Serie A,2
+506,Juventus,51/52,Serie A,1
+506,Juventus,50/51,Serie A,3
+506,Juventus,49/50,Serie A,1
+506,Juventus,48/49,Serie A,4
+506,Juventus,47/48,Serie A,4
+506,Juventus,46/47,Serie A,2
+506,Juventus,45/46,Serie A,3
+506,Juventus,42/43,Serie A,3
+506,Juventus,41/42,Serie A,6
+506,Juventus,40/41,Serie A,5
+506,Juventus,39/40,Serie A,3
+506,Juventus,38/39,Serie A,8
+506,Juventus,37/38,Serie A,2
+506,Juventus,36/37,Serie A,5
+506,Juventus,35/36,Serie A,5
+506,Juventus,34/35,Serie A,1
+506,Juventus,33/34,Serie A,1
+506,Juventus,32/33,Serie A,1
+506,Juventus,31/32,Serie A,1
+506,Juventus,30/31,Serie A,1
+506,Juventus,1929/30,Serie A,3
+506,Juventus,1928/29,Serie A,2
+506,Juventus,1927/28,Serie A,5
+506,Juventus,1926/27,Serie A,1
+506,Juventus,1925/26,Serie A,1
+506,Juventus,1924/25,Serie A,3
+506,Juventus,1923/24,Serie A,6
+506,Juventus,1922/23,Serie A,14
+506,Juventus,1921/22,Serie A,4
+398,Lazio,26/27,Serie A,7
+398,Lazio,25/26,Serie A,9
+398,Lazio,24/25,Serie A,7
+398,Lazio,23/24,Serie A,7
+398,Lazio,22/23,Serie A,2
+398,Lazio,21/22,Serie A,5
+398,Lazio,20/21,Serie A,6
+398,Lazio,19/20,Serie A,4
+398,Lazio,18/19,Serie A,8
+398,Lazio,17/18,Serie A,5
+398,Lazio,16/17,Serie A,5
+398,Lazio,15/16,Serie A,8
+398,Lazio,14/15,Serie A,3
+398,Lazio,13/14,Serie A,9
+398,Lazio,12/13,Serie A,7
+398,Lazio,11/12,Serie A,4
+398,Lazio,10/11,Serie A,5
+398,Lazio,09/10,Serie A,12
+398,Lazio,08/09,Serie A,10
+398,Lazio,07/08,Serie A,12
+398,Lazio,06/07,Serie A,3
+398,Lazio,05/06,Serie A,16
+398,Lazio,04/05,Serie A,13
+398,Lazio,03/04,Serie A,6
+398,Lazio,02/03,Serie A,4
+398,Lazio,01/02,Serie A,6
+398,Lazio,00/01,Serie A,3
+398,Lazio,99/00,Serie A,1
+398,Lazio,98/99,Serie A,2
+398,Lazio,97/98,Serie A,7
+398,Lazio,96/97,Serie A,4
+398,Lazio,95/96,Serie A,3
+398,Lazio,94/95,Serie A,3
+398,Lazio,93/94,Serie A,3
+398,Lazio,92/93,Serie A,5
+398,Lazio,91/92,Serie A,11
+398,Lazio,90/91,Serie A,11
+398,Lazio,89/90,Serie A,9
+398,Lazio,88/89,Serie A,12
+398,Lazio,87/88,Serie A,3
+398,Lazio,86/87,Serie A,15
+398,Lazio,85/86,Serie A,12
+398,Lazio,84/85,Serie A,15
+398,Lazio,83/84,Serie A,13
+398,Lazio,82/83,Serie A,2
+398,Lazio,81/82,Serie A,11
+398,Lazio,80/81,Serie A,4
+398,Lazio,79/80,Serie A,16
+398,Lazio,78/79,Serie A,8
+398,Lazio,77/78,Serie A,12
+398,Lazio,76/77,Serie A,5
+398,Lazio,75/76,Serie A,13
+398,Lazio,74/75,Serie A,4
+398,Lazio,73/74,Serie A,1
+398,Lazio,72/73,Serie A,3
+398,Lazio,71/72,Serie A,2
+398,Lazio,70/71,Serie A,15
+398,Lazio,69/70,Serie A,8
+398,Lazio,68/69,Serie A,1
+398,Lazio,67/68,Serie A,11
+398,Lazio,66/67,Serie A,15
+398,Lazio,65/66,Serie A,13
+398,Lazio,64/65,Serie A,14
+398,Lazio,63/64,Serie A,9
+398,Lazio,62/63,Serie A,3
+398,Lazio,61/62,Serie A,5
+398,Lazio,60/61,Serie A,18
+398,Lazio,59/60,Serie A,12
+398,Lazio,58/59,Serie A,12
+398,Lazio,57/58,Serie A,15
+398,Lazio,56/57,Serie A,3
+398,Lazio,55/56,Serie A,3
+398,Lazio,54/55,Serie A,13
+398,Lazio,53/54,Serie A,11
+398,Lazio,52/53,Serie A,12
+398,Lazio,51/52,Serie A,4
+398,Lazio,50/51,Serie A,4
+398,Lazio,49/50,Serie A,4
+398,Lazio,48/49,Serie A,13
+398,Lazio,47/48,Serie A,13
+398,Lazio,46/47,Serie A,12
+398,Lazio,42/43,Serie A,9
+398,Lazio,41/42,Serie A,4
+398,Lazio,40/41,Serie A,14
+398,Lazio,39/40,Serie A,4
+398,Lazio,38/39,Serie A,10
+398,Lazio,37/38,Serie A,8
+398,Lazio,36/37,Serie A,2
+398,Lazio,35/36,Serie A,7
+398,Lazio,34/35,Serie A,5
+398,Lazio,33/34,Serie A,10
+398,Lazio,32/33,Serie A,10
+398,Lazio,31/32,Serie A,13
+398,Lazio,30/31,Serie A,8
+398,Lazio,1929/30,Serie A,15
+398,Lazio,1928/29,Serie A,8
+398,Lazio,1927/28,Serie A,10
+31,Liverpool,26/27,Premier League,6
+31,Liverpool,25/26,Premier League,5
+31,Liverpool,24/25,Premier League,1
+31,Liverpool,23/24,Premier League,3
+31,Liverpool,22/23,Premier League,5
+31,Liverpool,21/22,Premier League,2
+31,Liverpool,20/21,Premier League,3
+31,Liverpool,19/20,Premier League,1
+31,Liverpool,18/19,Premier League,2
+31,Liverpool,17/18,Premier League,4
+31,Liverpool,16/17,Premier League,4
+31,Liverpool,15/16,Premier League,8
+31,Liverpool,14/15,Premier League,6
+31,Liverpool,13/14,Premier League,2
+31,Liverpool,12/13,Premier League,7
+31,Liverpool,11/12,Premier League,8
+31,Liverpool,10/11,Premier League,6
+31,Liverpool,09/10,Premier League,7
+31,Liverpool,08/09,Premier League,2
+31,Liverpool,07/08,Premier League,4
+31,Liverpool,06/07,Premier League,3
+31,Liverpool,05/06,Premier League,3
+31,Liverpool,04/05,Premier League,5
+31,Liverpool,03/04,Premier League,4
+31,Liverpool,02/03,Premier League,5
+31,Liverpool,01/02,Premier League,2
+31,Liverpool,00/01,Premier League,3
+31,Liverpool,99/00,Premier League,4
+31,Liverpool,98/99,Premier League,7
+31,Liverpool,97/98,Premier League,3
+31,Liverpool,96/97,Premier League,4
+31,Liverpool,95/96,Premier League,3
+31,Liverpool,94/95,Premier League,4
+31,Liverpool,93/94,Premier League,8
+31,Liverpool,92/93,Premier League,6
+31,Liverpool,91/92,Premier League,6
+31,Liverpool,90/91,Premier League,2
+31,Liverpool,89/90,Premier League,1
+31,Liverpool,88/89,Premier League,2
+31,Liverpool,87/88,Premier League,1
+31,Liverpool,86/87,Premier League,2
+31,Liverpool,85/86,Premier League,1
+31,Liverpool,84/85,Premier League,2
+31,Liverpool,83/84,Premier League,1
+31,Liverpool,82/83,Premier League,1
+31,Liverpool,81/82,Premier League,1
+31,Liverpool,80/81,Premier League,5
+31,Liverpool,79/80,Premier League,1
+31,Liverpool,78/79,Premier League,1
+31,Liverpool,77/78,Premier League,2
+31,Liverpool,76/77,Premier League,1
+31,Liverpool,75/76,Premier League,1
+31,Liverpool,74/75,Premier League,3
+31,Liverpool,73/74,Premier League,2
+31,Liverpool,72/73,Premier League,1
+31,Liverpool,71/72,Premier League,3
+31,Liverpool,70/71,Premier League,5
+31,Liverpool,69/70,Premier League,5
+31,Liverpool,68/69,Premier League,2
+31,Liverpool,67/68,Premier League,3
+31,Liverpool,66/67,Premier League,5
+31,Liverpool,65/66,Premier League,1
+31,Liverpool,64/65,Premier League,7
+31,Liverpool,63/64,Premier League,1
+31,Liverpool,62/63,Premier League,8
+31,Liverpool,61/62,Premier League,1
+31,Liverpool,60/61,Premier League,3
+31,Liverpool,59/60,Premier League,3
+31,Liverpool,58/59,Premier League,4
+31,Liverpool,57/58,Premier League,4
+31,Liverpool,56/57,Premier League,3
+31,Liverpool,55/56,Premier League,3
+31,Liverpool,54/55,Premier League,11
+31,Liverpool,53/54,Premier League,22
+31,Liverpool,52/53,Premier League,17
+31,Liverpool,51/52,Premier League,11
+31,Liverpool,50/51,Premier League,9
+31,Liverpool,49/50,Premier League,8
+31,Liverpool,48/49,Premier League,12
+31,Liverpool,47/48,Premier League,11
+31,Liverpool,46/47,Premier League,1
+31,Liverpool,39/40,Premier League,4
+31,Liverpool,38/39,Premier League,11
+31,Liverpool,37/38,Premier League,11
+31,Liverpool,36/37,Premier League,18
+31,Liverpool,35/36,Premier League,19
+31,Liverpool,34/35,Premier League,7
+31,Liverpool,33/34,Premier League,18
+31,Liverpool,32/33,Premier League,14
+31,Liverpool,31/32,Premier League,10
+31,Liverpool,30/31,Premier League,9
+31,Liverpool,1929/30,Premier League,12
+31,Liverpool,1928/29,Premier League,5
+31,Liverpool,1927/28,Premier League,16
+31,Liverpool,1926/27,Premier League,9
+31,Liverpool,1925/26,Premier League,10
+31,Liverpool,1924/25,Premier League,4
+31,Liverpool,1923/24,Premier League,11
+31,Liverpool,1922/23,Premier League,1
+31,Liverpool,1921/22,Premier League,1
+31,Liverpool,1920/21,Premier League,5
+31,Liverpool,1919/20,Premier League,4
+31,Liverpool,1914/15,Premier League,13
+31,Liverpool,1913/14,Premier League,14
+31,Liverpool,1912/13,Premier League,10
+31,Liverpool,1911/12,Premier League,17
+31,Liverpool,1910/11,Premier League,10
+31,Liverpool,1909/10,Premier League,2
+31,Liverpool,1908/09,Premier League,11
+31,Liverpool,1907/08,Premier League,7
+31,Liverpool,1906/07,Premier League,15
+31,Liverpool,1905/06,Premier League,1
+31,Liverpool,1903/04,Premier League,17
+31,Liverpool,1902/03,Premier League,5
+31,Liverpool,1901/02,Premier League,11
+31,Liverpool,1900/01,Premier League,1
+31,Liverpool,1899/00,Premier League,10
+31,Liverpool,1898/99,Premier League,2
+31,Liverpool,1894/95,Premier League,14
+281,Manchester City,26/27,Premier League,1
+281,Manchester City,25/26,Premier League,2
+281,Manchester City,24/25,Premier League,3
+281,Manchester City,23/24,Premier League,1
+281,Manchester City,22/23,Premier League,1
+281,Manchester City,21/22,Premier League,1
+281,Manchester City,20/21,Premier League,1
+281,Manchester City,19/20,Premier League,2
+281,Manchester City,18/19,Premier League,1
+281,Manchester City,17/18,Premier League,1
+281,Manchester City,16/17,Premier League,3
+281,Manchester City,15/16,Premier League,4
+281,Manchester City,14/15,Premier League,2
+281,Manchester City,13/14,Premier League,1
+281,Manchester City,12/13,Premier League,2
+281,Manchester City,11/12,Premier League,1
+281,Manchester City,10/11,Premier League,3
+281,Manchester City,09/10,Premier League,5
+281,Manchester City,08/09,Premier League,10
+281,Manchester City,07/08,Premier League,9
+281,Manchester City,06/07,Premier League,14
+281,Manchester City,05/06,Premier League,15
+281,Manchester City,04/05,Premier League,8
+281,Manchester City,03/04,Premier League,16
+281,Manchester City,02/03,Premier League,9
+281,Manchester City,01/02,Premier League,1
+281,Manchester City,00/01,Premier League,18
+281,Manchester City,99/00,Premier League,2
+281,Manchester City,98/99,Premier League,3
+281,Manchester City,97/98,Premier League,22
+281,Manchester City,96/97,Premier League,14
+281,Manchester City,95/96,Premier League,18
+281,Manchester City,94/95,Premier League,17
+281,Manchester City,93/94,Premier League,16
+281,Manchester City,92/93,Premier League,9
+281,Manchester City,91/92,Premier League,5
+281,Manchester City,90/91,Premier League,5
+281,Manchester City,89/90,Premier League,14
+281,Manchester City,88/89,Premier League,2
+281,Manchester City,87/88,Premier League,8
+281,Manchester City,86/87,Premier League,21
+281,Manchester City,85/86,Premier League,15
+281,Manchester City,84/85,Premier League,19
+281,Manchester City,83/84,Premier League,6
+281,Manchester City,82/83,Premier League,20
+281,Manchester City,81/82,Premier League,10
+281,Manchester City,80/81,Premier League,12
+281,Manchester City,79/80,Premier League,17
+281,Manchester City,78/79,Premier League,15
+281,Manchester City,77/78,Premier League,4
+281,Manchester City,76/77,Premier League,2
+281,Manchester City,75/76,Premier League,8
+281,Manchester City,74/75,Premier League,8
+281,Manchester City,73/74,Premier League,14
+281,Manchester City,72/73,Premier League,11
+281,Manchester City,71/72,Premier League,4
+281,Manchester City,70/71,Premier League,11
+281,Manchester City,69/70,Premier League,10
+281,Manchester City,68/69,Premier League,13
+281,Manchester City,67/68,Premier League,1
+281,Manchester City,66/67,Premier League,14
+281,Manchester City,64/65,Premier League,19
+281,Manchester City,62/63,Premier League,21
+281,Manchester City,61/62,Premier League,12
+281,Manchester City,60/61,Premier League,13
+281,Manchester City,59/60,Premier League,16
+281,Manchester City,58/59,Premier League,20
+281,Manchester City,57/58,Premier League,5
+281,Manchester City,56/57,Premier League,18
+281,Manchester City,55/56,Premier League,4
+281,Manchester City,54/55,Premier League,7
+281,Manchester City,53/54,Premier League,17
+281,Manchester City,52/53,Premier League,20
+281,Manchester City,51/52,Premier League,15
+281,Manchester City,49/50,Premier League,21
+281,Manchester City,48/49,Premier League,7
+281,Manchester City,47/48,Premier League,10
+281,Manchester City,38/39,Premier League,8
+281,Manchester City,37/38,Premier League,21
+281,Manchester City,36/37,Premier League,1
+281,Manchester City,35/36,Premier League,9
+281,Manchester City,34/35,Premier League,4
+281,Manchester City,33/34,Premier League,5
+281,Manchester City,32/33,Premier League,16
+281,Manchester City,31/32,Premier League,14
+281,Manchester City,30/31,Premier League,8
+281,Manchester City,1929/30,Premier League,3
+281,Manchester City,1928/29,Premier League,7
+281,Manchester City,1925/26,Premier League,21
+281,Manchester City,1924/25,Premier League,10
+281,Manchester City,1923/24,Premier League,10
+281,Manchester City,1922/23,Premier League,8
+281,Manchester City,1921/22,Premier League,9
+281,Manchester City,1920/21,Premier League,2
+281,Manchester City,1919/20,Premier League,7
+281,Manchester City,1914/15,Premier League,5
+281,Manchester City,1913/14,Premier League,12
+281,Manchester City,1912/13,Premier League,5
+281,Manchester City,1911/12,Premier League,16
+281,Manchester City,1910/11,Premier League,17
+281,Manchester City,1908/09,Premier League,18
+281,Manchester City,1907/08,Premier League,4
+281,Manchester City,1906/07,Premier League,17
+281,Manchester City,1905/06,Premier League,3
+281,Manchester City,1904/05,Premier League,3
+281,Manchester City,1903/04,Premier League,2
+281,Manchester City,1901/02,Premier League,18
+281,Manchester City,1900/01,Premier League,11
+281,Manchester City,1899/00,Premier League,7
+281,Manchester City,1896/97,Premier League,7
+985,Manchester United,26/27,Premier League,11
+985,Manchester United,25/26,Premier League,3
+985,Manchester United,24/25,Premier League,15
+985,Manchester United,23/24,Premier League,8
+985,Manchester United,22/23,Premier League,3
+985,Manchester United,21/22,Premier League,6
+985,Manchester United,20/21,Premier League,2
+985,Manchester United,19/20,Premier League,3
+985,Manchester United,18/19,Premier League,6
+985,Manchester United,17/18,Premier League,2
+985,Manchester United,16/17,Premier League,6
+985,Manchester United,15/16,Premier League,5
+985,Manchester United,14/15,Premier League,4
+985,Manchester United,13/14,Premier League,7
+985,Manchester United,12/13,Premier League,1
+985,Manchester United,11/12,Premier League,2
+985,Manchester United,10/11,Premier League,1
+985,Manchester United,09/10,Premier League,2
+985,Manchester United,08/09,Premier League,1
+985,Manchester United,07/08,Premier League,1
+985,Manchester United,06/07,Premier League,1
+985,Manchester United,05/06,Premier League,2
+985,Manchester United,04/05,Premier League,3
+985,Manchester United,03/04,Premier League,3
+985,Manchester United,02/03,Premier League,1
+985,Manchester United,01/02,Premier League,3
+985,Manchester United,00/01,Premier League,1
+985,Manchester United,99/00,Premier League,1
+985,Manchester United,98/99,Premier League,1
+985,Manchester United,97/98,Premier League,2
+985,Manchester United,96/97,Premier League,1
+985,Manchester United,95/96,Premier League,1
+985,Manchester United,94/95,Premier League,2
+985,Manchester United,93/94,Premier League,1
+985,Manchester United,92/93,Premier League,1
+985,Manchester United,91/92,Premier League,2
+985,Manchester United,90/91,Premier League,6
+985,Manchester United,89/90,Premier League,13
+985,Manchester United,88/89,Premier League,11
+985,Manchester United,87/88,Premier League,2
+985,Manchester United,86/87,Premier League,11
+985,Manchester United,85/86,Premier League,4
+985,Manchester United,84/85,Premier League,4
+985,Manchester United,83/84,Premier League,4
+985,Manchester United,82/83,Premier League,3
+985,Manchester United,81/82,Premier League,3
+985,Manchester United,80/81,Premier League,8
+985,Manchester United,79/80,Premier League,2
+985,Manchester United,78/79,Premier League,9
+985,Manchester United,77/78,Premier League,10
+985,Manchester United,76/77,Premier League,6
+985,Manchester United,75/76,Premier League,3
+985,Manchester United,74/75,Premier League,1
+985,Manchester United,73/74,Premier League,21
+985,Manchester United,72/73,Premier League,18
+985,Manchester United,71/72,Premier League,8
+985,Manchester United,70/71,Premier League,8
+985,Manchester United,69/70,Premier League,8
+985,Manchester United,68/69,Premier League,11
+985,Manchester United,67/68,Premier League,2
+985,Manchester United,66/67,Premier League,1
+985,Manchester United,65/66,Premier League,4
+985,Manchester United,64/65,Premier League,1
+985,Manchester United,63/64,Premier League,2
+985,Manchester United,62/63,Premier League,19
+985,Manchester United,61/62,Premier League,15
+985,Manchester United,60/61,Premier League,7
+985,Manchester United,59/60,Premier League,7
+985,Manchester United,58/59,Premier League,2
+985,Manchester United,57/58,Premier League,9
+985,Manchester United,56/57,Premier League,1
+985,Manchester United,55/56,Premier League,1
+985,Manchester United,54/55,Premier League,5
+985,Manchester United,53/54,Premier League,5
+985,Manchester United,52/53,Premier League,8
+985,Manchester United,51/52,Premier League,1
+985,Manchester United,50/51,Premier League,2
+985,Manchester United,49/50,Premier League,4
+985,Manchester United,48/49,Premier League,2
+985,Manchester United,47/48,Premier League,2
+985,Manchester United,46/47,Premier League,3
+985,Manchester United,39/40,Premier League,10
+985,Manchester United,38/39,Premier League,14
+985,Manchester United,36/37,Premier League,21
+985,Manchester United,30/31,Premier League,22
+985,Manchester United,1929/30,Premier League,17
+985,Manchester United,1928/29,Premier League,12
+985,Manchester United,1927/28,Premier League,18
+985,Manchester United,1926/27,Premier League,15
+985,Manchester United,1925/26,Premier League,6
+985,Manchester United,1921/22,Premier League,22
+985,Manchester United,1920/21,Premier League,12
+985,Manchester United,1919/20,Premier League,12
+985,Manchester United,1914/15,Premier League,18
+985,Manchester United,1913/14,Premier League,10
+985,Manchester United,1912/13,Premier League,4
+985,Manchester United,1911/12,Premier League,13
+985,Manchester United,1910/11,Premier League,1
+985,Manchester United,1909/10,Premier League,4
+985,Manchester United,1908/09,Premier League,8
+985,Manchester United,1907/08,Premier League,1
+985,Manchester United,1906/07,Premier League,8
+985,Manchester United,1896/97,Premier League,3
+985,Manchester United,1896/97,Premier League,3
+985,Manchester United,1893/94,Premier League,16
+985,Manchester United,1893/94,Premier League,16
+985,Manchester United,1892/93,Premier League,16
+985,Manchester United,1892/93,Premier League,16
+985,Manchester United,1892/93,Premier League,16
+244,Marseille,26/27,Ligue 1,11
+244,Marseille,25/26,Ligue 1,5
+244,Marseille,24/25,Ligue 1,2
+244,Marseille,23/24,Ligue 1,8
+244,Marseille,22/23,Ligue 1,3
+244,Marseille,21/22,Ligue 1,2
+244,Marseille,20/21,Ligue 1,5
+244,Marseille,19/20,Ligue 1,2
+244,Marseille,18/19,Ligue 1,5
+244,Marseille,17/18,Ligue 1,4
+244,Marseille,16/17,Ligue 1,5
+244,Marseille,15/16,Ligue 1,13
+244,Marseille,14/15,Ligue 1,4
+244,Marseille,13/14,Ligue 1,6
+244,Marseille,12/13,Ligue 1,2
+244,Marseille,11/12,Ligue 1,10
+244,Marseille,10/11,Ligue 1,2
+244,Marseille,09/10,Ligue 1,1
+244,Marseille,08/09,Ligue 1,2
+244,Marseille,07/08,Ligue 1,3
+244,Marseille,06/07,Ligue 1,2
+244,Marseille,05/06,Ligue 1,5
+244,Marseille,04/05,Ligue 1,5
+244,Marseille,03/04,Ligue 1,7
+244,Marseille,02/03,Ligue 1,3
+244,Marseille,01/02,Ligue 1,9
+244,Marseille,00/01,Ligue 1,15
+244,Marseille,99/00,Ligue 1,15
+244,Marseille,98/99,Ligue 1,2
+244,Marseille,97/98,Ligue 1,4
+244,Marseille,96/97,Ligue 1,11
+244,Marseille,95/96,Ligue 1,2
+244,Marseille,94/95,Ligue 1,1
+244,Marseille,93/94,Ligue 1,2
+244,Marseille,92/93,Ligue 1,1
+244,Marseille,91/92,Ligue 1,1
+244,Marseille,90/91,Ligue 1,1
+244,Marseille,89/90,Ligue 1,1
+244,Marseille,88/89,Ligue 1,1
+244,Marseille,87/88,Ligue 1,6
+244,Marseille,86/87,Ligue 1,2
+244,Marseille,85/86,Ligue 1,12
+244,Marseille,84/85,Ligue 1,17
+244,Marseille,83/84,Ligue 1,1
+244,Marseille,82/83,Ligue 1,4
+244,Marseille,81/82,Ligue 1,3
+244,Marseille,80/81,Ligue 1,6
+244,Marseille,79/80,Ligue 1,19
+244,Marseille,78/79,Ligue 1,12
+244,Marseille,77/78,Ligue 1,4
+244,Marseille,76/77,Ligue 1,12
+244,Marseille,75/76,Ligue 1,8
+244,Marseille,74/75,Ligue 1,2
+244,Marseille,73/74,Ligue 1,14
+244,Marseille,72/73,Ligue 1,3
+244,Marseille,71/72,Ligue 1,1
+244,Marseille,70/71,Ligue 1,1
+244,Marseille,69/70,Ligue 1,2
+244,Marseille,68/69,Ligue 1,6
+244,Marseille,67/68,Ligue 1,4
+244,Marseille,66/67,Ligue 1,9
+244,Marseille,62/63,Ligue 1,20
+244,Marseille,58/59,Ligue 1,20
+244,Marseille,57/58,Ligue 1,16
+244,Marseille,56/57,Ligue 1,6
+244,Marseille,55/56,Ligue 1,5
+244,Marseille,54/55,Ligue 1,10
+244,Marseille,53/54,Ligue 1,14
+244,Marseille,52/53,Ligue 1,6
+244,Marseille,51/52,Ligue 1,16
+244,Marseille,50/51,Ligue 1,8
+244,Marseille,49/50,Ligue 1,8
+244,Marseille,48/49,Ligue 1,3
+244,Marseille,47/48,Ligue 1,1
+244,Marseille,46/47,Ligue 1,6
+244,Marseille,45/46,Ligue 1,9
+244,Marseille,38/39,Ligue 1,2
+244,Marseille,37/38,Ligue 1,2
+244,Marseille,36/37,Ligue 1,1
+244,Marseille,35/36,Ligue 1,6
+244,Marseille,34/35,Ligue 1,8
+244,Marseille,33/34,Ligue 1,3
+244,Marseille,32/33,Ligue 1,2
+162,Monaco,26/27,Ligue 1,1
+162,Monaco,25/26,Ligue 1,7
+162,Monaco,24/25,Ligue 1,3
+162,Monaco,23/24,Ligue 1,2
+162,Monaco,22/23,Ligue 1,6
+162,Monaco,21/22,Ligue 1,3
+162,Monaco,20/21,Ligue 1,3
+162,Monaco,19/20,Ligue 1,9
+162,Monaco,18/19,Ligue 1,17
+162,Monaco,17/18,Ligue 1,2
+162,Monaco,16/17,Ligue 1,1
+162,Monaco,15/16,Ligue 1,3
+162,Monaco,14/15,Ligue 1,3
+162,Monaco,13/14,Ligue 1,2
+162,Monaco,12/13,Ligue 1,1
+162,Monaco,11/12,Ligue 1,8
+162,Monaco,10/11,Ligue 1,18
+162,Monaco,09/10,Ligue 1,8
+162,Monaco,08/09,Ligue 1,11
+162,Monaco,07/08,Ligue 1,12
+162,Monaco,06/07,Ligue 1,9
+162,Monaco,05/06,Ligue 1,10
+162,Monaco,04/05,Ligue 1,3
+162,Monaco,03/04,Ligue 1,3
+162,Monaco,02/03,Ligue 1,2
+162,Monaco,01/02,Ligue 1,15
+162,Monaco,00/01,Ligue 1,11
+162,Monaco,99/00,Ligue 1,1
+162,Monaco,98/99,Ligue 1,4
+162,Monaco,97/98,Ligue 1,3
+162,Monaco,96/97,Ligue 1,1
+162,Monaco,95/96,Ligue 1,3
+162,Monaco,94/95,Ligue 1,6
+162,Monaco,93/94,Ligue 1,9
+162,Monaco,92/93,Ligue 1,3
+162,Monaco,91/92,Ligue 1,2
+162,Monaco,90/91,Ligue 1,2
+162,Monaco,89/90,Ligue 1,3
+162,Monaco,88/89,Ligue 1,3
+162,Monaco,87/88,Ligue 1,1
+162,Monaco,86/87,Ligue 1,5
+162,Monaco,85/86,Ligue 1,9
+162,Monaco,84/85,Ligue 1,3
+162,Monaco,83/84,Ligue 1,2
+162,Monaco,82/83,Ligue 1,6
+162,Monaco,81/82,Ligue 1,1
+162,Monaco,80/81,Ligue 1,4
+162,Monaco,79/80,Ligue 1,4
+162,Monaco,78/79,Ligue 1,4
+162,Monaco,77/78,Ligue 1,1
+162,Monaco,76/77,Ligue 1,1
+162,Monaco,75/76,Ligue 1,18
+162,Monaco,74/75,Ligue 1,9
+162,Monaco,73/74,Ligue 1,16
+162,Monaco,72/73,Ligue 1,2
+162,Monaco,71/72,Ligue 1,19
+162,Monaco,70/71,Ligue 1,1
+162,Monaco,68/69,Ligue 1,17
+162,Monaco,67/68,Ligue 1,11
+162,Monaco,66/67,Ligue 1,14
+162,Monaco,65/66,Ligue 1,13
+162,Monaco,64/65,Ligue 1,12
+162,Monaco,63/64,Ligue 1,2
+162,Monaco,62/63,Ligue 1,1
+162,Monaco,61/62,Ligue 1,6
+162,Monaco,60/61,Ligue 1,1
+162,Monaco,59/60,Ligue 1,4
+162,Monaco,58/59,Ligue 1,8
+162,Monaco,57/58,Ligue 1,4
+162,Monaco,56/57,Ligue 1,5
+162,Monaco,55/56,Ligue 1,3
+162,Monaco,54/55,Ligue 1,14
+162,Monaco,53/54,Ligue 1,10
+6195,Napoli,26/27,Serie A,11
+6195,Napoli,25/26,Serie A,2
+6195,Napoli,24/25,Serie A,1
+6195,Napoli,23/24,Serie A,10
+6195,Napoli,22/23,Serie A,1
+6195,Napoli,21/22,Serie A,3
+6195,Napoli,20/21,Serie A,5
+6195,Napoli,19/20,Serie A,7
+6195,Napoli,18/19,Serie A,2
+6195,Napoli,17/18,Serie A,2
+6195,Napoli,16/17,Serie A,3
+6195,Napoli,15/16,Serie A,2
+6195,Napoli,14/15,Serie A,5
+6195,Napoli,13/14,Serie A,3
+6195,Napoli,12/13,Serie A,2
+6195,Napoli,11/12,Serie A,5
+6195,Napoli,10/11,Serie A,3
+6195,Napoli,09/10,Serie A,6
+6195,Napoli,08/09,Serie A,12
+6195,Napoli,07/08,Serie A,8
+6195,Napoli,06/07,Serie A,2
+6195,Napoli,05/06,Serie A,1
+6195,Napoli,04/05,Serie A,3
+6195,Napoli,03/04,Serie A,14
+6195,Napoli,02/03,Serie A,16
+6195,Napoli,01/02,Serie A,5
+6195,Napoli,00/01,Serie A,17
+6195,Napoli,99/00,Serie A,2
+6195,Napoli,98/99,Serie A,10
+6195,Napoli,97/98,Serie A,18
+6195,Napoli,96/97,Serie A,13
+6195,Napoli,95/96,Serie A,12
+6195,Napoli,94/95,Serie A,7
+6195,Napoli,93/94,Serie A,6
+6195,Napoli,92/93,Serie A,11
+6195,Napoli,91/92,Serie A,4
+6195,Napoli,90/91,Serie A,8
+6195,Napoli,89/90,Serie A,1
+6195,Napoli,88/89,Serie A,2
+6195,Napoli,87/88,Serie A,2
+6195,Napoli,86/87,Serie A,1
+6195,Napoli,85/86,Serie A,3
+6195,Napoli,84/85,Serie A,8
+6195,Napoli,83/84,Serie A,12
+6195,Napoli,82/83,Serie A,10
+6195,Napoli,81/82,Serie A,4
+6195,Napoli,80/81,Serie A,3
+6195,Napoli,79/80,Serie A,10
+6195,Napoli,78/79,Serie A,7
+6195,Napoli,77/78,Serie A,6
+6195,Napoli,76/77,Serie A,7
+6195,Napoli,75/76,Serie A,5
+6195,Napoli,74/75,Serie A,2
+6195,Napoli,73/74,Serie A,3
+6195,Napoli,72/73,Serie A,9
+6195,Napoli,71/72,Serie A,8
+6195,Napoli,70/71,Serie A,3
+6195,Napoli,69/70,Serie A,6
+6195,Napoli,68/69,Serie A,7
+6195,Napoli,67/68,Serie A,2
+6195,Napoli,66/67,Serie A,4
+6195,Napoli,65/66,Serie A,3
+6195,Napoli,64/65,Serie A,2
+6195,Napoli,63/64,Serie A,8
+6195,Napoli,62/63,Serie A,16
+6195,Napoli,61/62,Serie A,2
+6195,Napoli,60/61,Serie A,17
+6195,Napoli,59/60,Serie A,14
+6195,Napoli,58/59,Serie A,7
+6195,Napoli,57/58,Serie A,4
+6195,Napoli,56/57,Serie A,11
+6195,Napoli,55/56,Serie A,14
+6195,Napoli,54/55,Serie A,6
+6195,Napoli,53/54,Serie A,5
+6195,Napoli,52/53,Serie A,4
+6195,Napoli,51/52,Serie A,6
+6195,Napoli,50/51,Serie A,6
+6195,Napoli,49/50,Serie A,1
+6195,Napoli,48/49,Serie A,6
+6195,Napoli,47/48,Serie A,19
+6195,Napoli,46/47,Serie A,8
+6195,Napoli,42/43,Serie A,3
+6195,Napoli,41/42,Serie A,15
+6195,Napoli,40/41,Serie A,8
+6195,Napoli,39/40,Serie A,14
+6195,Napoli,38/39,Serie A,6
+6195,Napoli,37/38,Serie A,10
+6195,Napoli,36/37,Serie A,13
+6195,Napoli,35/36,Serie A,8
+6195,Napoli,34/35,Serie A,9
+6195,Napoli,33/34,Serie A,3
+6195,Napoli,32/33,Serie A,4
+6195,Napoli,31/32,Serie A,9
+6195,Napoli,30/31,Serie A,6
+6195,Napoli,1929/30,Serie A,6
+6195,Napoli,1928/29,Serie A,9
+6195,Napoli,1927/28,Serie A,9
+6195,Napoli,1926/27,Serie A,10
+683,Olympiakos,26/27,Super League 1,3
+683,Olympiakos,25/26,Super League 1,2
+683,Olympiakos,24/25,Super League 1,1
+683,Olympiakos,23/24,Super League 1,3
+683,Olympiakos,22/23,Super League 1,3
+683,Olympiakos,21/22,Super League 1,1
+683,Olympiakos,20/21,Super League 1,1
+683,Olympiakos,19/20,Super League 1,1
+683,Olympiakos,18/19,Super League 1,2
+683,Olympiakos,17/18,Super League 1,3
+683,Olympiakos,16/17,Super League 1,1
+683,Olympiakos,15/16,Super League 1,1
+683,Olympiakos,14/15,Super League 1,1
+683,Olympiakos,13/14,Super League 1,1
+683,Olympiakos,12/13,Super League 1,1
+683,Olympiakos,11/12,Super League 1,1
+683,Olympiakos,10/11,Super League 1,1
+683,Olympiakos,09/10,Super League 1,2
+683,Olympiakos,08/09,Super League 1,1
+683,Olympiakos,07/08,Super League 1,1
+683,Olympiakos,06/07,Super League 1,1
+683,Olympiakos,05/06,Super League 1,1
+683,Olympiakos,04/05,Super League 1,1
+683,Olympiakos,03/04,Super League 1,2
+683,Olympiakos,02/03,Super League 1,1
+683,Olympiakos,01/02,Super League 1,1
+683,Olympiakos,00/01,Super League 1,1
+683,Olympiakos,99/00,Super League 1,1
+683,Olympiakos,98/99,Super League 1,1
+683,Olympiakos,97/98,Super League 1,1
+683,Olympiakos,96/97,Super League 1,1
+683,Olympiakos,95/96,Super League 1,3
+683,Olympiakos,94/95,Super League 1,2
+683,Olympiakos,93/94,Super League 1,3
+683,Olympiakos,92/93,Super League 1,3
+683,Olympiakos,91/92,Super League 1,2
+683,Olympiakos,90/91,Super League 1,2
+683,Olympiakos,89/90,Super League 1,4
+683,Olympiakos,88/89,Super League 1,2
+683,Olympiakos,87/88,Super League 1,8
+683,Olympiakos,86/87,Super League 1,1
+683,Olympiakos,85/86,Super League 1,5
+683,Olympiakos,84/85,Super League 1,4
+683,Olympiakos,83/84,Super League 1,2
+683,Olympiakos,82/83,Super League 1,1
+683,Olympiakos,81/82,Super League 1,2
+683,Olympiakos,80/81,Super League 1,1
+683,Olympiakos,79/80,Super League 1,1
+683,Olympiakos,78/79,Super League 1,2
+683,Olympiakos,77/78,Super League 1,4
+683,Olympiakos,76/77,Super League 1,2
+683,Olympiakos,75/76,Super League 1,3
+683,Olympiakos,74/75,Super League 1,1
+683,Olympiakos,73/74,Super League 1,1
+683,Olympiakos,72/73,Super League 1,1
+683,Olympiakos,71/72,Super League 1,2
+683,Olympiakos,70/71,Super League 1,6
+683,Olympiakos,69/70,Super League 1,3
+683,Olympiakos,68/69,Super League 1,2
+683,Olympiakos,67/68,Super League 1,2
+683,Olympiakos,66/67,Super League 1,1
+683,Olympiakos,65/66,Super League 1,1
+683,Olympiakos,64/65,Super League 1,3
+683,Olympiakos,63/64,Super League 1,2
+683,Olympiakos,62/63,Super League 1,3
+683,Olympiakos,61/62,Super League 1,2
+683,Olympiakos,60/61,Super League 1,2
+683,Olympiakos,59/60,Super League 1,3
+1041,Olympique Lyonnais,26/27,Ligue 1,2
+1041,Olympique Lyonnais,25/26,Ligue 1,4
+1041,Olympique Lyonnais,24/25,Ligue 1,6
+1041,Olympique Lyonnais,23/24,Ligue 1,6
+1041,Olympique Lyonnais,22/23,Ligue 1,7
+1041,Olympique Lyonnais,21/22,Ligue 1,8
+1041,Olympique Lyonnais,20/21,Ligue 1,4
+1041,Olympique Lyonnais,19/20,Ligue 1,7
+1041,Olympique Lyonnais,18/19,Ligue 1,3
+1041,Olympique Lyonnais,17/18,Ligue 1,3
+1041,Olympique Lyonnais,16/17,Ligue 1,4
+1041,Olympique Lyonnais,15/16,Ligue 1,2
+1041,Olympique Lyonnais,14/15,Ligue 1,2
+1041,Olympique Lyonnais,13/14,Ligue 1,5
+1041,Olympique Lyonnais,12/13,Ligue 1,3
+1041,Olympique Lyonnais,11/12,Ligue 1,4
+1041,Olympique Lyonnais,10/11,Ligue 1,3
+1041,Olympique Lyonnais,09/10,Ligue 1,2
+1041,Olympique Lyonnais,08/09,Ligue 1,3
+1041,Olympique Lyonnais,07/08,Ligue 1,1
+1041,Olympique Lyonnais,06/07,Ligue 1,1
+1041,Olympique Lyonnais,05/06,Ligue 1,1
+1041,Olympique Lyonnais,04/05,Ligue 1,1
+1041,Olympique Lyonnais,03/04,Ligue 1,1
+1041,Olympique Lyonnais,02/03,Ligue 1,1
+1041,Olympique Lyonnais,01/02,Ligue 1,1
+1041,Olympique Lyonnais,00/01,Ligue 1,2
+1041,Olympique Lyonnais,99/00,Ligue 1,3
+1041,Olympique Lyonnais,98/99,Ligue 1,3
+1041,Olympique Lyonnais,97/98,Ligue 1,6
+1041,Olympique Lyonnais,96/97,Ligue 1,8
+1041,Olympique Lyonnais,95/96,Ligue 1,11
+1041,Olympique Lyonnais,94/95,Ligue 1,2
+1041,Olympique Lyonnais,93/94,Ligue 1,8
+1041,Olympique Lyonnais,92/93,Ligue 1,14
+1041,Olympique Lyonnais,91/92,Ligue 1,16
+1041,Olympique Lyonnais,90/91,Ligue 1,5
+1041,Olympique Lyonnais,89/90,Ligue 1,8
+1041,Olympique Lyonnais,88/89,Ligue 1,1
+1041,Olympique Lyonnais,87/88,Ligue 1,2
+1041,Olympique Lyonnais,86/87,Ligue 1,2
+1041,Olympique Lyonnais,85/86,Ligue 1,3
+1041,Olympique Lyonnais,84/85,Ligue 1,7
+1041,Olympique Lyonnais,82/83,Ligue 1,19
+1041,Olympique Lyonnais,81/82,Ligue 1,16
+1041,Olympique Lyonnais,80/81,Ligue 1,6
+1041,Olympique Lyonnais,79/80,Ligue 1,18
+1041,Olympique Lyonnais,78/79,Ligue 1,7
+1041,Olympique Lyonnais,77/78,Ligue 1,17
+1041,Olympique Lyonnais,76/77,Ligue 1,6
+1041,Olympique Lyonnais,75/76,Ligue 1,17
+1041,Olympique Lyonnais,74/75,Ligue 1,3
+1041,Olympique Lyonnais,73/74,Ligue 1,3
+1041,Olympique Lyonnais,72/73,Ligue 1,13
+1041,Olympique Lyonnais,71/72,Ligue 1,5
+1041,Olympique Lyonnais,70/71,Ligue 1,7
+1041,Olympique Lyonnais,69/70,Ligue 1,15
+1041,Olympique Lyonnais,68/69,Ligue 1,9
+1041,Olympique Lyonnais,67/68,Ligue 1,12
+1041,Olympique Lyonnais,66/67,Ligue 1,15
+1041,Olympique Lyonnais,65/66,Ligue 1,16
+1041,Olympique Lyonnais,64/65,Ligue 1,6
+1041,Olympique Lyonnais,63/64,Ligue 1,4
+1041,Olympique Lyonnais,62/63,Ligue 1,5
+1041,Olympique Lyonnais,61/62,Ligue 1,16
+1041,Olympique Lyonnais,60/61,Ligue 1,15
+1041,Olympique Lyonnais,59/60,Ligue 1,16
+1041,Olympique Lyonnais,58/59,Ligue 1,9
+1041,Olympique Lyonnais,57/58,Ligue 1,8
+1041,Olympique Lyonnais,56/57,Ligue 1,12
+1041,Olympique Lyonnais,55/56,Ligue 1,8
+1041,Olympique Lyonnais,54/55,Ligue 1,12
+1041,Olympique Lyonnais,51/52,Ligue 1,17
+583,Paris Saint-Germain,26/27,Ligue 1,13
+583,Paris Saint-Germain,25/26,Ligue 1,1
+583,Paris Saint-Germain,24/25,Ligue 1,1
+583,Paris Saint-Germain,23/24,Ligue 1,1
+583,Paris Saint-Germain,22/23,Ligue 1,1
+583,Paris Saint-Germain,21/22,Ligue 1,1
+583,Paris Saint-Germain,20/21,Ligue 1,2
+583,Paris Saint-Germain,19/20,Ligue 1,1
+583,Paris Saint-Germain,18/19,Ligue 1,1
+583,Paris Saint-Germain,17/18,Ligue 1,1
+583,Paris Saint-Germain,16/17,Ligue 1,2
+583,Paris Saint-Germain,15/16,Ligue 1,1
+583,Paris Saint-Germain,14/15,Ligue 1,1
+583,Paris Saint-Germain,13/14,Ligue 1,1
+583,Paris Saint-Germain,12/13,Ligue 1,1
+583,Paris Saint-Germain,11/12,Ligue 1,2
+583,Paris Saint-Germain,10/11,Ligue 1,4
+583,Paris Saint-Germain,09/10,Ligue 1,13
+583,Paris Saint-Germain,08/09,Ligue 1,6
+583,Paris Saint-Germain,07/08,Ligue 1,16
+583,Paris Saint-Germain,06/07,Ligue 1,15
+583,Paris Saint-Germain,05/06,Ligue 1,9
+583,Paris Saint-Germain,04/05,Ligue 1,9
+583,Paris Saint-Germain,03/04,Ligue 1,2
+583,Paris Saint-Germain,02/03,Ligue 1,11
+583,Paris Saint-Germain,01/02,Ligue 1,4
+583,Paris Saint-Germain,00/01,Ligue 1,9
+583,Paris Saint-Germain,99/00,Ligue 1,2
+583,Paris Saint-Germain,98/99,Ligue 1,9
+583,Paris Saint-Germain,97/98,Ligue 1,8
+583,Paris Saint-Germain,96/97,Ligue 1,2
+583,Paris Saint-Germain,95/96,Ligue 1,2
+583,Paris Saint-Germain,94/95,Ligue 1,3
+583,Paris Saint-Germain,93/94,Ligue 1,1
+583,Paris Saint-Germain,92/93,Ligue 1,2
+583,Paris Saint-Germain,91/92,Ligue 1,3
+583,Paris Saint-Germain,90/91,Ligue 1,9
+583,Paris Saint-Germain,89/90,Ligue 1,5
+583,Paris Saint-Germain,88/89,Ligue 1,2
+583,Paris Saint-Germain,87/88,Ligue 1,15
+583,Paris Saint-Germain,86/87,Ligue 1,7
+583,Paris Saint-Germain,85/86,Ligue 1,1
+583,Paris Saint-Germain,84/85,Ligue 1,13
+583,Paris Saint-Germain,83/84,Ligue 1,4
+583,Paris Saint-Germain,82/83,Ligue 1,3
+583,Paris Saint-Germain,81/82,Ligue 1,7
+583,Paris Saint-Germain,80/81,Ligue 1,5
+583,Paris Saint-Germain,79/80,Ligue 1,7
+583,Paris Saint-Germain,78/79,Ligue 1,13
+583,Paris Saint-Germain,77/78,Ligue 1,11
+583,Paris Saint-Germain,76/77,Ligue 1,9
+583,Paris Saint-Germain,75/76,Ligue 1,11
+583,Paris Saint-Germain,74/75,Ligue 1,14
+583,Paris Saint-Germain,73/74,Ligue 1,2
+583,Paris Saint-Germain,71/72,Ligue 1,16
+583,Paris Saint-Germain,70/71,Ligue 1,1
+720,Porto,26/27,Liga Portugal,1
+720,Porto,25/26,Liga Portugal,1
+720,Porto,24/25,Liga Portugal,3
+720,Porto,23/24,Liga Portugal,3
+720,Porto,22/23,Liga Portugal,2
+720,Porto,21/22,Liga Portugal,1
+720,Porto,20/21,Liga Portugal,2
+720,Porto,19/20,Liga Portugal,1
+720,Porto,18/19,Liga Portugal,2
+720,Porto,17/18,Liga Portugal,1
+720,Porto,16/17,Liga Portugal,2
+720,Porto,15/16,Liga Portugal,3
+720,Porto,14/15,Liga Portugal,2
+720,Porto,13/14,Liga Portugal,3
+720,Porto,12/13,Liga Portugal,1
+720,Porto,11/12,Liga Portugal,1
+720,Porto,10/11,Liga Portugal,1
+720,Porto,09/10,Liga Portugal,3
+720,Porto,08/09,Liga Portugal,1
+720,Porto,07/08,Liga Portugal,1
+720,Porto,06/07,Liga Portugal,1
+720,Porto,05/06,Liga Portugal,1
+720,Porto,04/05,Liga Portugal,2
+720,Porto,03/04,Liga Portugal,1
+720,Porto,02/03,Liga Portugal,1
+720,Porto,01/02,Liga Portugal,3
+720,Porto,00/01,Liga Portugal,2
+720,Porto,99/00,Liga Portugal,2
+720,Porto,98/99,Liga Portugal,1
+720,Porto,97/98,Liga Portugal,1
+720,Porto,96/97,Liga Portugal,1
+720,Porto,95/96,Liga Portugal,1
+720,Porto,94/95,Liga Portugal,1
+720,Porto,93/94,Liga Portugal,2
+720,Porto,92/93,Liga Portugal,1
+720,Porto,91/92,Liga Portugal,1
+720,Porto,90/91,Liga Portugal,2
+720,Porto,89/90,Liga Portugal,1
+720,Porto,88/89,Liga Portugal,2
+720,Porto,87/88,Liga Portugal,1
+720,Porto,86/87,Liga Portugal,2
+720,Porto,85/86,Liga Portugal,1
+720,Porto,84/85,Liga Portugal,1
+720,Porto,83/84,Liga Portugal,2
+720,Porto,82/83,Liga Portugal,2
+720,Porto,81/82,Liga Portugal,3
+720,Porto,80/81,Liga Portugal,2
+720,Porto,79/80,Liga Portugal,2
+720,Porto,78/79,Liga Portugal,1
+720,Porto,77/78,Liga Portugal,1
+720,Porto,76/77,Liga Portugal,3
+720,Porto,75/76,Liga Portugal,4
+720,Porto,74/75,Liga Portugal,2
+720,Porto,73/74,Liga Portugal,4
+720,Porto,72/73,Liga Portugal,4
+720,Porto,71/72,Liga Portugal,5
+720,Porto,70/71,Liga Portugal,3
+720,Porto,69/70,Liga Portugal,10
+720,Porto,68/69,Liga Portugal,2
+720,Porto,67/68,Liga Portugal,3
+720,Porto,66/67,Liga Portugal,3
+720,Porto,65/66,Liga Portugal,3
+720,Porto,64/65,Liga Portugal,2
+720,Porto,63/64,Liga Portugal,2
+720,Porto,62/63,Liga Portugal,2
+720,Porto,61/62,Liga Portugal,2
+720,Porto,60/61,Liga Portugal,3
+720,Porto,59/60,Liga Portugal,4
+720,Porto,58/59,Liga Portugal,1
+720,Porto,57/58,Liga Portugal,2
+720,Porto,56/57,Liga Portugal,2
+720,Porto,55/56,Liga Portugal,1
+720,Porto,54/55,Liga Portugal,4
+720,Porto,53/54,Liga Portugal,2
+720,Porto,52/53,Liga Portugal,4
+720,Porto,51/52,Liga Portugal,3
+720,Porto,50/51,Liga Portugal,2
+720,Porto,49/50,Liga Portugal,5
+720,Porto,48/49,Liga Portugal,4
+720,Porto,47/48,Liga Portugal,5
+720,Porto,46/47,Liga Portugal,5
+720,Porto,45/46,Liga Portugal,6
+720,Porto,44/45,Liga Portugal,4
+720,Porto,43/44,Liga Portugal,4
+720,Porto,42/43,Liga Portugal,7
+720,Porto,41/42,Liga Portugal,5
+720,Porto,40/41,Liga Portugal,2
+720,Porto,39/40,Liga Portugal,1
+720,Porto,38/39,Liga Portugal,1
+720,Porto,37/38,Liga Portugal,1
+720,Porto,36/37,Liga Portugal,4
+720,Porto,35/36,Liga Portugal,2
+720,Porto,34/35,Liga Portugal,1
+23826,RB Leipzig,26/27,Bundesliga,8
+23826,RB Leipzig,25/26,Bundesliga,3
+23826,RB Leipzig,24/25,Bundesliga,7
+23826,RB Leipzig,23/24,Bundesliga,4
+23826,RB Leipzig,22/23,Bundesliga,3
+23826,RB Leipzig,21/22,Bundesliga,4
+23826,RB Leipzig,20/21,Bundesliga,2
+23826,RB Leipzig,19/20,Bundesliga,3
+23826,RB Leipzig,18/19,Bundesliga,3
+23826,RB Leipzig,17/18,Bundesliga,6
+23826,RB Leipzig,16/17,Bundesliga,2
+23826,RB Leipzig,15/16,Bundesliga,2
+23826,RB Leipzig,14/15,Bundesliga,5
+23826,RB Leipzig,13/14,Bundesliga,2
+23826,RB Leipzig,12/13,Bundesliga,1
+23826,RB Leipzig,11/12,Bundesliga,3
+23826,RB Leipzig,10/11,Bundesliga,4
+23826,RB Leipzig,09/10,Bundesliga,1
+418,Real Madrid,26/27,LaLiga,3
+418,Real Madrid,25/26,LaLiga,2
+418,Real Madrid,24/25,LaLiga,2
+418,Real Madrid,23/24,LaLiga,1
+418,Real Madrid,22/23,LaLiga,2
+418,Real Madrid,21/22,LaLiga,1
+418,Real Madrid,20/21,LaLiga,2
+418,Real Madrid,19/20,LaLiga,1
+418,Real Madrid,18/19,LaLiga,3
+418,Real Madrid,17/18,LaLiga,3
+418,Real Madrid,16/17,LaLiga,1
+418,Real Madrid,15/16,LaLiga,2
+418,Real Madrid,14/15,LaLiga,2
+418,Real Madrid,13/14,LaLiga,3
+418,Real Madrid,12/13,LaLiga,2
+418,Real Madrid,11/12,LaLiga,1
+418,Real Madrid,10/11,LaLiga,2
+418,Real Madrid,09/10,LaLiga,2
+418,Real Madrid,08/09,LaLiga,2
+418,Real Madrid,07/08,LaLiga,1
+418,Real Madrid,06/07,LaLiga,1
+418,Real Madrid,05/06,LaLiga,2
+418,Real Madrid,04/05,LaLiga,2
+418,Real Madrid,03/04,LaLiga,4
+418,Real Madrid,02/03,LaLiga,1
+418,Real Madrid,01/02,LaLiga,3
+418,Real Madrid,00/01,LaLiga,1
+418,Real Madrid,99/00,LaLiga,5
+418,Real Madrid,98/99,LaLiga,2
+418,Real Madrid,97/98,LaLiga,4
+418,Real Madrid,96/97,LaLiga,1
+418,Real Madrid,95/96,LaLiga,6
+418,Real Madrid,94/95,LaLiga,1
+418,Real Madrid,93/94,LaLiga,4
+418,Real Madrid,92/93,LaLiga,2
+418,Real Madrid,91/92,LaLiga,2
+418,Real Madrid,90/91,LaLiga,3
+418,Real Madrid,89/90,LaLiga,1
+418,Real Madrid,88/89,LaLiga,1
+418,Real Madrid,87/88,LaLiga,1
+418,Real Madrid,86/87,LaLiga,1
+418,Real Madrid,85/86,LaLiga,1
+418,Real Madrid,84/85,LaLiga,5
+418,Real Madrid,83/84,LaLiga,2
+418,Real Madrid,82/83,LaLiga,2
+418,Real Madrid,81/82,LaLiga,3
+418,Real Madrid,80/81,LaLiga,2
+418,Real Madrid,79/80,LaLiga,1
+418,Real Madrid,78/79,LaLiga,1
+418,Real Madrid,77/78,LaLiga,1
+418,Real Madrid,76/77,LaLiga,11
+418,Real Madrid,75/76,LaLiga,1
+418,Real Madrid,74/75,LaLiga,1
+418,Real Madrid,73/74,LaLiga,8
+418,Real Madrid,72/73,LaLiga,4
+418,Real Madrid,71/72,LaLiga,1
+418,Real Madrid,70/71,LaLiga,4
+418,Real Madrid,69/70,LaLiga,6
+418,Real Madrid,68/69,LaLiga,1
+418,Real Madrid,67/68,LaLiga,1
+418,Real Madrid,66/67,LaLiga,1
+418,Real Madrid,65/66,LaLiga,2
+418,Real Madrid,64/65,LaLiga,1
+418,Real Madrid,63/64,LaLiga,1
+418,Real Madrid,62/63,LaLiga,1
+418,Real Madrid,61/62,LaLiga,1
+418,Real Madrid,60/61,LaLiga,1
+418,Real Madrid,59/60,LaLiga,2
+418,Real Madrid,58/59,LaLiga,2
+418,Real Madrid,57/58,LaLiga,1
+418,Real Madrid,56/57,LaLiga,1
+418,Real Madrid,55/56,LaLiga,3
+418,Real Madrid,54/55,LaLiga,1
+418,Real Madrid,53/54,LaLiga,1
+418,Real Madrid,52/53,LaLiga,3
+418,Real Madrid,51/52,LaLiga,3
+418,Real Madrid,50/51,LaLiga,9
+418,Real Madrid,49/50,LaLiga,4
+418,Real Madrid,48/49,LaLiga,3
+418,Real Madrid,47/48,LaLiga,11
+418,Real Madrid,46/47,LaLiga,7
+418,Real Madrid,45/46,LaLiga,4
+418,Real Madrid,44/45,LaLiga,2
+418,Real Madrid,43/44,LaLiga,7
+418,Real Madrid,42/43,LaLiga,10
+418,Real Madrid,41/42,LaLiga,2
+418,Real Madrid,40/41,LaLiga,6
+418,Real Madrid,39/40,LaLiga,4
+418,Real Madrid,35/36,LaLiga,2
+418,Real Madrid,34/35,LaLiga,2
+418,Real Madrid,33/34,LaLiga,2
+418,Real Madrid,32/33,LaLiga,1
+418,Real Madrid,31/32,LaLiga,1
+418,Real Madrid,30/31,LaLiga,6
+418,Real Madrid,1929/30,LaLiga,5
+418,Real Madrid,1928/29,LaLiga,2
+681,Real Sociedad,26/27,LaLiga,14
+681,Real Sociedad,25/26,LaLiga,10
+681,Real Sociedad,24/25,LaLiga,11
+681,Real Sociedad,23/24,LaLiga,6
+681,Real Sociedad,22/23,LaLiga,4
+681,Real Sociedad,21/22,LaLiga,6
+681,Real Sociedad,20/21,LaLiga,5
+681,Real Sociedad,19/20,LaLiga,6
+681,Real Sociedad,18/19,LaLiga,9
+681,Real Sociedad,17/18,LaLiga,12
+681,Real Sociedad,16/17,LaLiga,6
+681,Real Sociedad,15/16,LaLiga,9
+681,Real Sociedad,14/15,LaLiga,12
+681,Real Sociedad,13/14,LaLiga,7
+681,Real Sociedad,12/13,LaLiga,4
+681,Real Sociedad,11/12,LaLiga,12
+681,Real Sociedad,10/11,LaLiga,15
+681,Real Sociedad,09/10,LaLiga,1
+681,Real Sociedad,08/09,LaLiga,6
+681,Real Sociedad,07/08,LaLiga,4
+681,Real Sociedad,06/07,LaLiga,19
+681,Real Sociedad,05/06,LaLiga,16
+681,Real Sociedad,04/05,LaLiga,14
+681,Real Sociedad,03/04,LaLiga,15
+681,Real Sociedad,02/03,LaLiga,2
+681,Real Sociedad,01/02,LaLiga,13
+681,Real Sociedad,00/01,LaLiga,13
+681,Real Sociedad,99/00,LaLiga,13
+681,Real Sociedad,98/99,LaLiga,10
+681,Real Sociedad,97/98,LaLiga,3
+681,Real Sociedad,96/97,LaLiga,8
+681,Real Sociedad,95/96,LaLiga,7
+681,Real Sociedad,94/95,LaLiga,11
+681,Real Sociedad,93/94,LaLiga,11
+681,Real Sociedad,92/93,LaLiga,13
+681,Real Sociedad,91/92,LaLiga,5
+681,Real Sociedad,90/91,LaLiga,13
+681,Real Sociedad,89/90,LaLiga,5
+681,Real Sociedad,88/89,LaLiga,12
+681,Real Sociedad,87/88,LaLiga,2
+681,Real Sociedad,86/87,LaLiga,5
+681,Real Sociedad,85/86,LaLiga,7
+681,Real Sociedad,84/85,LaLiga,7
+681,Real Sociedad,83/84,LaLiga,6
+681,Real Sociedad,82/83,LaLiga,7
+681,Real Sociedad,81/82,LaLiga,1
+681,Real Sociedad,80/81,LaLiga,1
+681,Real Sociedad,79/80,LaLiga,2
+681,Real Sociedad,78/79,LaLiga,4
+681,Real Sociedad,77/78,LaLiga,11
+681,Real Sociedad,76/77,LaLiga,8
+681,Real Sociedad,75/76,LaLiga,8
+681,Real Sociedad,74/75,LaLiga,4
+681,Real Sociedad,73/74,LaLiga,4
+681,Real Sociedad,72/73,LaLiga,7
+681,Real Sociedad,71/72,LaLiga,8
+681,Real Sociedad,70/71,LaLiga,9
+681,Real Sociedad,69/70,LaLiga,7
+681,Real Sociedad,68/69,LaLiga,7
+681,Real Sociedad,67/68,LaLiga,14
+681,Real Sociedad,66/67,LaLiga,1
+681,Real Sociedad,65/66,LaLiga,10
+681,Real Sociedad,64/65,LaLiga,4
+681,Real Sociedad,63/64,LaLiga,6
+681,Real Sociedad,62/63,LaLiga,4
+681,Real Sociedad,61/62,LaLiga,15
+681,Real Sociedad,60/61,LaLiga,8
+681,Real Sociedad,59/60,LaLiga,14
+681,Real Sociedad,58/59,LaLiga,10
+681,Real Sociedad,57/58,LaLiga,9
+681,Real Sociedad,56/57,LaLiga,12
+681,Real Sociedad,55/56,LaLiga,9
+681,Real Sociedad,54/55,LaLiga,14
+681,Real Sociedad,53/54,LaLiga,10
+681,Real Sociedad,52/53,LaLiga,10
+681,Real Sociedad,51/52,LaLiga,10
+681,Real Sociedad,50/51,LaLiga,5
+681,Real Sociedad,49/50,LaLiga,8
+681,Real Sociedad,48/49,LaLiga,1
+681,Real Sociedad,47/48,LaLiga,13
+681,Real Sociedad,46/47,LaLiga,3
+681,Real Sociedad,45/46,LaLiga,6
+681,Real Sociedad,44/45,LaLiga,4
+681,Real Sociedad,43/44,LaLiga,13
+681,Real Sociedad,42/43,LaLiga,1
+681,Real Sociedad,41/42,LaLiga,14
+681,Real Sociedad,40/41,LaLiga,1
+681,Real Sociedad,39/40,LaLiga,1
+681,Real Sociedad,35/36,LaLiga,6
+681,Real Sociedad,34/35,LaLiga,11
+681,Real Sociedad,33/34,LaLiga,6
+681,Real Sociedad,32/33,LaLiga,6
+681,Real Sociedad,31/32,LaLiga,8
+681,Real Sociedad,30/31,LaLiga,3
+681,Real Sociedad,1929/30,LaLiga,7
+681,Real Sociedad,1928/29,LaLiga,4
+221,Santos,25/26,Campeonato Brasileiro Série A,12
+221,Santos,24/25,Campeonato Brasileiro Série A,12
+221,Santos,23/24,Campeonato Brasileiro Série A,1
+221,Santos,22/23,Campeonato Brasileiro Série A,17
+221,Santos,21/22,Campeonato Brasileiro Série A,12
+221,Santos,20/21,Campeonato Brasileiro Série A,10
+221,Santos,19/20,Campeonato Brasileiro Série A,8
+221,Santos,18/19,Campeonato Brasileiro Série A,2
+221,Santos,17/18,Campeonato Brasileiro Série A,10
+221,Santos,16/17,Campeonato Brasileiro Série A,3
+221,Santos,15/16,Campeonato Brasileiro Série A,2
+221,Santos,14/15,Campeonato Brasileiro Série A,7
+221,Santos,13/14,Campeonato Brasileiro Série A,9
+221,Santos,12/13,Campeonato Brasileiro Série A,7
+221,Santos,11/12,Campeonato Brasileiro Série A,8
+221,Santos,10/11,Campeonato Brasileiro Série A,10
+221,Santos,09/10,Campeonato Brasileiro Série A,8
+221,Santos,08/09,Campeonato Brasileiro Série A,12
+221,Santos,07/08,Campeonato Brasileiro Série A,15
+221,Santos,06/07,Campeonato Brasileiro Série A,2
+221,Santos,05/06,Campeonato Brasileiro Série A,4
+221,Santos,04/05,Campeonato Brasileiro Série A,10
+221,Santos,03/04,Campeonato Brasileiro Série A,1
+221,Santos,02/03,Campeonato Brasileiro Série A,2
+221,Santos,01/02,Campeonato Brasileiro Série A,1
+221,Santos,00/01,Campeonato Brasileiro Série A,15
+221,Santos,99/00,Campeonato Brasileiro Série A,14
+221,Santos,98/99,Campeonato Brasileiro Série A,11
+221,Santos,97/98,Campeonato Brasileiro Série A,2
+221,Santos,96/97,Campeonato Brasileiro Série A,7
+221,Santos,95/96,Campeonato Brasileiro Série A,18
+221,Santos,94/95,Campeonato Brasileiro Série A,2
+221,Santos,93/94,Campeonato Brasileiro Série A,5
+221,Santos,92/93,Campeonato Brasileiro Série A,5
+221,Santos,91/92,Campeonato Brasileiro Série A,7
+221,Santos,90/91,Campeonato Brasileiro Série A,7
+221,Santos,89/90,Campeonato Brasileiro Série A,7
+221,Santos,88/89,Campeonato Brasileiro Série A,15
+221,Santos,87/88,Campeonato Brasileiro Série A,18
+221,Santos,86/87,Campeonato Brasileiro Série A,28
+221,Santos,85/86,Campeonato Brasileiro Série A,15
+221,Santos,84/85,Campeonato Brasileiro Série A,28
+585,Sao Paulo,25/26,Campeonato Brasileiro Série A,10
+585,Sao Paulo,24/25,Campeonato Brasileiro Série A,8
+585,Sao Paulo,23/24,Campeonato Brasileiro Série A,6
+585,Sao Paulo,22/23,Campeonato Brasileiro Série A,11
+585,Sao Paulo,21/22,Campeonato Brasileiro Série A,9
+585,Sao Paulo,20/21,Campeonato Brasileiro Série A,13
+585,Sao Paulo,19/20,Campeonato Brasileiro Série A,4
+585,Sao Paulo,18/19,Campeonato Brasileiro Série A,6
+585,Sao Paulo,17/18,Campeonato Brasileiro Série A,5
+585,Sao Paulo,16/17,Campeonato Brasileiro Série A,13
+585,Sao Paulo,15/16,Campeonato Brasileiro Série A,10
+585,Sao Paulo,14/15,Campeonato Brasileiro Série A,4
+585,Sao Paulo,13/14,Campeonato Brasileiro Série A,2
+585,Sao Paulo,12/13,Campeonato Brasileiro Série A,9
+585,Sao Paulo,11/12,Campeonato Brasileiro Série A,4
+585,Sao Paulo,10/11,Campeonato Brasileiro Série A,6
+585,Sao Paulo,09/10,Campeonato Brasileiro Série A,9
+585,Sao Paulo,08/09,Campeonato Brasileiro Série A,3
+585,Sao Paulo,07/08,Campeonato Brasileiro Série A,1
+585,Sao Paulo,06/07,Campeonato Brasileiro Série A,1
+585,Sao Paulo,05/06,Campeonato Brasileiro Série A,1
+585,Sao Paulo,04/05,Campeonato Brasileiro Série A,11
+585,Sao Paulo,03/04,Campeonato Brasileiro Série A,3
+585,Sao Paulo,02/03,Campeonato Brasileiro Série A,3
+585,Sao Paulo,01/02,Campeonato Brasileiro Série A,2
+585,Sao Paulo,00/01,Campeonato Brasileiro Série A,7
+585,Sao Paulo,99/00,Campeonato Brasileiro Série A,10
+585,Sao Paulo,98/99,Campeonato Brasileiro Série A,3
+585,Sao Paulo,97/98,Campeonato Brasileiro Série A,16
+585,Sao Paulo,96/97,Campeonato Brasileiro Série A,11
+585,Sao Paulo,95/96,Campeonato Brasileiro Série A,9
+585,Sao Paulo,94/95,Campeonato Brasileiro Série A,13
+585,Sao Paulo,93/94,Campeonato Brasileiro Série A,6
+585,Sao Paulo,92/93,Campeonato Brasileiro Série A,4
+585,Sao Paulo,91/92,Campeonato Brasileiro Série A,5
+585,Sao Paulo,90/91,Campeonato Brasileiro Série A,1
+585,Sao Paulo,89/90,Campeonato Brasileiro Série A,3
+585,Sao Paulo,88/89,Campeonato Brasileiro Série A,4
+585,Sao Paulo,87/88,Campeonato Brasileiro Série A,10
+585,Sao Paulo,86/87,Campeonato Brasileiro Série A,9
+585,Sao Paulo,85/86,Campeonato Brasileiro Série A,2
+585,Sao Paulo,84/85,Campeonato Brasileiro Série A,26
+33,Schalke 04,26/27,Bundesliga,14
+33,Schalke 04,25/26,Bundesliga,1
+33,Schalke 04,24/25,Bundesliga,14
+33,Schalke 04,23/24,Bundesliga,10
+33,Schalke 04,22/23,Bundesliga,17
+33,Schalke 04,21/22,Bundesliga,1
+33,Schalke 04,20/21,Bundesliga,18
+33,Schalke 04,19/20,Bundesliga,12
+33,Schalke 04,18/19,Bundesliga,14
+33,Schalke 04,17/18,Bundesliga,2
+33,Schalke 04,16/17,Bundesliga,10
+33,Schalke 04,15/16,Bundesliga,5
+33,Schalke 04,14/15,Bundesliga,6
+33,Schalke 04,13/14,Bundesliga,3
+33,Schalke 04,12/13,Bundesliga,4
+33,Schalke 04,11/12,Bundesliga,3
+33,Schalke 04,10/11,Bundesliga,14
+33,Schalke 04,09/10,Bundesliga,2
+33,Schalke 04,08/09,Bundesliga,8
+33,Schalke 04,07/08,Bundesliga,3
+33,Schalke 04,06/07,Bundesliga,2
+33,Schalke 04,05/06,Bundesliga,4
+33,Schalke 04,04/05,Bundesliga,2
+33,Schalke 04,03/04,Bundesliga,7
+33,Schalke 04,02/03,Bundesliga,7
+33,Schalke 04,01/02,Bundesliga,5
+33,Schalke 04,00/01,Bundesliga,2
+33,Schalke 04,99/00,Bundesliga,13
+33,Schalke 04,98/99,Bundesliga,10
+33,Schalke 04,97/98,Bundesliga,5
+33,Schalke 04,96/97,Bundesliga,12
+33,Schalke 04,95/96,Bundesliga,3
+33,Schalke 04,94/95,Bundesliga,11
+33,Schalke 04,93/94,Bundesliga,14
+33,Schalke 04,92/93,Bundesliga,10
+33,Schalke 04,91/92,Bundesliga,11
+33,Schalke 04,90/91,Bundesliga,1
+33,Schalke 04,89/90,Bundesliga,5
+33,Schalke 04,88/89,Bundesliga,12
+33,Schalke 04,87/88,Bundesliga,18
+33,Schalke 04,86/87,Bundesliga,13
+33,Schalke 04,85/86,Bundesliga,10
+33,Schalke 04,84/85,Bundesliga,8
+33,Schalke 04,83/84,Bundesliga,2
+33,Schalke 04,82/83,Bundesliga,16
+33,Schalke 04,81/82,Bundesliga,1
+33,Schalke 04,80/81,Bundesliga,17
+33,Schalke 04,79/80,Bundesliga,8
+33,Schalke 04,78/79,Bundesliga,15
+33,Schalke 04,77/78,Bundesliga,9
+33,Schalke 04,76/77,Bundesliga,2
+33,Schalke 04,75/76,Bundesliga,6
+33,Schalke 04,74/75,Bundesliga,7
+33,Schalke 04,73/74,Bundesliga,7
+33,Schalke 04,72/73,Bundesliga,15
+33,Schalke 04,71/72,Bundesliga,2
+33,Schalke 04,70/71,Bundesliga,6
+33,Schalke 04,69/70,Bundesliga,9
+33,Schalke 04,68/69,Bundesliga,7
+33,Schalke 04,67/68,Bundesliga,15
+33,Schalke 04,66/67,Bundesliga,15
+33,Schalke 04,65/66,Bundesliga,14
+33,Schalke 04,64/65,Bundesliga,16
+33,Schalke 04,63/64,Bundesliga,8
+33,Schalke 04,62/63,Bundesliga,6
+33,Schalke 04,61/62,Bundesliga,2
+33,Schalke 04,60/61,Bundesliga,3
+33,Schalke 04,59/60,Bundesliga,4
+33,Schalke 04,58/59,Bundesliga,11
+33,Schalke 04,57/58,Bundesliga,1
+33,Schalke 04,56/57,Bundesliga,4
+33,Schalke 04,55/56,Bundesliga,2
+33,Schalke 04,54/55,Bundesliga,6
+33,Schalke 04,53/54,Bundesliga,3
+33,Schalke 04,52/53,Bundesliga,6
+33,Schalke 04,51/52,Bundesliga,2
+33,Schalke 04,50/51,Bundesliga,1
+33,Schalke 04,49/50,Bundesliga,6
+33,Schalke 04,48/49,Bundesliga,12
+33,Schalke 04,47/48,Bundesliga,6
+368,Sevilla FC,26/27,LaLiga,7
+368,Sevilla FC,25/26,LaLiga,13
+368,Sevilla FC,24/25,LaLiga,17
+368,Sevilla FC,23/24,LaLiga,13
+368,Sevilla FC,22/23,LaLiga,11
+368,Sevilla FC,21/22,LaLiga,4
+368,Sevilla FC,20/21,LaLiga,4
+368,Sevilla FC,19/20,LaLiga,4
+368,Sevilla FC,18/19,LaLiga,6
+368,Sevilla FC,17/18,LaLiga,7
+368,Sevilla FC,16/17,LaLiga,4
+368,Sevilla FC,15/16,LaLiga,7
+368,Sevilla FC,14/15,LaLiga,5
+368,Sevilla FC,13/14,LaLiga,5
+368,Sevilla FC,12/13,LaLiga,9
+368,Sevilla FC,11/12,LaLiga,9
+368,Sevilla FC,10/11,LaLiga,5
+368,Sevilla FC,09/10,LaLiga,4
+368,Sevilla FC,08/09,LaLiga,3
+368,Sevilla FC,07/08,LaLiga,5
+368,Sevilla FC,06/07,LaLiga,3
+368,Sevilla FC,05/06,LaLiga,5
+368,Sevilla FC,04/05,LaLiga,6
+368,Sevilla FC,03/04,LaLiga,6
+368,Sevilla FC,02/03,LaLiga,10
+368,Sevilla FC,01/02,LaLiga,8
+368,Sevilla FC,00/01,LaLiga,1
+368,Sevilla FC,99/00,LaLiga,20
+368,Sevilla FC,98/99,LaLiga,4
+368,Sevilla FC,97/98,LaLiga,7
+368,Sevilla FC,96/97,LaLiga,20
+368,Sevilla FC,95/96,LaLiga,12
+368,Sevilla FC,94/95,LaLiga,5
+368,Sevilla FC,93/94,LaLiga,6
+368,Sevilla FC,92/93,LaLiga,7
+368,Sevilla FC,91/92,LaLiga,12
+368,Sevilla FC,90/91,LaLiga,8
+368,Sevilla FC,89/90,LaLiga,6
+368,Sevilla FC,88/89,LaLiga,9
+368,Sevilla FC,87/88,LaLiga,10
+368,Sevilla FC,86/87,LaLiga,14
+368,Sevilla FC,85/86,LaLiga,9
+368,Sevilla FC,84/85,LaLiga,12
+368,Sevilla FC,83/84,LaLiga,8
+368,Sevilla FC,82/83,LaLiga,5
+368,Sevilla FC,81/82,LaLiga,7
+368,Sevilla FC,80/81,LaLiga,8
+368,Sevilla FC,79/80,LaLiga,8
+368,Sevilla FC,78/79,LaLiga,11
+368,Sevilla FC,77/78,LaLiga,8
+368,Sevilla FC,76/77,LaLiga,9
+368,Sevilla FC,75/76,LaLiga,11
+368,Sevilla FC,74/75,LaLiga,3
+368,Sevilla FC,72/73,LaLiga,4
+368,Sevilla FC,71/72,LaLiga,16
+368,Sevilla FC,70/71,LaLiga,7
+368,Sevilla FC,69/70,LaLiga,3
+368,Sevilla FC,68/69,LaLiga,1
+368,Sevilla FC,67/68,LaLiga,16
+368,Sevilla FC,66/67,LaLiga,13
+368,Sevilla FC,65/66,LaLiga,8
+368,Sevilla FC,64/65,LaLiga,10
+368,Sevilla FC,63/64,LaLiga,9
+368,Sevilla FC,62/63,LaLiga,11
+368,Sevilla FC,61/62,LaLiga,6
+368,Sevilla FC,60/61,LaLiga,11
+368,Sevilla FC,59/60,LaLiga,4
+368,Sevilla FC,58/59,LaLiga,13
+368,Sevilla FC,57/58,LaLiga,10
+368,Sevilla FC,56/57,LaLiga,2
+368,Sevilla FC,55/56,LaLiga,4
+368,Sevilla FC,54/55,LaLiga,4
+368,Sevilla FC,53/54,LaLiga,5
+368,Sevilla FC,52/53,LaLiga,5
+368,Sevilla FC,51/52,LaLiga,6
+368,Sevilla FC,50/51,LaLiga,2
+368,Sevilla FC,49/50,LaLiga,10
+368,Sevilla FC,48/49,LaLiga,8
+368,Sevilla FC,47/48,LaLiga,5
+368,Sevilla FC,46/47,LaLiga,6
+368,Sevilla FC,45/46,LaLiga,1
+368,Sevilla FC,44/45,LaLiga,10
+368,Sevilla FC,43/44,LaLiga,3
+368,Sevilla FC,42/43,LaLiga,2
+368,Sevilla FC,41/42,LaLiga,6
+368,Sevilla FC,40/41,LaLiga,5
+368,Sevilla FC,39/40,LaLiga,2
+368,Sevilla FC,35/36,LaLiga,10
+368,Sevilla FC,34/35,LaLiga,5
+368,Sevilla FC,33/34,LaLiga,1
+368,Sevilla FC,32/33,LaLiga,9
+368,Sevilla FC,31/32,LaLiga,8
+368,Sevilla FC,30/31,LaLiga,2
+368,Sevilla FC,1929/30,LaLiga,4
+368,Sevilla FC,1928/29,LaLiga,1
+336,Sporting CP,26/27,Liga Portugal,2
+336,Sporting CP,25/26,Liga Portugal,2
+336,Sporting CP,24/25,Liga Portugal,1
+336,Sporting CP,23/24,Liga Portugal,1
+336,Sporting CP,22/23,Liga Portugal,4
+336,Sporting CP,21/22,Liga Portugal,2
+336,Sporting CP,20/21,Liga Portugal,1
+336,Sporting CP,19/20,Liga Portugal,4
+336,Sporting CP,18/19,Liga Portugal,3
+336,Sporting CP,17/18,Liga Portugal,3
+336,Sporting CP,16/17,Liga Portugal,3
+336,Sporting CP,15/16,Liga Portugal,2
+336,Sporting CP,14/15,Liga Portugal,3
+336,Sporting CP,13/14,Liga Portugal,2
+336,Sporting CP,12/13,Liga Portugal,6
+336,Sporting CP,11/12,Liga Portugal,4
+336,Sporting CP,10/11,Liga Portugal,3
+336,Sporting CP,09/10,Liga Portugal,4
+336,Sporting CP,08/09,Liga Portugal,2
+336,Sporting CP,07/08,Liga Portugal,2
+336,Sporting CP,06/07,Liga Portugal,2
+336,Sporting CP,05/06,Liga Portugal,2
+336,Sporting CP,04/05,Liga Portugal,3
+336,Sporting CP,03/04,Liga Portugal,3
+336,Sporting CP,02/03,Liga Portugal,3
+336,Sporting CP,01/02,Liga Portugal,1
+336,Sporting CP,00/01,Liga Portugal,3
+336,Sporting CP,99/00,Liga Portugal,1
+336,Sporting CP,98/99,Liga Portugal,4
+336,Sporting CP,97/98,Liga Portugal,4
+336,Sporting CP,96/97,Liga Portugal,2
+336,Sporting CP,95/96,Liga Portugal,3
+336,Sporting CP,94/95,Liga Portugal,2
+336,Sporting CP,93/94,Liga Portugal,3
+336,Sporting CP,92/93,Liga Portugal,3
+336,Sporting CP,91/92,Liga Portugal,3
+336,Sporting CP,90/91,Liga Portugal,3
+336,Sporting CP,89/90,Liga Portugal,3
+336,Sporting CP,88/89,Liga Portugal,4
+336,Sporting CP,87/88,Liga Portugal,4
+336,Sporting CP,86/87,Liga Portugal,4
+336,Sporting CP,85/86,Liga Portugal,3
+336,Sporting CP,84/85,Liga Portugal,2
+336,Sporting CP,83/84,Liga Portugal,3
+336,Sporting CP,82/83,Liga Portugal,3
+336,Sporting CP,81/82,Liga Portugal,1
+336,Sporting CP,80/81,Liga Portugal,3
+336,Sporting CP,79/80,Liga Portugal,1
+336,Sporting CP,78/79,Liga Portugal,3
+336,Sporting CP,77/78,Liga Portugal,3
+336,Sporting CP,76/77,Liga Portugal,2
+336,Sporting CP,75/76,Liga Portugal,5
+336,Sporting CP,74/75,Liga Portugal,3
+336,Sporting CP,73/74,Liga Portugal,1
+336,Sporting CP,72/73,Liga Portugal,5
+336,Sporting CP,71/72,Liga Portugal,3
+336,Sporting CP,70/71,Liga Portugal,2
+336,Sporting CP,69/70,Liga Portugal,1
+336,Sporting CP,68/69,Liga Portugal,6
+336,Sporting CP,67/68,Liga Portugal,2
+336,Sporting CP,66/67,Liga Portugal,4
+336,Sporting CP,65/66,Liga Portugal,1
+336,Sporting CP,64/65,Liga Portugal,6
+336,Sporting CP,63/64,Liga Portugal,3
+336,Sporting CP,62/63,Liga Portugal,3
+336,Sporting CP,61/62,Liga Portugal,1
+336,Sporting CP,60/61,Liga Portugal,2
+336,Sporting CP,59/60,Liga Portugal,2
+336,Sporting CP,58/59,Liga Portugal,4
+336,Sporting CP,57/58,Liga Portugal,1
+336,Sporting CP,56/57,Liga Portugal,4
+336,Sporting CP,55/56,Liga Portugal,4
+336,Sporting CP,54/55,Liga Portugal,3
+336,Sporting CP,53/54,Liga Portugal,1
+336,Sporting CP,52/53,Liga Portugal,1
+336,Sporting CP,51/52,Liga Portugal,1
+336,Sporting CP,50/51,Liga Portugal,1
+336,Sporting CP,49/50,Liga Portugal,2
+336,Sporting CP,48/49,Liga Portugal,1
+336,Sporting CP,47/48,Liga Portugal,1
+336,Sporting CP,46/47,Liga Portugal,1
+336,Sporting CP,45/46,Liga Portugal,3
+336,Sporting CP,44/45,Liga Portugal,3
+336,Sporting CP,43/44,Liga Portugal,1
+336,Sporting CP,42/43,Liga Portugal,2
+336,Sporting CP,41/42,Liga Portugal,3
+336,Sporting CP,40/41,Liga Portugal,1
+336,Sporting CP,39/40,Liga Portugal,2
+336,Sporting CP,38/39,Liga Portugal,2
+336,Sporting CP,37/38,Liga Portugal,3
+336,Sporting CP,36/37,Liga Portugal,3
+336,Sporting CP,35/36,Liga Portugal,3
+336,Sporting CP,34/35,Liga Portugal,2
+148,Tottenham,26/27,Premier League,18
+148,Tottenham,25/26,Premier League,17
+148,Tottenham,24/25,Premier League,17
+148,Tottenham,23/24,Premier League,5
+148,Tottenham,22/23,Premier League,8
+148,Tottenham,21/22,Premier League,4
+148,Tottenham,20/21,Premier League,7
+148,Tottenham,19/20,Premier League,6
+148,Tottenham,18/19,Premier League,4
+148,Tottenham,17/18,Premier League,3
+148,Tottenham,16/17,Premier League,2
+148,Tottenham,15/16,Premier League,3
+148,Tottenham,14/15,Premier League,5
+148,Tottenham,13/14,Premier League,6
+148,Tottenham,12/13,Premier League,5
+148,Tottenham,11/12,Premier League,4
+148,Tottenham,10/11,Premier League,5
+148,Tottenham,09/10,Premier League,4
+148,Tottenham,08/09,Premier League,8
+148,Tottenham,07/08,Premier League,11
+148,Tottenham,06/07,Premier League,5
+148,Tottenham,05/06,Premier League,5
+148,Tottenham,04/05,Premier League,9
+148,Tottenham,03/04,Premier League,14
+148,Tottenham,02/03,Premier League,10
+148,Tottenham,01/02,Premier League,9
+148,Tottenham,00/01,Premier League,12
+148,Tottenham,99/00,Premier League,10
+148,Tottenham,98/99,Premier League,11
+148,Tottenham,97/98,Premier League,14
+148,Tottenham,96/97,Premier League,10
+148,Tottenham,95/96,Premier League,8
+148,Tottenham,94/95,Premier League,7
+148,Tottenham,93/94,Premier League,15
+148,Tottenham,92/93,Premier League,8
+148,Tottenham,91/92,Premier League,15
+148,Tottenham,90/91,Premier League,10
+148,Tottenham,89/90,Premier League,3
+148,Tottenham,88/89,Premier League,6
+148,Tottenham,87/88,Premier League,13
+148,Tottenham,86/87,Premier League,3
+148,Tottenham,85/86,Premier League,10
+148,Tottenham,84/85,Premier League,3
+148,Tottenham,83/84,Premier League,8
+148,Tottenham,82/83,Premier League,4
+148,Tottenham,81/82,Premier League,4
+148,Tottenham,80/81,Premier League,10
+148,Tottenham,79/80,Premier League,14
+148,Tottenham,78/79,Premier League,11
+148,Tottenham,77/78,Premier League,4
+148,Tottenham,76/77,Premier League,22
+148,Tottenham,75/76,Premier League,9
+148,Tottenham,74/75,Premier League,19
+148,Tottenham,73/74,Premier League,11
+148,Tottenham,72/73,Premier League,8
+148,Tottenham,71/72,Premier League,6
+148,Tottenham,70/71,Premier League,3
+148,Tottenham,69/70,Premier League,11
+148,Tottenham,68/69,Premier League,6
+148,Tottenham,67/68,Premier League,7
+148,Tottenham,66/67,Premier League,2
+148,Tottenham,65/66,Premier League,8
+148,Tottenham,64/65,Premier League,6
+148,Tottenham,63/64,Premier League,4
+148,Tottenham,62/63,Premier League,2
+148,Tottenham,61/62,Premier League,3
+148,Tottenham,60/61,Premier League,1
+148,Tottenham,59/60,Premier League,3
+148,Tottenham,58/59,Premier League,18
+148,Tottenham,57/58,Premier League,4
+148,Tottenham,56/57,Premier League,2
+148,Tottenham,55/56,Premier League,18
+148,Tottenham,54/55,Premier League,16
+148,Tottenham,53/54,Premier League,16
+148,Tottenham,52/53,Premier League,10
+148,Tottenham,51/52,Premier League,3
+148,Tottenham,50/51,Premier League,1
+148,Tottenham,38/39,Premier League,5
+148,Tottenham,34/35,Premier League,22
+148,Tottenham,33/34,Premier League,3
+148,Tottenham,1927/28,Premier League,21
+148,Tottenham,1926/27,Premier League,13
+148,Tottenham,1925/26,Premier League,16
+148,Tottenham,1924/25,Premier League,12
+148,Tottenham,1923/24,Premier League,15
+148,Tottenham,1922/23,Premier League,11
+148,Tottenham,1921/22,Premier League,2
+148,Tottenham,1920/21,Premier League,6
+148,Tottenham,1914/15,Premier League,20
+148,Tottenham,1913/14,Premier League,18
+148,Tottenham,1912/13,Premier League,17
+148,Tottenham,1911/12,Premier League,12
+148,Tottenham,1910/11,Premier League,15
+148,Tottenham,1909/10,Premier League,16
+82,VfL Wolfsburg,26/27,2.Bundesliga,4
+82,VfL Wolfsburg,25/26,Bundesliga,16
+82,VfL Wolfsburg,24/25,Bundesliga,11
+82,VfL Wolfsburg,23/24,Bundesliga,12
+82,VfL Wolfsburg,22/23,Bundesliga,8
+82,VfL Wolfsburg,21/22,Bundesliga,12
+82,VfL Wolfsburg,20/21,Bundesliga,4
+82,VfL Wolfsburg,19/20,Bundesliga,7
+82,VfL Wolfsburg,18/19,Bundesliga,6
+82,VfL Wolfsburg,17/18,Bundesliga,16
+82,VfL Wolfsburg,16/17,Bundesliga,16
+82,VfL Wolfsburg,15/16,Bundesliga,8
+82,VfL Wolfsburg,14/15,Bundesliga,2
+82,VfL Wolfsburg,13/14,Bundesliga,5
+82,VfL Wolfsburg,12/13,Bundesliga,11
+82,VfL Wolfsburg,11/12,Bundesliga,8
+82,VfL Wolfsburg,10/11,Bundesliga,15
+82,VfL Wolfsburg,09/10,Bundesliga,8
+82,VfL Wolfsburg,08/09,Bundesliga,1
+82,VfL Wolfsburg,07/08,Bundesliga,5
+82,VfL Wolfsburg,06/07,Bundesliga,15
+82,VfL Wolfsburg,05/06,Bundesliga,15
+82,VfL Wolfsburg,04/05,Bundesliga,9
+82,VfL Wolfsburg,03/04,Bundesliga,10
+82,VfL Wolfsburg,02/03,Bundesliga,8
+82,VfL Wolfsburg,01/02,Bundesliga,10
+82,VfL Wolfsburg,00/01,Bundesliga,9
+82,VfL Wolfsburg,99/00,Bundesliga,7
+82,VfL Wolfsburg,98/99,Bundesliga,6
+82,VfL Wolfsburg,97/98,Bundesliga,14
+82,VfL Wolfsburg,96/97,2.Bundesliga,3
+82,VfL Wolfsburg,95/96,2.Bundesliga,12
+82,VfL Wolfsburg,94/95,2.Bundesliga,4
+82,VfL Wolfsburg,93/94,2.Bundesliga,5
+82,VfL Wolfsburg,92/93,2.Bundesliga,14
+82,VfL Wolfsburg,91/92,Bundesliga,1
+82,VfL Wolfsburg,90/91,Bundesliga,1
+82,VfL Wolfsburg,89/90,Bundesliga,4
+82,VfL Wolfsburg,88/89,Bundesliga,4
+82,VfL Wolfsburg,87/88,Bundesliga,2
+82,VfL Wolfsburg,86/87,Bundesliga,6
+82,VfL Wolfsburg,85/86,Bundesliga,6
+82,VfL Wolfsburg,84/85,Bundesliga,9
+82,VfL Wolfsburg,83/84,Bundesliga,14
+82,VfL Wolfsburg,82/83,Bundesliga,5
+82,VfL Wolfsburg,81/82,Bundesliga,4
+82,VfL Wolfsburg,80/81,Bundesliga,6
+82,VfL Wolfsburg,79/80,Bundesliga,3
+82,VfL Wolfsburg,78/79,Bundesliga,3
+82,VfL Wolfsburg,76/77,Bundesliga,20
+82,VfL Wolfsburg,74/75,Bundesliga,19
+82,VfL Wolfsburg,73/74,Bundesliga,4
+82,VfL Wolfsburg,72/73,Bundesliga,3
+82,VfL Wolfsburg,71/72,Bundesliga,3
+82,VfL Wolfsburg,70/71,Bundesliga,9
+82,VfL Wolfsburg,69/70,Bundesliga,2
+82,VfL Wolfsburg,68/69,Bundesliga,6
+82,VfL Wolfsburg,66/67,Bundesliga,4
+82,VfL Wolfsburg,65/66,Bundesliga,8
+82,VfL Wolfsburg,64/65,Bundesliga,6
+82,VfL Wolfsburg,63/64,Bundesliga,9
+82,VfL Wolfsburg,58/59,Bundesliga,16
+82,VfL Wolfsburg,57/58,Bundesliga,11
+82,VfL Wolfsburg,56/57,Bundesliga,14
+82,VfL Wolfsburg,55/56,Bundesliga,14
+82,VfL Wolfsburg,54/55,Bundesliga,14
+86,Werder Bremen,26/27,Bundesliga,10
+86,Werder Bremen,25/26,Bundesliga,15
+86,Werder Bremen,24/25,Bundesliga,8
+86,Werder Bremen,23/24,Bundesliga,9
+86,Werder Bremen,22/23,Bundesliga,13
+86,Werder Bremen,21/22,Bundesliga,2
+86,Werder Bremen,20/21,Bundesliga,17
+86,Werder Bremen,19/20,Bundesliga,16
+86,Werder Bremen,18/19,Bundesliga,8
+86,Werder Bremen,17/18,Bundesliga,11
+86,Werder Bremen,16/17,Bundesliga,8
+86,Werder Bremen,15/16,Bundesliga,13
+86,Werder Bremen,14/15,Bundesliga,10
+86,Werder Bremen,13/14,Bundesliga,12
+86,Werder Bremen,12/13,Bundesliga,14
+86,Werder Bremen,11/12,Bundesliga,9
+86,Werder Bremen,10/11,Bundesliga,13
+86,Werder Bremen,09/10,Bundesliga,3
+86,Werder Bremen,08/09,Bundesliga,10
+86,Werder Bremen,07/08,Bundesliga,2
+86,Werder Bremen,06/07,Bundesliga,3
+86,Werder Bremen,05/06,Bundesliga,2
+86,Werder Bremen,04/05,Bundesliga,3
+86,Werder Bremen,03/04,Bundesliga,1
+86,Werder Bremen,02/03,Bundesliga,6
+86,Werder Bremen,01/02,Bundesliga,6
+86,Werder Bremen,00/01,Bundesliga,7
+86,Werder Bremen,99/00,Bundesliga,9
+86,Werder Bremen,98/99,Bundesliga,13
+86,Werder Bremen,97/98,Bundesliga,7
+86,Werder Bremen,96/97,Bundesliga,8
+86,Werder Bremen,95/96,Bundesliga,9
+86,Werder Bremen,94/95,Bundesliga,2
+86,Werder Bremen,93/94,Bundesliga,8
+86,Werder Bremen,92/93,Bundesliga,1
+86,Werder Bremen,91/92,Bundesliga,9
+86,Werder Bremen,90/91,Bundesliga,3
+86,Werder Bremen,89/90,Bundesliga,7
+86,Werder Bremen,88/89,Bundesliga,3
+86,Werder Bremen,87/88,Bundesliga,1
+86,Werder Bremen,86/87,Bundesliga,5
+86,Werder Bremen,85/86,Bundesliga,2
+86,Werder Bremen,84/85,Bundesliga,2
+86,Werder Bremen,83/84,Bundesliga,5
+86,Werder Bremen,82/83,Bundesliga,2
+86,Werder Bremen,81/82,Bundesliga,5
+86,Werder Bremen,80/81,Bundesliga,1
+86,Werder Bremen,79/80,Bundesliga,17
+86,Werder Bremen,78/79,Bundesliga,11
+86,Werder Bremen,77/78,Bundesliga,15
+86,Werder Bremen,76/77,Bundesliga,11
+86,Werder Bremen,75/76,Bundesliga,13
+86,Werder Bremen,74/75,Bundesliga,15
+86,Werder Bremen,73/74,Bundesliga,11
+86,Werder Bremen,72/73,Bundesliga,11
+86,Werder Bremen,71/72,Bundesliga,11
+86,Werder Bremen,70/71,Bundesliga,10
+86,Werder Bremen,69/70,Bundesliga,11
+86,Werder Bremen,68/69,Bundesliga,9
+86,Werder Bremen,67/68,Bundesliga,2
+86,Werder Bremen,66/67,Bundesliga,16
+86,Werder Bremen,65/66,Bundesliga,4
+86,Werder Bremen,64/65,Bundesliga,1
+86,Werder Bremen,63/64,Bundesliga,10
+86,Werder Bremen,62/63,Bundesliga,2
+86,Werder Bremen,61/62,Bundesliga,2
+86,Werder Bremen,60/61,Bundesliga,2
+86,Werder Bremen,59/60,Bundesliga,2
+86,Werder Bremen,58/59,Bundesliga,2
+86,Werder Bremen,57/58,Bundesliga,7
+86,Werder Bremen,56/57,Bundesliga,5
+86,Werder Bremen,55/56,Bundesliga,6
+86,Werder Bremen,54/55,Bundesliga,4
+86,Werder Bremen,53/54,Bundesliga,5
+86,Werder Bremen,52/53,Bundesliga,3
+86,Werder Bremen,51/52,Bundesliga,8
+86,Werder Bremen,49/50,Bundesliga,4
+86,Werder Bremen,48/49,Bundesliga,8
+86,Werder Bremen,48/49,Bundesliga,8
+86,Werder Bremen,47/48,Bundesliga,5
+379,West Ham United,26/27,Championship,8
+379,West Ham United,25/26,Premier League,18
+379,West Ham United,24/25,Premier League,14 
+379,West Ham United,23/24,Premier League,9
+379,West Ham United,22/23,Premier League,14
+379,West Ham United,21/22,Premier League,7
+379,West Ham United,20/21,Premier League,6
+379,West Ham United,19/20,Premier League,16
+379,West Ham United,18/19,Premier League,10
+379,West Ham United,17/18,Premier League,13
+379,West Ham United,16/17,Premier League,11
+379,West Ham United,15/16,Premier League,7
+379,West Ham United,14/15,Premier League,12
+379,West Ham United,13/14,Premier League,13
+379,West Ham United,12/13,Premier League,10
+379,West Ham United,11/12,Premier League,3
+379,West Ham United,10/11,Premier League,20
+379,West Ham United,09/10,Premier League,17
+379,West Ham United,08/09,Premier League,9
+379,West Ham United,07/08,Premier League,10
+379,West Ham United,06/07,Premier League,15
+379,West Ham United,05/06,Premier League,9
+379,West Ham United,04/05,Premier League,6
+379,West Ham United,03/04,Premier League,4
+379,West Ham United,02/03,Premier League,18
+379,West Ham United,01/02,Premier League,7
+379,West Ham United,00/01,Premier League,15
+379,West Ham United,99/00,Premier League,9
+379,West Ham United,98/99,Premier League,5
+379,West Ham United,97/98,Premier League,8
+379,West Ham United,96/97,Premier League,14
+379,West Ham United,95/96,Premier League,10
+379,West Ham United,94/95,Premier League,14
+379,West Ham United,93/94,Premier League,13
+379,West Ham United,92/93,Premier League,2
+379,West Ham United,91/92,Premier League,22
+379,West Ham United,90/91,Premier League,2
+379,West Ham United,89/90,Premier League,7
+379,West Ham United,88/89,Premier League,19
+379,West Ham United,87/88,Premier League,16
+379,West Ham United,86/87,Premier League,15
+379,West Ham United,85/86,Premier League,3
+379,West Ham United,84/85,Premier League,16
+379,West Ham United,83/84,Premier League,9
+379,West Ham United,82/83,Premier League,8
+379,West Ham United,81/82,Premier League,9
+379,West Ham United,79/80,Premier League,7
+379,West Ham United,78/79,Premier League,5
+379,West Ham United,77/78,Premier League,20
+379,West Ham United,76/77,Premier League,17
+379,West Ham United,75/76,Premier League,18
+379,West Ham United,74/75,Premier League,13
+379,West Ham United,73/74,Premier League,18
+379,West Ham United,72/73,Premier League,6
+379,West Ham United,71/72,Premier League,14
+379,West Ham United,70/71,Premier League,20
+379,West Ham United,69/70,Premier League,17
+379,West Ham United,68/69,Premier League,8
+379,West Ham United,67/68,Premier League,12
+379,West Ham United,66/67,Premier League,16
+379,West Ham United,65/66,Premier League,12
+379,West Ham United,64/65,Premier League,9
+379,West Ham United,63/64,Premier League,14
+379,West Ham United,62/63,Premier League,12
+379,West Ham United,61/62,Premier League,10
+379,West Ham United,60/61,Premier League,16
+379,West Ham United,59/60,Premier League,14
+379,West Ham United,58/59,Premier League,6
+379,West Ham United,57/58,Premier League,1
+379,West Ham United,56/57,Premier League,8
+379,West Ham United,55/56,Premier League,16
+379,West Ham United,54/55,Premier League,8
+379,West Ham United,53/54,Premier League,13
+379,West Ham United,52/53,Premier League,14
+379,West Ham United,48/49,Premier League,8
+379,West Ham United,47/48,Premier League,11
+379,West Ham United,38/39,Premier League,17
+379,West Ham United,31/32,Premier League,22
+379,West Ham United,30/31,Premier League,18
+379,West Ham United,1929/30,Premier League,7
+379,West Ham United,1928/29,Premier League,17
+379,West Ham United,1927/28,Premier League,17
+379,West Ham United,1926/27,Premier League,6
+379,West Ham United,1925/26,Premier League,18
+379,West Ham United,1924/25,Premier League,13
+379,West Ham United,1923/24,Premier League,13
+1050,Villarreal,26/27,LaLiga,16
+1050,Villarreal,25/26,LaLiga,3
+1050,Villarreal,24/25,LaLiga,5
+1050,Villarreal,23/24,LaLiga,8
+1050,Villarreal,22/23,LaLiga,5
+1050,Villarreal,21/22,LaLiga,7
+1050,Villarreal,20/21,LaLiga,7
+1050,Villarreal,19/20,LaLiga,5
+1050,Villarreal,18/19,LaLiga,14
+1050,Villarreal,17/18,LaLiga,5
+1050,Villarreal,16/17,LaLiga,5
+1050,Villarreal,15/16,LaLiga,4
+1050,Villarreal,14/15,LaLiga,6
+1050,Villarreal,13/14,LaLiga,6
+1050,Villarreal,12/13,LaLiga,2
+1050,Villarreal,11/12,LaLiga,18
+1050,Villarreal,10/11,LaLiga,4
+1050,Villarreal,09/10,LaLiga,7
+1050,Villarreal,08/09,LaLiga,5
+1050,Villarreal,07/08,LaLiga,2
+1050,Villarreal,06/07,LaLiga,5
+1050,Villarreal,05/06,LaLiga,7
+1050,Villarreal,04/05,LaLiga,3
+1050,Villarreal,03/04,LaLiga,8
+1050,Villarreal,02/03,LaLiga,15
+1050,Villarreal,01/02,LaLiga,15
+1050,Villarreal,00/01,LaLiga,7
+1050,Villarreal,99/00,LaLiga,3
+1050,Villarreal,98/99,LaLiga,18
+1050,Villarreal,97/98,LaLiga,4
+1050,Villarreal,96/97,LaLiga,10
+1050,Villarreal,95/96,LaLiga,15
+1050,Villarreal,94/95,LaLiga,10
+1050,Villarreal,93/94,LaLiga,16
+1050,Villarreal,92/93,LaLiga,13
+1050,Villarreal,71/72,LaLiga,17
+1050,Villarreal,70/71,LaLiga,16
+1049,Valencia,26/27,LaLiga,20
+1049,Valencia,25/26,LaLiga,9
+1049,Valencia,24/25,LaLiga,12
+1049,Valencia,23/24,LaLiga,9
+1049,Valencia,22/23,LaLiga,14
+1049,Valencia,21/22,LaLiga,9
+1049,Valencia,20/21,LaLiga,13
+1049,Valencia,19/20,LaLiga,9
+1049,Valencia,18/19,LaLiga,4
+1049,Valencia,17/18,LaLiga,4
+1049,Valencia,16/17,LaLiga,12
+1049,Valencia,15/16,LaLiga,12
+1049,Valencia,14/15,LaLiga,4
+1049,Valencia,13/14,LaLiga,8
+1049,Valencia,12/13,LaLiga,5
+1049,Valencia,11/12,LaLiga,3
+1049,Valencia,10/11,LaLiga,3
+1049,Valencia,09/10,LaLiga,3
+1049,Valencia,08/09,LaLiga,6
+1049,Valencia,07/08,LaLiga,10
+1049,Valencia,06/07,LaLiga,4
+1049,Valencia,05/06,LaLiga,3
+1049,Valencia,04/05,LaLiga,7
+1049,Valencia,03/04,LaLiga,1
+1049,Valencia,02/03,LaLiga,5
+1049,Valencia,01/02,LaLiga,1
+1049,Valencia,00/01,LaLiga,5
+1049,Valencia,99/00,LaLiga,3
+1049,Valencia,98/99,LaLiga,4
+1049,Valencia,97/98,LaLiga,9
+1049,Valencia,96/97,LaLiga,10
+1049,Valencia,95/96,LaLiga,2
+1049,Valencia,94/95,LaLiga,10
+1049,Valencia,93/94,LaLiga,7
+1049,Valencia,92/93,LaLiga,4
+1049,Valencia,91/92,LaLiga,4
+1049,Valencia,90/91,LaLiga,7
+1049,Valencia,89/90,LaLiga,2
+1049,Valencia,88/89,LaLiga,3
+1049,Valencia,87/88,LaLiga,16
+1049,Valencia,86/87,LaLiga,1
+1049,Valencia,85/86,LaLiga,16
+1049,Valencia,84/85,LaLiga,9
+1049,Valencia,83/84,LaLiga,12
+1049,Valencia,82/83,LaLiga,15
+1049,Valencia,81/82,LaLiga,5
+1049,Valencia,80/81,LaLiga,4
+1049,Valencia,79/80,LaLiga,6
+1049,Valencia,78/79,LaLiga,7
+1049,Valencia,77/78,LaLiga,4
+1049,Valencia,76/77,LaLiga,7
+1049,Valencia,75/76,LaLiga,10
+1049,Valencia,74/75,LaLiga,12
+1049,Valencia,73/74,LaLiga,10
+1049,Valencia,72/73,LaLiga,6
+1049,Valencia,71/72,LaLiga,2
+1049,Valencia,70/71,LaLiga,1
+1049,Valencia,69/70,LaLiga,5
+1049,Valencia,68/69,LaLiga,5
+1049,Valencia,67/68,LaLiga,4
+1049,Valencia,66/67,LaLiga,6
+1049,Valencia,65/66,LaLiga,9
+1049,Valencia,64/65,LaLiga,4
+1049,Valencia,63/64,LaLiga,6
+1049,Valencia,62/63,LaLiga,7
+1049,Valencia,61/62,LaLiga,7
+1049,Valencia,60/61,LaLiga,5
+1049,Valencia,59/60,LaLiga,9
+1049,Valencia,58/59,LaLiga,4
+1049,Valencia,57/58,LaLiga,4
+1049,Valencia,56/57,LaLiga,11
+1049,Valencia,55/56,LaLiga,6
+1049,Valencia,54/55,LaLiga,5
+1049,Valencia,53/54,LaLiga,3
+1049,Valencia,52/53,LaLiga,2
+1049,Valencia,51/52,LaLiga,5
+1049,Valencia,50/51,LaLiga,3
+1049,Valencia,49/50,LaLiga,3
+1049,Valencia,48/49,LaLiga,2
+1049,Valencia,47/48,LaLiga,2
+1049,Valencia,46/47,LaLiga,1
+1049,Valencia,45/46,LaLiga,6
+1049,Valencia,44/45,LaLiga,5
+1049,Valencia,43/44,LaLiga,1
+1049,Valencia,42/43,LaLiga,7
+1049,Valencia,41/42,LaLiga,1
+1049,Valencia,40/41,LaLiga,4
+1049,Valencia,39/40,LaLiga,7
+1049,Valencia,35/36,LaLiga,8
+1049,Valencia,34/35,LaLiga,8
+1049,Valencia,33/34,LaLiga,8
+1049,Valencia,32/33,LaLiga,9
+1049,Valencia,31/32,LaLiga,7
+1049,Valencia,30/31,LaLiga,1
+1049,Valencia,1929/30,LaLiga,6
+1049,Valencia,1928/29,LaLiga,5
+289,Sunderland,26/27,Premier League,12
+289,Sunderland,25/26,Premier League,7
+289,Sunderland,24/25,Premier League,4
+289,Sunderland,23/24,Premier League,16
+289,Sunderland,22/23,Premier League,6
+289,Sunderland,21/22,Premier League,5
+289,Sunderland,20/21,Premier League,4
+289,Sunderland,19/20,Premier League,7
+289,Sunderland,18/19,Premier League,5
+289,Sunderland,17/18,Premier League,24
+289,Sunderland,16/17,Premier League,20
+289,Sunderland,15/16,Premier League,17
+289,Sunderland,14/15,Premier League,16
+289,Sunderland,13/14,Premier League,14
+289,Sunderland,12/13,Premier League,17
+289,Sunderland,11/12,Premier League,13
+289,Sunderland,10/11,Premier League,10
+289,Sunderland,09/10,Premier League,13
+289,Sunderland,08/09,Premier League,16
+289,Sunderland,07/08,Premier League,15
+289,Sunderland,06/07,Premier League,1
+289,Sunderland,05/06,Premier League,20
+289,Sunderland,04/05,Premier League,1
+289,Sunderland,03/04,Premier League,3
+289,Sunderland,02/03,Premier League,20
+289,Sunderland,01/02,Premier League,17
+289,Sunderland,00/01,Premier League,7
+289,Sunderland,99/00,Premier League,7
+289,Sunderland,98/99,Premier League,1
+289,Sunderland,97/98,Premier League,3
+289,Sunderland,96/97,Premier League,18
+289,Sunderland,95/96,Premier League,1
+289,Sunderland,94/95,Premier League,20
+289,Sunderland,93/94,Premier League,12
+289,Sunderland,92/93,Premier League,21
+289,Sunderland,91/92,Premier League,18
+289,Sunderland,90/91,Premier League,19
+289,Sunderland,89/90,Premier League,6
+289,Sunderland,88/89,Premier League,11
+289,Sunderland,86/87,Premier League,20
+289,Sunderland,86/87,Premier League,20
+289,Sunderland,86/87,Premier League,20
+289,Sunderland,85/86,Premier League,4
+289,Sunderland,84/85,Premier League,21
+289,Sunderland,83/84,Premier League,13
+289,Sunderland,82/83,Premier League,16
+289,Sunderland,81/82,Premier League,19
+289,Sunderland,80/81,Premier League,17
+289,Sunderland,79/80,Premier League,2
+289,Sunderland,78/79,Premier League,4
+289,Sunderland,77/78,Premier League,6
+289,Sunderland,76/77,Premier League,20
+289,Sunderland,75/76,Premier League,1
+289,Sunderland,74/75,Premier League,4
+289,Sunderland,73/74,Premier League,5
+289,Sunderland,72/73,Premier League,6
+289,Sunderland,71/72,Premier League,5
+289,Sunderland,69/70,Premier League,21
+289,Sunderland,68/69,Premier League,17
+289,Sunderland,67/68,Premier League,15
+289,Sunderland,66/67,Premier League,17
+289,Sunderland,65/66,Premier League,19
+289,Sunderland,64/65,Premier League,15
+289,Sunderland,62/63,Premier League,3
+289,Sunderland,61/62,Premier League,3
+289,Sunderland,60/61,Premier League,6
+289,Sunderland,59/60,Premier League,15
+289,Sunderland,58/59,Premier League,15
+289,Sunderland,57/58,Premier League,21
+289,Sunderland,56/57,Premier League,20
+289,Sunderland,55/56,Premier League,9
+289,Sunderland,54/55,Premier League,4
+289,Sunderland,53/54,Premier League,18
+289,Sunderland,52/53,Premier League,9
+289,Sunderland,51/52,Premier League,12
+289,Sunderland,50/51,Premier League,13
+289,Sunderland,49/50,Premier League,3
+289,Sunderland,48/49,Premier League,8
+289,Sunderland,47/48,Premier League,20
+289,Sunderland,46/47,Premier League,9
+289,Sunderland,39/40,Premier League,15
+289,Sunderland,38/39,Premier League,16
+289,Sunderland,37/38,Premier League,8
+289,Sunderland,36/37,Premier League,8
+289,Sunderland,35/36,Premier League,1
+289,Sunderland,34/35,Premier League,2
+289,Sunderland,33/34,Premier League,6
+289,Sunderland,32/33,Premier League,12
+289,Sunderland,31/32,Premier League,13
+289,Sunderland,30/31,Premier League,11
+289,Sunderland,1929/30,Premier League,9
+289,Sunderland,1928/29,Premier League,4
+289,Sunderland,1927/28,Premier League,15
+289,Sunderland,1926/27,Premier League,3
+289,Sunderland,1925/26,Premier League,3
+289,Sunderland,1924/25,Premier League,5
+289,Sunderland,1923/24,Premier League,3
+289,Sunderland,1922/23,Premier League,2
+289,Sunderland,1921/22,Premier League,11
+289,Sunderland,1920/21,Premier League,11
+289,Sunderland,1919/20,Premier League,5
+289,Sunderland,1914/15,Premier League,8
+289,Sunderland,1913/14,Premier League,7
+289,Sunderland,1912/13,Premier League,1
+289,Sunderland,1911/12,Premier League,9
+289,Sunderland,1910/11,Premier League,5
+289,Sunderland,1909/10,Premier League,7
+289,Sunderland,1908/09,Premier League,2
+289,Sunderland,1907/08,Premier League,9
+289,Sunderland,1906/07,Premier League,10
+289,Sunderland,1905/06,Premier League,14
+289,Sunderland,1904/05,Premier League,6
+289,Sunderland,1903/04,Premier League,6
+289,Sunderland,1902/03,Premier League,3
+289,Sunderland,1901/02,Premier League,1
+289,Sunderland,1900/01,Premier League,2
+289,Sunderland,1899/00,Premier League,3
+289,Sunderland,1898/99,Premier League,7
+289,Sunderland,1893/94,Premier League,2
+289,Sunderland,1893/94,Premier League,2
+289,Sunderland,1892/93,Premier League,1
+289,Sunderland,1892/93,Premier League,1
+289,Sunderland,1892/93,Premier League,1
+289,Sunderland,1892/93,Premier League,1
+289,Sunderland,1891/92,Premier League,1
+289,Sunderland,1891/92,Premier League,1
+289,Sunderland,1891/92,Premier League,1
+289,Sunderland,1891/92,Premier League,1
+289,Sunderland,1891/92,Premier League,1
+1003,Leicester City,26/27,League One,17
+1003,Leicester City,25/26,Championship,23
+1003,Leicester City,24/25,Premier League,18
+1003,Leicester City,23/24,Championship,1
+1003,Leicester City,22/23,Premier League,18
+1003,Leicester City,21/22,Premier League,8
+1003,Leicester City,20/21,Premier League,5
+1003,Leicester City,19/20,Premier League,5
+1003,Leicester City,18/19,Premier League,9
+1003,Leicester City,17/18,Premier League,9
+1003,Leicester City,16/17,Premier League,12
+1003,Leicester City,15/16,Premier League,1
+1003,Leicester City,14/15,Premier League,14
+1003,Leicester City,13/14,Championship,1
+1003,Leicester City,12/13,Championship,6
+1003,Leicester City,11/12,Championship,9
+1003,Leicester City,10/11,Championship,10
+1003,Leicester City,09/10,Championship,5
+1003,Leicester City,07/08,Championship,22
+1003,Leicester City,06/07,Championship,19
+1003,Leicester City,05/06,Championship,16
+1003,Leicester City,04/05,Championship,15
+1003,Leicester City,03/04,Premier League,18
+1003,Leicester City,02/03,League One,2
+1003,Leicester City,01/02,League One,20
+1003,Leicester City,00/01,League One,13
+1003,Leicester City,99/00,League One,8
+1003,Leicester City,98/99,League One,10
+1003,Leicester City,97/98,League One,10
+1003,Leicester City,96/97,League One,9
+1003,Leicester City,95/96,League One,6
+1003,Leicester City,94/95,League One,21
+1003,Leicester City,93/94,League One,4
+1003,Leicester City,92/93,League One,6
+1003,Leicester City,91/92,League One,6
+1003,Leicester City,91/92,League One,6
+1003,Leicester City,90/91,League One,22
+1003,Leicester City,89/90,League One,14
+1003,Leicester City,88/89,League One,15
+1003,Leicester City,87/88,League One,13
+1003,Leicester City,86/87,League One,20
+1003,Leicester City,85/86,League One,19
+1003,Leicester City,84/85,League One,15
+1003,Leicester City,83/84,League One,15
+1003,Leicester City,82/83,League One,4
+1003,Leicester City,81/82,League One,4
+1003,Leicester City,80/81,League One,21
+1003,Leicester City,79/80,League One,1
+1003,Leicester City,78/79,League One,17
+1003,Leicester City,77/78,League One,22
+1003,Leicester City,76/77,League One,11
+1003,Leicester City,75/76,League One,7
+1003,Leicester City,74/75,League One,18
+1003,Leicester City,73/74,League One,9
+1003,Leicester City,72/73,League One,16
+1003,Leicester City,71/72,League One,12
+1003,Leicester City,68/69,League One,21
+1003,Leicester City,67/68,League One,13
+1003,Leicester City,66/67,League One,8
+1003,Leicester City,65/66,League One,7
+1003,Leicester City,64/65,League One,19
+1003,Leicester City,63/64,League One,11
+1003,Leicester City,62/63,League One,4
+1003,Leicester City,61/62,League One,14
+1003,Leicester City,60/61,League One,6
+1003,Leicester City,59/60,League One,12
+1003,Leicester City,58/59,League One,19
+1003,Leicester City,57/58,League One,19
+1003,Leicester City,56/57,League One,1
+1003,Leicester City,55/56,League One,5
+1003,Leicester City,54/55,League One,21
+1003,Leicester City,53/54,League One,1
+1003,Leicester City,52/53,League One,5
+1003,Leicester City,38/39,League One,22
+1003,Leicester City,37/38,League One,16
+1003,Leicester City,34/35,League One,21
+1003,Leicester City,33/34,League One,17
+1003,Leicester City,32/33,League One,19
+1003,Leicester City,31/32,League One,19
+1003,Leicester City,30/31,League One,16
+1003,Leicester City,1929/30,League One,8
+1003,Leicester City,1928/29,League One,2
+1003,Leicester City,1927/28,League One,3
+1003,Leicester City,1926/27,League One,7
+1003,Leicester City,1925/26,League One,17
+1003,Leicester City,1910/11,League One,15
+1003,Leicester City,1908/09,League One,20
+1003,Leicester City,1896/97,League One,12
+12321,Girona,26/27,LaLiga,4
+12321,Girona,25/26,LaLiga,19
+12321,Girona,24/25,LaLiga,16
+12321,Girona,23/24,LaLiga,3
+12321,Girona,22/23,LaLiga,10
+12321,Girona,21/22,LaLiga,6
+12321,Girona,20/21,LaLiga,5
+12321,Girona,19/20,LaLiga,5
+12321,Girona,18/19,LaLiga,18
+12321,Girona,17/18,LaLiga,10
+12321,Girona,16/17,LaLiga,2
+12321,Girona,15/16,LaLiga,4
+12321,Girona,14/15,LaLiga,3
+12321,Girona,13/14,LaLiga,16
+12321,Girona,12/13,LaLiga,4
+12321,Girona,11/12,LaLiga,15
+12321,Girona,10/11,LaLiga,11
+12321,Girona,09/10,LaLiga,14
+12321,Girona,08/09,LaLiga,16
+12321,Girona,07/08,LaLiga,1
+12321,Girona,04/05,LaLiga,3
+12321,Girona,03/04,LaLiga,2
+12321,Girona,58/59,LaLiga,15
+12321,Girona,57/58,LaLiga,9
+12321,Girona,56/57,LaLiga,9
+12321,Girona,50/51,LaLiga,16
+12321,Girona,49/50,LaLiga,9
+12321,Girona,48/49,LaLiga,10
+12321,Girona,42/43,LaLiga,6
+12321,Girona,41/42,LaLiga,5
+12321,Girona,40/41,LaLiga,4
+12321,Girona,39/40,LaLiga,3
+12321,Girona,35/36,LaLiga,1
+12321,Girona,34/35,LaLiga,4
+631,Chelsea,26/27,Premier League,4
+631,Chelsea,25/26,Premier League,10
+631,Chelsea,24/25,Premier League,4
+631,Chelsea,23/24,Premier League,6
+631,Chelsea,22/23,Premier League,12
+631,Chelsea,21/22,Premier League,3
+631,Chelsea,20/21,Premier League,4
+631,Chelsea,19/20,Premier League,4
+631,Chelsea,18/19,Premier League,3
+631,Chelsea,17/18,Premier League,5
+631,Chelsea,16/17,Premier League,1
+631,Chelsea,15/16,Premier League,10
+631,Chelsea,14/15,Premier League,1
+631,Chelsea,13/14,Premier League,3
+631,Chelsea,12/13,Premier League,3
+631,Chelsea,11/12,Premier League,6
+631,Chelsea,10/11,Premier League,2
+631,Chelsea,09/10,Premier League,1
+631,Chelsea,08/09,Premier League,3
+631,Chelsea,07/08,Premier League,2
+631,Chelsea,06/07,Premier League,2
+631,Chelsea,05/06,Premier League,1
+631,Chelsea,04/05,Premier League,1
+631,Chelsea,03/04,Premier League,2
+631,Chelsea,02/03,Premier League,4
+631,Chelsea,01/02,Premier League,6
+631,Chelsea,00/01,Premier League,6
+631,Chelsea,99/00,Premier League,5
+631,Chelsea,98/99,Premier League,3
+631,Chelsea,97/98,Premier League,4
+631,Chelsea,96/97,Premier League,6
+631,Chelsea,95/96,Premier League,11
+631,Chelsea,94/95,Premier League,11
+631,Chelsea,93/94,Premier League,14
+631,Chelsea,92/93,Premier League,11
+631,Chelsea,91/92,Premier League,14
+631,Chelsea,90/91,Premier League,11
+631,Chelsea,89/90,Premier League,5
+631,Chelsea,88/89,Premier League,1
+631,Chelsea,87/88,Premier League,18
+631,Chelsea,86/87,Premier League,14
+631,Chelsea,85/86,Premier League,6
+631,Chelsea,84/85,Premier League,6
+631,Chelsea,83/84,Premier League,4
+631,Chelsea,82/83,Premier League,11
+631,Chelsea,81/82,Premier League,11
+631,Chelsea,79/80,Premier League,4
+631,Chelsea,78/79,Premier League,22
+631,Chelsea,77/78,Premier League,16
+631,Chelsea,76/77,Premier League,2
+631,Chelsea,75/76,Premier League,11
+631,Chelsea,74/75,Premier League,21
+631,Chelsea,73/74,Premier League,17
+631,Chelsea,72/73,Premier League,12
+631,Chelsea,71/72,Premier League,7
+631,Chelsea,70/71,Premier League,6
+631,Chelsea,69/70,Premier League,3
+631,Chelsea,68/69,Premier League,5
+631,Chelsea,67/68,Premier League,6
+631,Chelsea,66/67,Premier League,9
+631,Chelsea,65/66,Premier League,5
+631,Chelsea,64/65,Premier League,3
+631,Chelsea,63/64,Premier League,5
+631,Chelsea,62/63,Premier League,2
+631,Chelsea,61/62,Premier League,22
+631,Chelsea,60/61,Premier League,12
+631,Chelsea,59/60,Premier League,18
+631,Chelsea,58/59,Premier League,14
+631,Chelsea,57/58,Premier League,11
+631,Chelsea,56/57,Premier League,12
+631,Chelsea,55/56,Premier League,16
+631,Chelsea,54/55,Premier League,1
+631,Chelsea,53/54,Premier League,8
+631,Chelsea,52/53,Premier League,19
+631,Chelsea,51/52,Premier League,18
+631,Chelsea,50/51,Premier League,20
+631,Chelsea,49/50,Premier League,14
+631,Chelsea,48/49,Premier League,13
+631,Chelsea,47/48,Premier League,18
+631,Chelsea,46/47,Premier League,15
+631,Chelsea,39/40,Premier League,11
+631,Chelsea,38/39,Premier League,20
+631,Chelsea,37/38,Premier League,10
+631,Chelsea,36/37,Premier League,13
+631,Chelsea,35/36,Premier League,8
+631,Chelsea,34/35,Premier League,12
+631,Chelsea,33/34,Premier League,19
+631,Chelsea,32/33,Premier League,18
+631,Chelsea,31/32,Premier League,12
+631,Chelsea,30/31,Premier League,12
+631,Chelsea,1923/24,Premier League,21
+631,Chelsea,1922/23,Premier League,20
+631,Chelsea,1921/22,Premier League,8
+631,Chelsea,1920/21,Premier League,17
+631,Chelsea,1919/20,Premier League,3
+631,Chelsea,1914/15,Premier League,19
+631,Chelsea,1913/14,Premier League,8
+631,Chelsea,1912/13,Premier League,18
+631,Chelsea,1910/11,Premier League,3
+631,Chelsea,1909/10,Premier League,19
+631,Chelsea,1908/09,Premier League,10
+631,Chelsea,1907/08,Premier League,12
+405,Aston Villa,26/27,Premier League,17
+405,Aston Villa,25/26,Premier League,4
+405,Aston Villa,24/25,Premier League,6
+405,Aston Villa,23/24,Premier League,4
+405,Aston Villa,22/23,Premier League,7
+405,Aston Villa,21/22,Premier League,14
+405,Aston Villa,20/21,Premier League,11
+405,Aston Villa,19/20,Premier League,17
+405,Aston Villa,18/19,Premier League,5
+405,Aston Villa,17/18,Premier League,4
+405,Aston Villa,16/17,Premier League,13
+405,Aston Villa,15/16,Premier League,20
+405,Aston Villa,14/15,Premier League,17
+405,Aston Villa,13/14,Premier League,15
+405,Aston Villa,12/13,Premier League,15
+405,Aston Villa,11/12,Premier League,16
+405,Aston Villa,10/11,Premier League,9
+405,Aston Villa,09/10,Premier League,6
+405,Aston Villa,08/09,Premier League,6
+405,Aston Villa,07/08,Premier League,6
+405,Aston Villa,06/07,Premier League,11
+405,Aston Villa,05/06,Premier League,16
+405,Aston Villa,04/05,Premier League,10
+405,Aston Villa,03/04,Premier League,6
+405,Aston Villa,02/03,Premier League,16
+405,Aston Villa,01/02,Premier League,8
+405,Aston Villa,00/01,Premier League,8
+405,Aston Villa,99/00,Premier League,6
+405,Aston Villa,98/99,Premier League,6
+405,Aston Villa,97/98,Premier League,7
+405,Aston Villa,96/97,Premier League,5
+405,Aston Villa,95/96,Premier League,4
+405,Aston Villa,94/95,Premier League,18
+405,Aston Villa,93/94,Premier League,10
+405,Aston Villa,92/93,Premier League,2
+405,Aston Villa,91/92,Premier League,7
+405,Aston Villa,90/91,Premier League,17
+405,Aston Villa,89/90,Premier League,2
+405,Aston Villa,88/89,Premier League,17
+405,Aston Villa,87/88,Premier League,2
+405,Aston Villa,86/87,Premier League,22
+405,Aston Villa,85/86,Premier League,16
+405,Aston Villa,84/85,Premier League,10
+405,Aston Villa,83/84,Premier League,10
+405,Aston Villa,82/83,Premier League,6
+405,Aston Villa,81/82,Premier League,11
+405,Aston Villa,80/81,Premier League,1
+405,Aston Villa,79/80,Premier League,7
+405,Aston Villa,78/79,Premier League,8
+405,Aston Villa,77/78,Premier League,8
+405,Aston Villa,76/77,Premier League,4
+405,Aston Villa,75/76,Premier League,16
+405,Aston Villa,74/75,Premier League,2
+405,Aston Villa,73/74,Premier League,14
+405,Aston Villa,72/73,Premier League,3
+405,Aston Villa,70/71,Premier League,2
+405,Aston Villa,68/69,Premier League,17
+405,Aston Villa,66/67,Premier League,21
+405,Aston Villa,65/66,Premier League,17
+405,Aston Villa,64/65,Premier League,16
+405,Aston Villa,63/64,Premier League,19
+405,Aston Villa,62/63,Premier League,15
+405,Aston Villa,61/62,Premier League,7
+405,Aston Villa,60/61,Premier League,8
+405,Aston Villa,59/60,Premier League,1
+405,Aston Villa,58/59,Premier League,21
+405,Aston Villa,57/58,Premier League,13
+405,Aston Villa,56/57,Premier League,10
+405,Aston Villa,55/56,Premier League,20
+405,Aston Villa,54/55,Premier League,6
+405,Aston Villa,53/54,Premier League,13
+405,Aston Villa,52/53,Premier League,11
+405,Aston Villa,51/52,Premier League,6
+405,Aston Villa,50/51,Premier League,15
+405,Aston Villa,49/50,Premier League,12
+405,Aston Villa,48/49,Premier League,10
+405,Aston Villa,47/48,Premier League,6
+405,Aston Villa,46/47,Premier League,8
+405,Aston Villa,39/40,Premier League,14
+405,Aston Villa,38/39,Premier League,12
+405,Aston Villa,35/36,Premier League,21
+405,Aston Villa,34/35,Premier League,13
+405,Aston Villa,33/34,Premier League,13
+405,Aston Villa,32/33,Premier League,2
+405,Aston Villa,31/32,Premier League,5
+405,Aston Villa,30/31,Premier League,2
+405,Aston Villa,1929/30,Premier League,4
+405,Aston Villa,1928/29,Premier League,3
+405,Aston Villa,1927/28,Premier League,8
+405,Aston Villa,1926/27,Premier League,10
+405,Aston Villa,1925/26,Premier League,8
+405,Aston Villa,1924/25,Premier League,15
+405,Aston Villa,1923/24,Premier League,7
+405,Aston Villa,1922/23,Premier League,6
+405,Aston Villa,1921/22,Premier League,4
+405,Aston Villa,1920/21,Premier League,9
+405,Aston Villa,1919/20,Premier League,9
+405,Aston Villa,1914/15,Premier League,14
+405,Aston Villa,1913/14,Premier League,2
+405,Aston Villa,1912/13,Premier League,3
+405,Aston Villa,1911/12,Premier League,5
+405,Aston Villa,1910/11,Premier League,2
+405,Aston Villa,1909/10,Premier League,1
+405,Aston Villa,1908/09,Premier League,7
+405,Aston Villa,1907/08,Premier League,3
+405,Aston Villa,1906/07,Premier League,5
+405,Aston Villa,1905/06,Premier League,8
+405,Aston Villa,1904/05,Premier League,4
+405,Aston Villa,1903/04,Premier League,5
+405,Aston Villa,1902/03,Premier League,2
+405,Aston Villa,1901/02,Premier League,8
+405,Aston Villa,1900/01,Premier League,14
+405,Aston Villa,1899/00,Premier League,1
+405,Aston Villa,1898/99,Premier League,1
+405,Aston Villa,1894/95,Premier League,2
+405,Aston Villa,1894/95,Premier League,2
+405,Aston Villa,1893/94,Premier League,1
+405,Aston Villa,1893/94,Premier League,1
+405,Aston Villa,1892/93,Premier League,4
+405,Aston Villa,1892/93,Premier League,4
+405,Aston Villa,1892/93,Premier League,4
+405,Aston Villa,1891/92,Premier League,4
+405,Aston Villa,1891/92,Premier League,4
+405,Aston Villa,1891/92,Premier League,4
+405,Aston Villa,1889/90,Premier League,8
+405,Aston Villa,1889/90,Premier League,8
+1114,Al-Hilal,26/27,Saudi Pro League,1
+1114,Al-Hilal,25/26,Saudi Pro League,2
+1114,Al-Hilal,24/25,Saudi Pro League,2
+1114,Al-Hilal,23/24,Saudi Pro League,1
+1114,Al-Hilal,22/23,Saudi Pro League,3
+1114,Al-Hilal,21/22,Saudi Pro League,1
+1114,Al-Hilal,20/21,Saudi Pro League,1
+1114,Al-Hilal,19/20,Saudi Pro League,1
+1114,Al-Hilal,18/19,Saudi Pro League,2
+1114,Al-Hilal,17/18,Saudi Pro League,1
+1114,Al-Hilal,16/17,Saudi Pro League,1
+1114,Al-Hilal,15/16,Saudi Pro League,2
+1114,Al-Hilal,14/15,Saudi Pro League,3
+1114,Al-Hilal,13/14,Saudi Pro League,2
+1114,Al-Hilal,12/13,Saudi Pro League,2
+1114,Al-Hilal,11/12,Saudi Pro League,3
+1114,Al-Hilal,10/11,Saudi Pro League,1
+1114,Al-Hilal,09/10,Saudi Pro League,1
+1114,Al-Hilal,08/09,Saudi Pro League,2
+1114,Al-Hilal,07/08,Saudi Pro League,1
+1114,Al-Hilal,06/07,Saudi Pro League,1
+1114,Al-Hilal,05/06,Saudi Pro League,2
+1114,Al-Hilal,04/05,Saudi Pro League,2
+1114,Al-Hilal,03/04,Saudi Pro League,3
+1114,Al-Hilal,02/03,Saudi Pro League,5
+1114,Al-Hilal,01/02,Saudi Pro League,1
+1114,Al-Hilal,00/01,Saudi Pro League,2
+1114,Al-Hilal,99/00,Saudi Pro League,5
+1114,Al-Hilal,98/99,Saudi Pro League,1
+1114,Al-Hilal,97/98,Saudi Pro League,1
+1114,Al-Hilal,96/97,Saudi Pro League,3
+1114,Al-Hilal,95/96,Saudi Pro League,4
+1114,Al-Hilal,83/84,Saudi Pro League,6
+1114,Al-Hilal,82/83,Saudi Pro League,2
+1114,Al-Hilal,81/82,Saudi Pro League,2
+1114,Al-Hilal,80/81,Saudi Pro League,2
+1114,Al-Hilal,77/78,Saudi Pro League,6
+1114,Al-Hilal,76/77,Saudi Pro League,1
+1114,Al-Hilal,74/75,Saudi Pro League,1
+130,Parma,26/27,Serie A,16
+130,Parma,25/26,Serie A,13
+130,Parma,24/25,Serie A,16
+130,Parma,23/24,Serie A,1
+130,Parma,22/23,Serie A,4
+130,Parma,21/22,Serie A,12
+130,Parma,20/21,Serie A,20
+130,Parma,19/20,Serie A,11
+130,Parma,18/19,Serie A,14
+130,Parma,17/18,Serie A,2
+130,Parma,16/17,Serie A,2
+130,Parma,15/16,Serie A,1
+130,Parma,14/15,Serie A,20
+130,Parma,13/14,Serie A,6
+130,Parma,12/13,Serie A,10
+130,Parma,11/12,Serie A,8
+130,Parma,10/11,Serie A,12
+130,Parma,09/10,Serie A,8
+130,Parma,08/09,Serie A,2
+130,Parma,07/08,Serie A,19
+130,Parma,06/07,Serie A,12
+130,Parma,05/06,Serie A,7
+130,Parma,04/05,Serie A,18
+130,Parma,03/04,Serie A,5
+130,Parma,02/03,Serie A,5
+130,Parma,01/02,Serie A,10
+130,Parma,00/01,Serie A,4
+130,Parma,99/00,Serie A,5
+130,Parma,98/99,Serie A,4
+130,Parma,97/98,Serie A,6
+130,Parma,96/97,Serie A,2
+130,Parma,95/96,Serie A,6
+130,Parma,94/95,Serie A,2
+130,Parma,93/94,Serie A,5
+130,Parma,92/93,Serie A,3
+130,Parma,91/92,Serie A,7
+130,Parma,90/91,Serie A,6
+130,Parma,89/90,Serie A,4
+130,Parma,88/89,Serie A,10
+130,Parma,87/88,Serie A,11
+130,Parma,86/87,Serie A,7
+130,Parma,85/86,Serie A,1
+130,Parma,84/85,Serie A,18
+130,Parma,83/84,Serie A,1
+130,Parma,82/83,Serie A,6
+130,Parma,81/82,Serie A,10
+130,Parma,80/81,Serie A,13
+130,Parma,79/80,Serie A,19
+130,Parma,78/79,Serie A,2
+130,Parma,77/78,Serie A,4
+130,Parma,76/77,Serie A,2
+130,Parma,75/76,Serie A,2
+130,Parma,74/75,Serie A,20
+130,Parma,73/74,Serie A,5
+130,Parma,72/73,Serie A,1
+130,Parma,71/72,Serie A,2
+130,Parma,70/71,Serie A,7
+130,Parma,65/66,Serie A,17
+130,Parma,64/65,Serie A,20
+130,Parma,63/64,Serie A,15
+130,Parma,62/63,Serie A,13
+130,Parma,61/62,Serie A,12
+130,Parma,60/61,Serie A,14
+130,Parma,59/60,Serie A,15
+130,Parma,58/59,Serie A,18
+130,Parma,57/58,Serie A,18
+130,Parma,56/57,Serie A,13
+130,Parma,55/56,Serie A,15
+130,Parma,54/55,Serie A,10
+130,Parma,48/49,Serie A,19
+130,Parma,47/48,Serie A,6
+130,Parma,46/47,Serie A,14
+130,Parma,31/32,Serie A,18
+130,Parma,30/31,Serie A,13
+130,Parma,1929/30,Serie A,12
+130,Parma,1925/26,Serie A,11
+265,Panathinaikos,26/27,Super League 1,4
+265,Panathinaikos,25/26,Super League 1,4
+265,Panathinaikos,24/25,Super League 1,3
+265,Panathinaikos,23/24,Super League 1,4
+265,Panathinaikos,22/23,Super League 1,1
+265,Panathinaikos,21/22,Super League 1,5
+265,Panathinaikos,20/21,Super League 1,5
+265,Panathinaikos,19/20,Super League 1,4
+265,Panathinaikos,18/19,Super League 1,8
+265,Panathinaikos,17/18,Super League 1,11
+265,Panathinaikos,16/17,Super League 1,3
+265,Panathinaikos,15/16,Super League 1,2
+265,Panathinaikos,14/15,Super League 1,2
+265,Panathinaikos,13/14,Super League 1,4
+265,Panathinaikos,12/13,Super League 1,6
+265,Panathinaikos,11/12,Super League 1,2
+265,Panathinaikos,10/11,Super League 1,2
+265,Panathinaikos,09/10,Super League 1,1
+265,Panathinaikos,08/09,Super League 1,3
+265,Panathinaikos,07/08,Super League 1,3
+265,Panathinaikos,06/07,Super League 1,3
+265,Panathinaikos,05/06,Super League 1,2
+265,Panathinaikos,04/05,Super League 1,2
+265,Panathinaikos,03/04,Super League 1,1
+265,Panathinaikos,02/03,Super League 1,2
+265,Panathinaikos,01/02,Super League 1,3
+265,Panathinaikos,00/01,Super League 1,2
+265,Panathinaikos,99/00,Super League 1,2
+265,Panathinaikos,98/99,Super League 1,3
+265,Panathinaikos,97/98,Super League 1,2
+265,Panathinaikos,96/97,Super League 1,5
+265,Panathinaikos,95/96,Super League 1,1
+265,Panathinaikos,94/95,Super League 1,1
+265,Panathinaikos,93/94,Super League 1,2
+265,Panathinaikos,92/93,Super League 1,2
+265,Panathinaikos,91/92,Super League 1,3
+265,Panathinaikos,90/91,Super League 1,1
+265,Panathinaikos,89/90,Super League 1,1
+265,Panathinaikos,88/89,Super League 1,3
+265,Panathinaikos,87/88,Super League 1,5
+265,Panathinaikos,86/87,Super League 1,2
+265,Panathinaikos,85/86,Super League 1,1
+265,Panathinaikos,84/85,Super League 1,2
+265,Panathinaikos,83/84,Super League 1,1
+265,Panathinaikos,82/83,Super League 1,6
+265,Panathinaikos,81/82,Super League 1,1
+265,Panathinaikos,80/81,Super League 1,5
+265,Panathinaikos,79/80,Super League 1,3
+265,Panathinaikos,78/79,Super League 1,5
+265,Panathinaikos,77/78,Super League 1,3
+265,Panathinaikos,76/77,Super League 1,1
+265,Panathinaikos,75/76,Super League 1,4
+265,Panathinaikos,74/75,Super League 1,5
+265,Panathinaikos,73/74,Super League 1,2
+265,Panathinaikos,72/73,Super League 1,3
+265,Panathinaikos,71/72,Super League 1,1
+265,Panathinaikos,70/71,Super League 1,3
+265,Panathinaikos,69/70,Super League 1,1
+265,Panathinaikos,68/69,Super League 1,1
+265,Panathinaikos,67/68,Super League 1,3
+265,Panathinaikos,66/67,Super League 1,3
+265,Panathinaikos,65/66,Super League 1,2
+265,Panathinaikos,64/65,Super League 1,1
+265,Panathinaikos,63/64,Super League 1,1
+265,Panathinaikos,62/63,Super League 1,1
+265,Panathinaikos,61/62,Super League 1,1
+265,Panathinaikos,60/61,Super League 1,1
+265,Panathinaikos,59/60,Super League 1,2
+273,Stade Rennais,26/27,Ligue 1,5
+273,Stade Rennais,25/26,Ligue 1,6
+273,Stade Rennais,24/25,Ligue 1,12
+273,Stade Rennais,23/24,Ligue 1,10
+273,Stade Rennais,22/23,Ligue 1,4
+273,Stade Rennais,21/22,Ligue 1,4
+273,Stade Rennais,20/21,Ligue 1,6
+273,Stade Rennais,19/20,Ligue 1,3
+273,Stade Rennais,18/19,Ligue 1,10
+273,Stade Rennais,17/18,Ligue 1,5
+273,Stade Rennais,16/17,Ligue 1,9
+273,Stade Rennais,15/16,Ligue 1,8
+273,Stade Rennais,14/15,Ligue 1,9
+273,Stade Rennais,13/14,Ligue 1,12
+273,Stade Rennais,12/13,Ligue 1,13
+273,Stade Rennais,11/12,Ligue 1,6
+273,Stade Rennais,10/11,Ligue 1,6
+273,Stade Rennais,09/10,Ligue 1,9
+273,Stade Rennais,08/09,Ligue 1,7
+273,Stade Rennais,07/08,Ligue 1,6
+273,Stade Rennais,06/07,Ligue 1,4
+273,Stade Rennais,05/06,Ligue 1,7
+273,Stade Rennais,04/05,Ligue 1,4
+273,Stade Rennais,03/04,Ligue 1,9
+273,Stade Rennais,02/03,Ligue 1,15
+273,Stade Rennais,01/02,Ligue 1,12
+273,Stade Rennais,00/01,Ligue 1,6
+273,Stade Rennais,99/00,Ligue 1,13
+273,Stade Rennais,98/99,Ligue 1,5
+273,Stade Rennais,97/98,Ligue 1,14
+273,Stade Rennais,96/97,Ligue 1,16
+273,Stade Rennais,95/96,Ligue 1,8
+273,Stade Rennais,94/95,Ligue 1,13
+273,Stade Rennais,93/94,Ligue 1,2
+273,Stade Rennais,92/93,Ligue 1,2
+273,Stade Rennais,91/92,Ligue 1,18
+273,Stade Rennais,90/91,Ligue 1,20
+273,Stade Rennais,89/90,Ligue 1,1
+273,Stade Rennais,88/89,Ligue 1,3
+273,Stade Rennais,87/88,Ligue 1,10
+273,Stade Rennais,86/87,Ligue 1,20
+273,Stade Rennais,85/86,Ligue 1,13
+273,Stade Rennais,84/85,Ligue 1,3
+273,Stade Rennais,83/84,Ligue 1,20
+273,Stade Rennais,82/83,Ligue 1,1
+273,Stade Rennais,81/82,Ligue 1,5
+273,Stade Rennais,80/81,Ligue 1,4
+273,Stade Rennais,79/80,Ligue 1,2
+273,Stade Rennais,78/79,Ligue 1,7
+273,Stade Rennais,77/78,Ligue 1,12
+273,Stade Rennais,76/77,Ligue 1,20
+273,Stade Rennais,75/76,Ligue 1,1
+273,Stade Rennais,74/75,Ligue 1,18
+273,Stade Rennais,73/74,Ligue 1,8
+273,Stade Rennais,72/73,Ligue 1,10
+273,Stade Rennais,71/72,Ligue 1,11
+273,Stade Rennais,70/71,Ligue 1,11
+273,Stade Rennais,69/70,Ligue 1,14
+273,Stade Rennais,68/69,Ligue 1,11
+273,Stade Rennais,67/68,Ligue 1,14
+273,Stade Rennais,66/67,Ligue 1,11
+273,Stade Rennais,65/66,Ligue 1,6
+273,Stade Rennais,64/65,Ligue 1,4
+273,Stade Rennais,63/64,Ligue 1,11
+273,Stade Rennais,62/63,Ligue 1,11
+273,Stade Rennais,61/62,Ligue 1,12
+273,Stade Rennais,60/61,Ligue 1,14
+273,Stade Rennais,59/60,Ligue 1,14
+273,Stade Rennais,58/59,Ligue 1,12
+273,Stade Rennais,56/57,Ligue 1,16
+273,Stade Rennais,52/53,Ligue 1,16
+273,Stade Rennais,51/52,Ligue 1,15
+273,Stade Rennais,50/51,Ligue 1,14
+273,Stade Rennais,49/50,Ligue 1,9
+273,Stade Rennais,48/49,Ligue 1,4
+273,Stade Rennais,47/48,Ligue 1,10
+273,Stade Rennais,46/47,Ligue 1,9
+273,Stade Rennais,45/46,Ligue 1,5
+273,Stade Rennais,36/37,Ligue 1,15
+273,Stade Rennais,35/36,Ligue 1,10
+273,Stade Rennais,34/35,Ligue 1,10
+273,Stade Rennais,33/34,Ligue 1,6
+273,Stade Rennais,32/33,Ligue 1,6
+24,Eintracht Frankfurt,26/27,Bundesliga,13
+24,Eintracht Frankfurt,25/26,Bundesliga,8
+24,Eintracht Frankfurt,24/25,Bundesliga,3
+24,Eintracht Frankfurt,23/24,Bundesliga,6
+24,Eintracht Frankfurt,22/23,Bundesliga,7
+24,Eintracht Frankfurt,21/22,Bundesliga,11
+24,Eintracht Frankfurt,20/21,Bundesliga,5
+24,Eintracht Frankfurt,19/20,Bundesliga,9
+24,Eintracht Frankfurt,18/19,Bundesliga,7
+24,Eintracht Frankfurt,17/18,Bundesliga,8
+24,Eintracht Frankfurt,16/17,Bundesliga,11
+24,Eintracht Frankfurt,15/16,Bundesliga,16
+24,Eintracht Frankfurt,14/15,Bundesliga,9
+24,Eintracht Frankfurt,13/14,Bundesliga,13
+24,Eintracht Frankfurt,12/13,Bundesliga,6
+24,Eintracht Frankfurt,11/12,Bundesliga,2
+24,Eintracht Frankfurt,10/11,Bundesliga,17
+24,Eintracht Frankfurt,09/10,Bundesliga,10
+24,Eintracht Frankfurt,08/09,Bundesliga,13
+24,Eintracht Frankfurt,07/08,Bundesliga,9
+24,Eintracht Frankfurt,06/07,Bundesliga,14
+24,Eintracht Frankfurt,05/06,Bundesliga,14
+24,Eintracht Frankfurt,04/05,Bundesliga,3
+24,Eintracht Frankfurt,03/04,Bundesliga,16
+24,Eintracht Frankfurt,02/03,Bundesliga,3
+24,Eintracht Frankfurt,01/02,Bundesliga,7
+24,Eintracht Frankfurt,00/01,Bundesliga,17
+24,Eintracht Frankfurt,99/00,Bundesliga,14
+24,Eintracht Frankfurt,98/99,Bundesliga,15
+24,Eintracht Frankfurt,97/98,Bundesliga,1
+24,Eintracht Frankfurt,96/97,Bundesliga,8
+24,Eintracht Frankfurt,95/96,Bundesliga,17
+24,Eintracht Frankfurt,94/95,Bundesliga,9
+24,Eintracht Frankfurt,93/94,Bundesliga,5
+24,Eintracht Frankfurt,92/93,Bundesliga,3
+24,Eintracht Frankfurt,91/92,Bundesliga,3
+24,Eintracht Frankfurt,90/91,Bundesliga,4
+24,Eintracht Frankfurt,89/90,Bundesliga,3
+24,Eintracht Frankfurt,88/89,Bundesliga,16
+24,Eintracht Frankfurt,87/88,Bundesliga,9
+24,Eintracht Frankfurt,86/87,Bundesliga,15
+24,Eintracht Frankfurt,85/86,Bundesliga,15
+24,Eintracht Frankfurt,84/85,Bundesliga,12
+24,Eintracht Frankfurt,83/84,Bundesliga,16
+24,Eintracht Frankfurt,82/83,Bundesliga,10
+24,Eintracht Frankfurt,81/82,Bundesliga,8
+24,Eintracht Frankfurt,80/81,Bundesliga,5
+24,Eintracht Frankfurt,79/80,Bundesliga,9
+24,Eintracht Frankfurt,78/79,Bundesliga,5
+24,Eintracht Frankfurt,77/78,Bundesliga,7
+24,Eintracht Frankfurt,76/77,Bundesliga,4
+24,Eintracht Frankfurt,75/76,Bundesliga,9
+24,Eintracht Frankfurt,74/75,Bundesliga,3
+24,Eintracht Frankfurt,73/74,Bundesliga,4
+24,Eintracht Frankfurt,72/73,Bundesliga,8
+24,Eintracht Frankfurt,71/72,Bundesliga,5
+24,Eintracht Frankfurt,70/71,Bundesliga,15
+24,Eintracht Frankfurt,69/70,Bundesliga,8
+24,Eintracht Frankfurt,68/69,Bundesliga,8
+24,Eintracht Frankfurt,67/68,Bundesliga,6
+24,Eintracht Frankfurt,66/67,Bundesliga,4
+24,Eintracht Frankfurt,65/66,Bundesliga,7
+24,Eintracht Frankfurt,64/65,Bundesliga,8
+24,Eintracht Frankfurt,63/64,Bundesliga,3
+24,Eintracht Frankfurt,62/63,Bundesliga,4
+24,Eintracht Frankfurt,61/62,Bundesliga,2
+24,Eintracht Frankfurt,60/61,Bundesliga,2
+24,Eintracht Frankfurt,59/60,Bundesliga,4
+24,Eintracht Frankfurt,58/59,Bundesliga,1
+24,Eintracht Frankfurt,57/58,Bundesliga,4
+24,Eintracht Frankfurt,56/57,Bundesliga,5
+24,Eintracht Frankfurt,55/56,Bundesliga,6
+24,Eintracht Frankfurt,54/55,Bundesliga,4
+24,Eintracht Frankfurt,53/54,Bundesliga,2
+24,Eintracht Frankfurt,52/53,Bundesliga,1
+24,Eintracht Frankfurt,51/52,Bundesliga,4
+24,Eintracht Frankfurt,50/51,Bundesliga,8
+24,Eintracht Frankfurt,49/50,Bundesliga,14
+24,Eintracht Frankfurt,48/49,Bundesliga,13
+24,Eintracht Frankfurt,47/48,Bundesliga,10
+24,Eintracht Frankfurt,46/47,Bundesliga,3
+24,Eintracht Frankfurt,45/46,Bundesliga,11
+964,Zenit Saint Petersburg,25/26,Premier Liga,1
+964,Zenit Saint Petersburg,24/25,Premier Liga,2
+964,Zenit Saint Petersburg,23/24,Premier Liga,1
+964,Zenit Saint Petersburg,22/23,Premier Liga,1
+964,Zenit Saint Petersburg,21/22,Premier Liga,1
+964,Zenit Saint Petersburg,20/21,Premier Liga,1
+964,Zenit Saint Petersburg,19/20,Premier Liga,1
+964,Zenit Saint Petersburg,18/19,Premier Liga,1
+964,Zenit Saint Petersburg,17/18,Premier Liga,5
+964,Zenit Saint Petersburg,16/17,Premier Liga,3
+964,Zenit Saint Petersburg,15/16,Premier Liga,3
+964,Zenit Saint Petersburg,14/15,Premier Liga,1
+964,Zenit Saint Petersburg,13/14,Premier Liga,2
+964,Zenit Saint Petersburg,12/13,Premier Liga,2
+964,Zenit Saint Petersburg,10/11,Premier Liga,1
+964,Zenit Saint Petersburg,09/10,Premier Liga,1
+964,Zenit Saint Petersburg,08/09,Premier Liga,3
+964,Zenit Saint Petersburg,07/08,Premier Liga,5
+964,Zenit Saint Petersburg,06/07,Premier Liga,1
+964,Zenit Saint Petersburg,05/06,Premier Liga,4
+964,Zenit Saint Petersburg,04/05,Premier Liga,6
+964,Zenit Saint Petersburg,03/04,Premier Liga,3
+964,Zenit Saint Petersburg,02/03,Premier Liga,2
+964,Zenit Saint Petersburg,01/02,Premier Liga,10
+964,Zenit Saint Petersburg,00/01,Premier Liga,3
+964,Zenit Saint Petersburg,99/00,Premier Liga,7
+964,Zenit Saint Petersburg,98/99,Premier Liga,8
+964,Zenit Saint Petersburg,97/98,Premier Liga,5
+964,Zenit Saint Petersburg,96/97,Premier Liga,9
+964,Zenit Saint Petersburg,95/96,Premier Liga,10
+964,Zenit Saint Petersburg,94/95,Premier Liga,3
+964,Zenit Saint Petersburg,93/94,Premier Liga,13
+964,Zenit Saint Petersburg,91/92,Premier Liga,8
+964,Zenit Saint Petersburg,90/91,Premier Liga,18
+964,Zenit Saint Petersburg,89/90,Premier Liga,17
+964,Zenit Saint Petersburg,88/89,Premier Liga,16
+964,Zenit Saint Petersburg,87/88,Premier Liga,6
+964,Zenit Saint Petersburg,86/87,Premier Liga,14
+964,Zenit Saint Petersburg,85/86,Premier Liga,4
+964,Zenit Saint Petersburg,84/85,Premier Liga,6
+964,Zenit Saint Petersburg,83/84,Premier Liga,1
+964,Zenit Saint Petersburg,82/83,Premier Liga,4
+964,Zenit Saint Petersburg,81/82,Premier Liga,7
+964,Zenit Saint Petersburg,80/81,Premier Liga,15
+964,Zenit Saint Petersburg,79/80,Premier Liga,3
+964,Zenit Saint Petersburg,78/79,Premier Liga,9
+964,Zenit Saint Petersburg,77/78,Premier Liga,11
+964,Zenit Saint Petersburg,76/77,Premier Liga,10
+964,Zenit Saint Petersburg,75/76,Premier Liga,13
+964,Zenit Saint Petersburg,74/75,Premier Liga,14
+964,Zenit Saint Petersburg,73/74,Premier Liga,6
+964,Zenit Saint Petersburg,72/73,Premier Liga,11
+964,Zenit Saint Petersburg,71/72,Premier Liga,7
+964,Zenit Saint Petersburg,70/71,Premier Liga,13
+964,Zenit Saint Petersburg,68/69,Premier Liga,6
+964,Zenit Saint Petersburg,67/68,Premier Liga,11
+964,Zenit Saint Petersburg,66/67,Premier Liga,19
+964,Zenit Saint Petersburg,65/66,Premier Liga,16
+964,Zenit Saint Petersburg,62/63,Premier Liga,6
+964,Zenit Saint Petersburg,61/62,Premier Liga,4
+964,Zenit Saint Petersburg,60/61,Premier Liga,8
+964,Zenit Saint Petersburg,59/60,Premier Liga,7
+964,Zenit Saint Petersburg,58/59,Premier Liga,8
+964,Zenit Saint Petersburg,57/58,Premier Liga,4
+964,Zenit Saint Petersburg,56/57,Premier Liga,10
+964,Zenit Saint Petersburg,55/56,Premier Liga,9
+964,Zenit Saint Petersburg,54/55,Premier Liga,8
+964,Zenit Saint Petersburg,53/54,Premier Liga,7
+964,Zenit Saint Petersburg,52/53,Premier Liga,5
+964,Zenit Saint Petersburg,51/52,Premier Liga,7
+964,Zenit Saint Petersburg,50/51,Premier Liga,7
+964,Zenit Saint Petersburg,49/50,Premier Liga,6
+964,Zenit Saint Petersburg,48/49,Premier Liga,5
+964,Zenit Saint Petersburg,47/48,Premier Liga,13
+964,Zenit Saint Petersburg,46/47,Premier Liga,7
+964,Zenit Saint Petersburg,45/46,Premier Liga,9
+964,Zenit Saint Petersburg,44/45,Premier Liga,6
+964,Zenit Saint Petersburg,39/40,Premier Liga,10
+964,Zenit Saint Petersburg,38/39,Premier Liga,11
+964,Zenit Saint Petersburg,37/38,Premier Liga,14
+964,Zenit Saint Petersburg,36/37,Premier Liga,4
+964,Zenit Saint Petersburg,34/35,Premier Liga,3
+3,FC Cologne,26/27,Bundesliga,11
+3,FC Cologne,25/26,Bundesliga,14
+3,FC Cologne,24/25,Bundesliga,1
+3,FC Cologne,23/24,Bundesliga,17
+3,FC Cologne,22/23,Bundesliga,11
+3,FC Cologne,21/22,Bundesliga,7
+3,FC Cologne,20/21,Bundesliga,16
+3,FC Cologne,19/20,Bundesliga,14
+3,FC Cologne,18/19,Bundesliga,1
+3,FC Cologne,17/18,Bundesliga,18
+3,FC Cologne,16/17,Bundesliga,5
+3,FC Cologne,15/16,Bundesliga,9
+3,FC Cologne,14/15,Bundesliga,12
+3,FC Cologne,13/14,Bundesliga,1
+3,FC Cologne,12/13,Bundesliga,5
+3,FC Cologne,11/12,Bundesliga,17
+3,FC Cologne,10/11,Bundesliga,10
+3,FC Cologne,09/10,Bundesliga,13
+3,FC Cologne,08/09,Bundesliga,12
+3,FC Cologne,07/08,Bundesliga,3
+3,FC Cologne,06/07,Bundesliga,9
+3,FC Cologne,05/06,Bundesliga,17
+3,FC Cologne,04/05,Bundesliga,1
+3,FC Cologne,03/04,Bundesliga,18
+3,FC Cologne,02/03,Bundesliga,2
+3,FC Cologne,01/02,Bundesliga,17
+3,FC Cologne,00/01,Bundesliga,10
+3,FC Cologne,99/00,Bundesliga,1
+3,FC Cologne,98/99,Bundesliga,10
+3,FC Cologne,97/98,Bundesliga,17
+3,FC Cologne,96/97,Bundesliga,10
+3,FC Cologne,95/96,Bundesliga,12
+3,FC Cologne,94/95,Bundesliga,10
+3,FC Cologne,93/94,Bundesliga,11
+3,FC Cologne,92/93,Bundesliga,12
+3,FC Cologne,91/92,Bundesliga,4
+3,FC Cologne,90/91,Bundesliga,7
+3,FC Cologne,89/90,Bundesliga,2
+3,FC Cologne,88/89,Bundesliga,2
+3,FC Cologne,87/88,Bundesliga,3
+3,FC Cologne,86/87,Bundesliga,10
+3,FC Cologne,85/86,Bundesliga,13
+3,FC Cologne,84/85,Bundesliga,3
+3,FC Cologne,83/84,Bundesliga,6
+3,FC Cologne,82/83,Bundesliga,5
+3,FC Cologne,81/82,Bundesliga,2
+3,FC Cologne,80/81,Bundesliga,8
+3,FC Cologne,79/80,Bundesliga,5
+3,FC Cologne,78/79,Bundesliga,6
+3,FC Cologne,77/78,Bundesliga,1
+3,FC Cologne,76/77,Bundesliga,5
+3,FC Cologne,75/76,Bundesliga,4
+3,FC Cologne,74/75,Bundesliga,5
+3,FC Cologne,73/74,Bundesliga,5
+3,FC Cologne,72/73,Bundesliga,2
+3,FC Cologne,71/72,Bundesliga,4
+3,FC Cologne,70/71,Bundesliga,11
+3,FC Cologne,69/70,Bundesliga,4
+3,FC Cologne,68/69,Bundesliga,14
+3,FC Cologne,67/68,Bundesliga,4
+3,FC Cologne,66/67,Bundesliga,7
+3,FC Cologne,65/66,Bundesliga,5
+3,FC Cologne,64/65,Bundesliga,2
+3,FC Cologne,63/64,Bundesliga,1
+3,FC Cologne,62/63,Bundesliga,1
+3,FC Cologne,61/62,Bundesliga,1
+3,FC Cologne,60/61,Bundesliga,1
+3,FC Cologne,59/60,Bundesliga,1
+3,FC Cologne,58/59,Bundesliga,2
+3,FC Cologne,57/58,Bundesliga,2
+3,FC Cologne,56/57,Bundesliga,2
+3,FC Cologne,55/56,Bundesliga,7
+3,FC Cologne,54/55,Bundesliga,8
+3,FC Cologne,53/54,Bundesliga,1
+3,FC Cologne,52/53,Bundesliga,2
+3,FC Cologne,51/52,Bundesliga,5
+3,FC Cologne,50/51,Bundesliga,4
+3,FC Cologne,49/50,Bundesliga,5
+40,Bordeaux,25/26,Ligue 1,2
+40,Bordeaux,24/25,Ligue 1,4
+40,Bordeaux,23/24,Ligue 1,13
+40,Bordeaux,22/23,Ligue 1,3
+40,Bordeaux,21/22,Ligue 1,20
+40,Bordeaux,20/21,Ligue 1,12
+40,Bordeaux,19/20,Ligue 1,12
+40,Bordeaux,18/19,Ligue 1,14
+40,Bordeaux,17/18,Ligue 1,6
+40,Bordeaux,16/17,Ligue 1,6
+40,Bordeaux,15/16,Ligue 1,11
+40,Bordeaux,14/15,Ligue 1,6
+40,Bordeaux,13/14,Ligue 1,7
+40,Bordeaux,12/13,Ligue 1,7
+40,Bordeaux,11/12,Ligue 1,5
+40,Bordeaux,10/11,Ligue 1,7
+40,Bordeaux,09/10,Ligue 1,6
+40,Bordeaux,08/09,Ligue 1,1
+40,Bordeaux,07/08,Ligue 1,2
+40,Bordeaux,06/07,Ligue 1,6
+40,Bordeaux,05/06,Ligue 1,2
+40,Bordeaux,04/05,Ligue 1,15
+40,Bordeaux,03/04,Ligue 1,12
+40,Bordeaux,02/03,Ligue 1,4
+40,Bordeaux,01/02,Ligue 1,6
+40,Bordeaux,00/01,Ligue 1,4
+40,Bordeaux,99/00,Ligue 1,4
+40,Bordeaux,98/99,Ligue 1,1
+40,Bordeaux,97/98,Ligue 1,5
+40,Bordeaux,96/97,Ligue 1,4
+40,Bordeaux,95/96,Ligue 1,16
+40,Bordeaux,94/95,Ligue 1,7
+40,Bordeaux,93/94,Ligue 1,4
+40,Bordeaux,92/93,Ligue 1,4
+40,Bordeaux,91/92,Ligue 1,1
+40,Bordeaux,90/91,Ligue 1,10
+40,Bordeaux,89/90,Ligue 1,2
+40,Bordeaux,88/89,Ligue 1,12
+40,Bordeaux,87/88,Ligue 1,2
+40,Bordeaux,86/87,Ligue 1,1
+40,Bordeaux,85/86,Ligue 1,3
+40,Bordeaux,84/85,Ligue 1,1
+40,Bordeaux,83/84,Ligue 1,1
+40,Bordeaux,82/83,Ligue 1,2
+40,Bordeaux,81/82,Ligue 1,4
+40,Bordeaux,80/81,Ligue 1,3
+40,Bordeaux,79/80,Ligue 1,6
+40,Bordeaux,78/79,Ligue 1,10
+40,Bordeaux,77/78,Ligue 1,16
+40,Bordeaux,76/77,Ligue 1,10
+40,Bordeaux,75/76,Ligue 1,9
+40,Bordeaux,74/75,Ligue 1,12
+40,Bordeaux,73/74,Ligue 1,15
+40,Bordeaux,72/73,Ligue 1,14
+40,Bordeaux,71/72,Ligue 1,12
+40,Bordeaux,70/71,Ligue 1,5
+40,Bordeaux,69/70,Ligue 1,6
+40,Bordeaux,68/69,Ligue 1,2
+40,Bordeaux,67/68,Ligue 1,8
+40,Bordeaux,66/67,Ligue 1,4
+40,Bordeaux,65/66,Ligue 1,2
+40,Bordeaux,64/65,Ligue 1,2
+40,Bordeaux,63/64,Ligue 1,7
+40,Bordeaux,62/63,Ligue 1,4
+40,Bordeaux,59/60,Ligue 1,20
+40,Bordeaux,55/56,Ligue 1,17
+40,Bordeaux,54/55,Ligue 1,6
+40,Bordeaux,53/54,Ligue 1,3
+40,Bordeaux,52/53,Ligue 1,3
+40,Bordeaux,51/52,Ligue 1,2
+40,Bordeaux,50/51,Ligue 1,6
+40,Bordeaux,49/50,Ligue 1,1
+40,Bordeaux,46/47,Ligue 1,17
+40,Bordeaux,45/46,Ligue 1,14
+2700,Anzhi Makhachkala,21/22,Premier Liga,7
+2700,Anzhi Makhachkala,20/21,Premier Liga,6
+2700,Anzhi Makhachkala,19/20,Premier Liga,15
+2700,Anzhi Makhachkala,18/19,Premier Liga,15
+2700,Anzhi Makhachkala,17/18,Premier Liga,14
+2700,Anzhi Makhachkala,16/17,Premier Liga,12
+2700,Anzhi Makhachkala,15/16,Premier Liga,13
+2700,Anzhi Makhachkala,14/15,Premier Liga,2
+2700,Anzhi Makhachkala,13/14,Premier Liga,16
+2700,Anzhi Makhachkala,12/13,Premier Liga,3
+2700,Anzhi Makhachkala,10/11,Premier Liga,5
+2700,Anzhi Makhachkala,09/10,Premier Liga,11
+2700,Anzhi Makhachkala,08/09,Premier Liga,1
+2700,Anzhi Makhachkala,07/08,Premier Liga,6
+2700,Anzhi Makhachkala,06/07,Premier Liga,10
+2700,Anzhi Makhachkala,05/06,Premier Liga,15
+2700,Anzhi Makhachkala,04/05,Premier Liga,10
+2700,Anzhi Makhachkala,03/04,Premier Liga,9
+2700,Anzhi Makhachkala,02/03,Premier Liga,6
+2700,Anzhi Makhachkala,01/02,Premier Liga,15
+2700,Anzhi Makhachkala,00/01,Premier Liga,13
+2700,Anzhi Makhachkala,99/00,Premier Liga,4
+2700,Anzhi Makhachkala,98/99,Premier Liga,1
+2700,Anzhi Makhachkala,97/98,Premier Liga,12
+2700,Anzhi Makhachkala,96/97,Premier Liga,14
+26069,Al-Qadsiah,26/27,Saudi Pro League,2
+26069,Al-Qadsiah,25/26,Saudi Pro League,4
+26069,Al-Qadsiah,24/25,Saudi Pro League,4
+26069,Al-Qadsiah,23/24,Saudi Pro League,1
+26069,Al-Qadsiah,22/23,Saudi Pro League,11
+26069,Al-Qadsiah,21/22,Saudi Pro League,9
+26069,Al-Qadsiah,20/21,Saudi Pro League,14
+26069,Al-Qadsiah,18/19,Saudi Pro League,14
+26069,Al-Qadsiah,17/18,Saudi Pro League,12
+26069,Al-Qadsiah,16/17,Saudi Pro League,10
+26069,Al-Qadsiah,15/16,Saudi Pro League,11
+26069,Al-Qadsiah,11/12,Saudi Pro League,13
+26069,Al-Qadsiah,10/11,Saudi Pro League,12
+26069,Al-Qadsiah,09/10,Saudi Pro League,10
+26069,Al-Qadsiah,07/08,Saudi Pro League,12
+26069,Al-Qadsiah,06/07,Saudi Pro League,10
+26069,Al-Qadsiah,05/06,Saudi Pro League,8
+26069,Al-Qadsiah,04/05,Saudi Pro League,7
+26069,Al-Qadsiah,03/04,Saudi Pro League,7
+26069,Al-Qadsiah,02/03,Saudi Pro League,4
+26069,Al-Qadsiah,00/01,Saudi Pro League,11
+26069,Al-Qadsiah,96/97,Saudi Pro League,12
+26069,Al-Qadsiah,95/96,Saudi Pro League,10
+26069,Al-Qadsiah,83/84,Saudi Pro League,4
+26069,Al-Qadsiah,82/83,Saudi Pro League,7
+26069,Al-Qadsiah,81/82,Saudi Pro League,5
+26069,Al-Qadsiah,80/81,Saudi Pro League,3
+26069,Al-Qadsiah,77/78,Saudi Pro League,5
+26069,Al-Qadsiah,76/77,Saudi Pro League,6
+26069,Al-Qadsiah,74/75,Saudi Pro League,4
+18544,Al-Nassr,26/27,Saudi Pro League,3
+18544,Al-Nassr,25/26,Saudi Pro League,1
+18544,Al-Nassr,24/25,Saudi Pro League,3
+18544,Al-Nassr,23/24,Saudi Pro League,2
+18544,Al-Nassr,22/23,Saudi Pro League,2
+18544,Al-Nassr,21/22,Saudi Pro League,3
+18544,Al-Nassr,20/21,Saudi Pro League,6
+18544,Al-Nassr,19/20,Saudi Pro League,2
+18544,Al-Nassr,18/19,Saudi Pro League,1
+18544,Al-Nassr,17/18,Saudi Pro League,3
+18544,Al-Nassr,16/17,Saudi Pro League,3
+18544,Al-Nassr,15/16,Saudi Pro League,8
+18544,Al-Nassr,14/15,Saudi Pro League,1
+18544,Al-Nassr,13/14,Saudi Pro League,1
+18544,Al-Nassr,12/13,Saudi Pro League,4
+18544,Al-Nassr,11/12,Saudi Pro League,7
+18544,Al-Nassr,10/11,Saudi Pro League,5
+18544,Al-Nassr,09/10,Saudi Pro League,3
+18544,Al-Nassr,08/09,Saudi Pro League,5
+18544,Al-Nassr,07/08,Saudi Pro League,5
+18544,Al-Nassr,06/07,Saudi Pro League,9
+18544,Al-Nassr,05/06,Saudi Pro League,6
+18544,Al-Nassr,04/05,Saudi Pro League,4
+18544,Al-Nassr,03/04,Saudi Pro League,6
+18544,Al-Nassr,02/03,Saudi Pro League,3
+18544,Al-Nassr,01/02,Saudi Pro League,3
+18544,Al-Nassr,00/01,Saudi Pro League,3
+18544,Al-Nassr,99/00,Saudi Pro League,4
+18544,Al-Nassr,98/99,Saudi Pro League,5
+18544,Al-Nassr,97/98,Saudi Pro League,5
+18544,Al-Nassr,96/97,Saudi Pro League,2
+18544,Al-Nassr,95/96,Saudi Pro League,3
+18544,Al-Nassr,83/84,Saudi Pro League,5
+18544,Al-Nassr,82/83,Saudi Pro League,4
+18544,Al-Nassr,81/82,Saudi Pro League,2
+18544,Al-Nassr,80/81,Saudi Pro League,1
+18544,Al-Nassr,77/78,Saudi Pro League,2
+18544,Al-Nassr,76/77,Saudi Pro League,2
+18544,Al-Nassr,74/75,Saudi Pro League,1
+2441,AEK Athens,26/27,Super League 1,3
+2441,AEK Athens,25/26,Super League 1,1
+2441,AEK Athens,24/25,Super League 1,2
+2441,AEK Athens,23/24,Super League 1,2
+2441,AEK Athens,22/23,Super League 1,2
+2441,AEK Athens,21/22,Super League 1,3
+2441,AEK Athens,20/21,Super League 1,3
+2441,AEK Athens,19/20,Super League 1,3
+2441,AEK Athens,18/19,Super League 1,3
+2441,AEK Athens,17/18,Super League 1,1
+2441,AEK Athens,16/17,Super League 1,4
+2441,AEK Athens,15/16,Super League 1,3
+2441,AEK Athens,14/15,Super League 1,1
+2441,AEK Athens,12/13,Super League 1,15
+2441,AEK Athens,11/12,Super League 1,5
+2441,AEK Athens,10/11,Super League 1,3
+2441,AEK Athens,09/10,Super League 1,4
+2441,AEK Athens,08/09,Super League 1,4
+2441,AEK Athens,07/08,Super League 1,2
+2441,AEK Athens,06/07,Super League 1,2
+2441,AEK Athens,05/06,Super League 1,3
+2441,AEK Athens,04/05,Super League 1,3
+2441,AEK Athens,03/04,Super League 1,4
+2441,AEK Athens,02/03,Super League 1,3
+2441,AEK Athens,01/02,Super League 1,2
+2441,AEK Athens,00/01,Super League 1,3
+2441,AEK Athens,99/00,Super League 1,3
+2441,AEK Athens,98/99,Super League 1,2
+2441,AEK Athens,97/98,Super League 1,3
+2441,AEK Athens,96/97,Super League 1,2
+2441,AEK Athens,95/96,Super League 1,2
+2441,AEK Athens,94/95,Super League 1,5
+2441,AEK Athens,93/94,Super League 1,1
+2441,AEK Athens,92/93,Super League 1,1
+2441,AEK Athens,91/92,Super League 1,1
+2441,AEK Athens,90/91,Super League 1,3
+2441,AEK Athens,89/90,Super League 1,2
+2441,AEK Athens,88/89,Super League 1,1
+2441,AEK Athens,87/88,Super League 1,2
+2441,AEK Athens,86/87,Super League 1,7
+2441,AEK Athens,85/86,Super League 1,3
+2441,AEK Athens,84/85,Super League 1,3
+2441,AEK Athens,83/84,Super League 1,7
+2441,AEK Athens,82/83,Super League 1,3
+2441,AEK Athens,81/82,Super League 1,4
+2441,AEK Athens,80/81,Super League 1,2
+2441,AEK Athens,79/80,Super League 1,4
+2441,AEK Athens,78/79,Super League 1,1
+2441,AEK Athens,77/78,Super League 1,1
+2441,AEK Athens,76/77,Super League 1,4
+2441,AEK Athens,75/76,Super League 1,2
+2441,AEK Athens,74/75,Super League 1,2
+2441,AEK Athens,73/74,Super League 1,5
+2441,AEK Athens,72/73,Super League 1,5
+2441,AEK Athens,71/72,Super League 1,3
+2441,AEK Athens,70/71,Super League 1,1
+2441,AEK Athens,69/70,Super League 1,2
+2441,AEK Athens,68/69,Super League 1,6
+2441,AEK Athens,67/68,Super League 1,1
+2441,AEK Athens,66/67,Super League 1,2
+2441,AEK Athens,65/66,Super League 1,3
+2441,AEK Athens,64/65,Super League 1,2
+2441,AEK Athens,63/64,Super League 1,3
+2441,AEK Athens,62/63,Super League 1,2
+2441,AEK Athens,61/62,Super League 1,4
+2441,AEK Athens,60/61,Super League 1,4
+2441,AEK Athens,59/60,Super League 1,1
+294,Benfica,26/27,Liga Portugal,2
+294,Benfica,25/26,Liga Portugal,3
+294,Benfica,24/25,Liga Portugal,2
+294,Benfica,23/24,Liga Portugal,2
+294,Benfica,22/23,Liga Portugal,1
+294,Benfica,21/22,Liga Portugal,3
+294,Benfica,20/21,Liga Portugal,3
+294,Benfica,19/20,Liga Portugal,2
+294,Benfica,18/19,Liga Portugal,1
+294,Benfica,17/18,Liga Portugal,2
+294,Benfica,16/17,Liga Portugal,1
+294,Benfica,15/16,Liga Portugal,1
+294,Benfica,14/15,Liga Portugal,1
+294,Benfica,13/14,Liga Portugal,1
+294,Benfica,12/13,Liga Portugal,2
+294,Benfica,11/12,Liga Portugal,2
+294,Benfica,10/11,Liga Portugal,2
+294,Benfica,09/10,Liga Portugal,1
+294,Benfica,08/09,Liga Portugal,3
+294,Benfica,07/08,Liga Portugal,4
+294,Benfica,06/07,Liga Portugal,3
+294,Benfica,05/06,Liga Portugal,3
+294,Benfica,04/05,Liga Portugal,1
+294,Benfica,03/04,Liga Portugal,2
+294,Benfica,02/03,Liga Portugal,2
+294,Benfica,01/02,Liga Portugal,4
+294,Benfica,00/01,Liga Portugal,6
+294,Benfica,99/00,Liga Portugal,3
+294,Benfica,98/99,Liga Portugal,3
+294,Benfica,97/98,Liga Portugal,2
+294,Benfica,96/97,Liga Portugal,3
+294,Benfica,95/96,Liga Portugal,2
+294,Benfica,94/95,Liga Portugal,3
+294,Benfica,93/94,Liga Portugal,1
+294,Benfica,92/93,Liga Portugal,2
+294,Benfica,91/92,Liga Portugal,2
+294,Benfica,90/91,Liga Portugal,1
+294,Benfica,89/90,Liga Portugal,2
+294,Benfica,88/89,Liga Portugal,1
+294,Benfica,87/88,Liga Portugal,2
+294,Benfica,86/87,Liga Portugal,1
+294,Benfica,85/86,Liga Portugal,2
+294,Benfica,84/85,Liga Portugal,3
+294,Benfica,83/84,Liga Portugal,1
+294,Benfica,82/83,Liga Portugal,1
+294,Benfica,81/82,Liga Portugal,2
+294,Benfica,80/81,Liga Portugal,1
+294,Benfica,79/80,Liga Portugal,3
+294,Benfica,78/79,Liga Portugal,2
+294,Benfica,77/78,Liga Portugal,2
+294,Benfica,76/77,Liga Portugal,1
+294,Benfica,75/76,Liga Portugal,1
+294,Benfica,74/75,Liga Portugal,1
+294,Benfica,73/74,Liga Portugal,2
+294,Benfica,72/73,Liga Portugal,1
+294,Benfica,71/72,Liga Portugal,1
+294,Benfica,70/71,Liga Portugal,1
+294,Benfica,69/70,Liga Portugal,2
+294,Benfica,68/69,Liga Portugal,1
+294,Benfica,67/68,Liga Portugal,1
+294,Benfica,66/67,Liga Portugal,1
+294,Benfica,65/66,Liga Portugal,2
+294,Benfica,64/65,Liga Portugal,1
+294,Benfica,63/64,Liga Portugal,1
+294,Benfica,62/63,Liga Portugal,1
+294,Benfica,61/62,Liga Portugal,3
+294,Benfica,60/61,Liga Portugal,1
+294,Benfica,59/60,Liga Portugal,1
+294,Benfica,58/59,Liga Portugal,2
+294,Benfica,57/58,Liga Portugal,3
+294,Benfica,56/57,Liga Portugal,1
+294,Benfica,55/56,Liga Portugal,2
+294,Benfica,54/55,Liga Portugal,1
+294,Benfica,53/54,Liga Portugal,3
+294,Benfica,52/53,Liga Portugal,2
+294,Benfica,51/52,Liga Portugal,2
+294,Benfica,50/51,Liga Portugal,3
+294,Benfica,49/50,Liga Portugal,1
+294,Benfica,48/49,Liga Portugal,2
+294,Benfica,47/48,Liga Portugal,2
+294,Benfica,46/47,Liga Portugal,2
+294,Benfica,45/46,Liga Portugal,2
+294,Benfica,44/45,Liga Portugal,1
+294,Benfica,43/44,Liga Portugal,2
+294,Benfica,42/43,Liga Portugal,1
+294,Benfica,41/42,Liga Portugal,2
+294,Benfica,40/41,Liga Portugal,4
+294,Benfica,39/40,Liga Portugal,4
+294,Benfica,38/39,Liga Portugal,3
+294,Benfica,37/38,Liga Portugal,2
+294,Benfica,36/37,Liga Portugal,1
+294,Benfica,35/36,Liga Portugal,1
+294,Benfica,34/35,Liga Portugal,3
+41,Hamburg,26/27,Bundesliga,18
+41,Hamburg,25/26,Bundesliga,13
+41,Hamburg,24/25,Bundesliga,2
+41,Hamburg,23/24,Bundesliga,4
+41,Hamburg,22/23,Bundesliga,3
+41,Hamburg,21/22,Bundesliga,3
+41,Hamburg,20/21,Bundesliga,4
+41,Hamburg,19/20,Bundesliga,4
+41,Hamburg,18/19,Bundesliga,4
+41,Hamburg,17/18,Bundesliga,17
+41,Hamburg,16/17,Bundesliga,14
+41,Hamburg,15/16,Bundesliga,10
+41,Hamburg,14/15,Bundesliga,16
+41,Hamburg,13/14,Bundesliga,16
+41,Hamburg,12/13,Bundesliga,7
+41,Hamburg,11/12,Bundesliga,15
+41,Hamburg,10/11,Bundesliga,8
+41,Hamburg,09/10,Bundesliga,7
+41,Hamburg,08/09,Bundesliga,5
+41,Hamburg,07/08,Bundesliga,4
+41,Hamburg,06/07,Bundesliga,7
+41,Hamburg,05/06,Bundesliga,3
+41,Hamburg,04/05,Bundesliga,8
+41,Hamburg,03/04,Bundesliga,8
+41,Hamburg,02/03,Bundesliga,4
+41,Hamburg,01/02,Bundesliga,11
+41,Hamburg,00/01,Bundesliga,13
+41,Hamburg,99/00,Bundesliga,3
+41,Hamburg,98/99,Bundesliga,7
+41,Hamburg,97/98,Bundesliga,9
+41,Hamburg,96/97,Bundesliga,13
+41,Hamburg,95/96,Bundesliga,5
+41,Hamburg,94/95,Bundesliga,13
+41,Hamburg,93/94,Bundesliga,12
+41,Hamburg,92/93,Bundesliga,11
+41,Hamburg,91/92,Bundesliga,12
+41,Hamburg,90/91,Bundesliga,5
+41,Hamburg,89/90,Bundesliga,11
+41,Hamburg,88/89,Bundesliga,4
+41,Hamburg,87/88,Bundesliga,6
+41,Hamburg,86/87,Bundesliga,2
+41,Hamburg,85/86,Bundesliga,7
+41,Hamburg,84/85,Bundesliga,5
+41,Hamburg,83/84,Bundesliga,2
+41,Hamburg,82/83,Bundesliga,1
+41,Hamburg,81/82,Bundesliga,1
+41,Hamburg,80/81,Bundesliga,2
+41,Hamburg,79/80,Bundesliga,2
+41,Hamburg,78/79,Bundesliga,1
+41,Hamburg,77/78,Bundesliga,10
+41,Hamburg,76/77,Bundesliga,6
+41,Hamburg,75/76,Bundesliga,2
+41,Hamburg,74/75,Bundesliga,4
+41,Hamburg,73/74,Bundesliga,12
+41,Hamburg,72/73,Bundesliga,14
+41,Hamburg,71/72,Bundesliga,10
+41,Hamburg,70/71,Bundesliga,5
+41,Hamburg,69/70,Bundesliga,6
+41,Hamburg,68/69,Bundesliga,6
+41,Hamburg,67/68,Bundesliga,13
+41,Hamburg,66/67,Bundesliga,14
+41,Hamburg,65/66,Bundesliga,9
+41,Hamburg,64/65,Bundesliga,11
+41,Hamburg,63/64,Bundesliga,6
+41,Hamburg,62/63,Bundesliga,1
+41,Hamburg,61/62,Bundesliga,1
+41,Hamburg,60/61,Bundesliga,1
+41,Hamburg,59/60,Bundesliga,1
+41,Hamburg,58/59,Bundesliga,1
+41,Hamburg,57/58,Bundesliga,1
+41,Hamburg,56/57,Bundesliga,1
+41,Hamburg,55/56,Bundesliga,1
+41,Hamburg,54/55,Bundesliga,1
+41,Hamburg,53/54,Bundesliga,11
+41,Hamburg,52/53,Bundesliga,1
+41,Hamburg,49/50,Bundesliga,1
+41,Hamburg,48/49,Bundesliga,1
+41,Hamburg,47/48,Bundesliga,2
+41,Hamburg,47/48,Bundesliga,2
+237,Mallorca,26/27,LaLiga,7
+237,Mallorca,25/26,LaLiga,18
+237,Mallorca,24/25,LaLiga,10
+237,Mallorca,23/24,LaLiga,15
+237,Mallorca,22/23,LaLiga,9
+237,Mallorca,21/22,LaLiga,16
+237,Mallorca,20/21,LaLiga,2
+237,Mallorca,19/20,LaLiga,19
+237,Mallorca,18/19,LaLiga,5
+237,Mallorca,17/18,LaLiga,1
+237,Mallorca,16/17,LaLiga,20
+237,Mallorca,15/16,LaLiga,17
+237,Mallorca,14/15,LaLiga,16
+237,Mallorca,13/14,LaLiga,17
+237,Mallorca,12/13,LaLiga,18
+237,Mallorca,11/12,LaLiga,8
+237,Mallorca,10/11,LaLiga,17
+237,Mallorca,09/10,LaLiga,5
+237,Mallorca,08/09,LaLiga,9
+237,Mallorca,07/08,LaLiga,7
+237,Mallorca,06/07,LaLiga,11
+237,Mallorca,05/06,LaLiga,13
+237,Mallorca,04/05,LaLiga,17
+237,Mallorca,03/04,LaLiga,11
+237,Mallorca,02/03,LaLiga,9
+237,Mallorca,01/02,LaLiga,16
+237,Mallorca,00/01,LaLiga,3
+237,Mallorca,99/00,LaLiga,10
+237,Mallorca,98/99,LaLiga,3
+237,Mallorca,97/98,LaLiga,5
+237,Mallorca,96/97,LaLiga,3
+237,Mallorca,95/96,LaLiga,3
+237,Mallorca,94/95,LaLiga,12
+237,Mallorca,93/94,LaLiga,5
+237,Mallorca,92/93,LaLiga,4
+237,Mallorca,91/92,LaLiga,20
+237,Mallorca,90/91,LaLiga,16
+237,Mallorca,89/90,LaLiga,10
+237,Mallorca,88/89,LaLiga,4
+237,Mallorca,87/88,LaLiga,18
+237,Mallorca,86/87,LaLiga,10
+237,Mallorca,85/86,LaLiga,3
+237,Mallorca,84/85,LaLiga,7
+237,Mallorca,83/84,LaLiga,17
+237,Mallorca,82/83,LaLiga,3
+237,Mallorca,81/82,LaLiga,6
+237,Mallorca,74/75,LaLiga,17
+237,Mallorca,72/73,LaLiga,10
+237,Mallorca,71/72,LaLiga,12
+237,Mallorca,70/71,LaLiga,9
+237,Mallorca,69/70,LaLiga,15
+237,Mallorca,68/69,LaLiga,3
+237,Mallorca,66/67,LaLiga,5
+237,Mallorca,65/66,LaLiga,15
+237,Mallorca,64/65,LaLiga,1
+237,Mallorca,63/64,LaLiga,3
+237,Mallorca,62/63,LaLiga,13
+237,Mallorca,61/62,LaLiga,11
+237,Mallorca,60/61,LaLiga,9
+237,Mallorca,59/60,LaLiga,1
+237,Mallorca,53/54,LaLiga,16
+237,Mallorca,52/53,LaLiga,8
+237,Mallorca,51/52,LaLiga,6
+237,Mallorca,49/50,LaLiga,11
+237,Mallorca,47/48,LaLiga,13
+237,Mallorca,46/47,LaLiga,5
+237,Mallorca,45/46,LaLiga,8
+237,Mallorca,44/45,LaLiga,11
+237,Mallorca,39/40,LaLiga,7
+

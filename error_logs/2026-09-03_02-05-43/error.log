@@ -1,0 +1,38 @@
+Traceback (most recent call last):
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus\browser_decorator.py", line 199, in run_task
+    result = func(driver, data)
+             ^^^^^^^^^^^^^^^^^^
+  File "c:\Users\carlo\Desktop\predecir-balon-de-oro\prueba_sofascore.py", line 290, in probar_competiciones_temporada
+    opcion_encontrada = driver.run_js(
+                        ^^^^^^^^^^^^^^
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus_driver\driver.py", line 746, in run_js
+    return self._tab.evaluate(script,args=args,await_promise=True, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus_driver\core\tab.py", line 1025, in evaluate
+    handle_exception(core, errors.exception)
+  File "C:\Users\carlo\Desktop\predecir-balon-de-oro\mi_entorno\Lib\site-packages\botasaurus_driver\exceptions.py", line 179, in handle_exception
+    raise ReferenceError(core)
+botasaurus_driver.exceptions.ReferenceError: ReferenceError in the following code:
+
+
+            const nombre = {competition_js};
+
+            const opcion = Array.from(
+                document.querySelectorAll(
+                    '[role="option"]'
+                )
+            ).find(
+                el =>
+                    el.innerText.trim() === nombre
+            );
+
+            if (!opcion) {
+
+                return false;
+            }
+
+            opcion.click();
+
+            return true;
+            
+Please review the code and run again.

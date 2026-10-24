@@ -1,6 +1,7 @@
 from pathlib import Path
 import re
 import unicodedata
+from html import escape as html_escape
 
 import numpy as np
 import pandas as pd
@@ -55,6 +56,83 @@ st.markdown(
       button[data-baseweb="tab"] p {font-size: 1.08rem;}
       [data-testid="stMetricValue"] {font-size: 1.55rem;}
       .small-note {opacity: .75; font-size: .92rem;}
+      .ranking-card {
+        border: 1px solid rgba(128, 128, 128, .28);
+        border-radius: 14px;
+        padding: 14px 16px;
+        margin: 8px 0;
+        background: rgba(128, 128, 128, .045);
+        transition: border-color .15s ease, background .15s ease;
+      }
+      .ranking-card:hover {
+        border-color: rgba(128, 128, 128, .52);
+        background: rgba(128, 128, 128, .075);
+      }
+      .ranking-card-top {
+        display: grid;
+        grid-template-columns: 54px minmax(160px, 1fr) 112px 112px;
+        gap: 12px;
+        align-items: center;
+      }
+      .ranking-rank {
+        font-size: 1.25rem;
+        font-weight: 750;
+        letter-spacing: -.04em;
+        text-align: center;
+        color: var(--text-color);
+      }
+      .ranking-player-name {
+        font-size: 1.02rem;
+        font-weight: 650;
+        line-height: 1.25;
+        color: var(--text-color);
+      }
+      .ranking-player-meta, .ranking-label {
+        color: var(--text-color);
+        opacity: .66;
+        font-size: .78rem;
+        line-height: 1.35;
+      }
+      .ranking-top-value {
+        text-align: right;
+        overflow-wrap: anywhere;
+      }
+      .ranking-top-value strong {
+        display: block;
+        font-size: .94rem;
+        font-weight: 600;
+        font-variant-numeric: tabular-nums;
+      }
+      .ranking-card-metrics {
+        display: grid;
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+        gap: 10px;
+        margin: 13px 0 0 66px;
+        padding-top: 11px;
+        border-top: 1px solid rgba(128, 128, 128, .16);
+      }
+      .ranking-metric {min-width: 0;}
+      .ranking-metric strong {
+        display: block;
+        margin-top: 2px;
+        font-size: .9rem;
+        font-weight: 600;
+        overflow-wrap: anywhere;
+        font-variant-numeric: tabular-nums;
+      }
+      @media (max-width: 900px) {
+        .ranking-card-top { grid-template-columns: 42px minmax(120px, 1fr) 76px 76px; gap: 8px; }
+        .ranking-card { padding: 12px; }
+        .ranking-card-metrics { margin-left: 50px; gap: 7px; }
+        .ranking-label { font-size: .7rem; }
+        .ranking-metric strong { font-size: .8rem; }
+      }
+      @media (max-width: 600px) {
+        .ranking-card-top { grid-template-columns: 36px minmax(0, 1fr) 64px; }
+        .ranking-real-position {display: none;}
+        .ranking-card-metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); margin-left: 44px; }
+        .ranking-metric:last-child {grid-column: 1 / -1;}
+      }
     </style>
     """,
     unsafe_allow_html=True,
@@ -114,6 +192,8 @@ def norm_ranking(df, season):
     for c in ["posicion_predicha", "posicion_real", "score_ensamble",
               "score_modelo_posicional", "score_modelo_global"]:
         df[c] = pd.to_numeric(df[c], errors="coerce")
+    # La posición predicha es un ranking ordinal: se conserva como entero anulable.
+    df["posicion_predicha"] = df["posicion_predicha"].round().astype("Int64")
     return df.sort_values("posicion_predicha", na_position="last")
 
 
@@ -323,23 +403,59 @@ def ranking_tab(season, ranking, dataset):
                 mask |= filtered[col].map(fold_text).str.contains(re.escape(query), regex=True, na=False)
         filtered = filtered[mask]
 
-    shown = filtered[[x for x in RANK_COLS if x in filtered]].copy()
-    for col in ["prob_duelo_contra_lider", "prob_duelo_contra_anterior"]:
-        if col in shown:
-            shown[col] = shown[col].map(format_probability)
-    st.dataframe(
-        shown, use_container_width=True, hide_index=True,
-        height=min(660, 46 + len(shown) * 36),
-        column_config={
-            "posicion_predicha": st.column_config.NumberColumn("Posición predicha", format="%d"),
-            "posicion_real": st.column_config.NumberColumn("Posición real", format="%.1f"),
-            "prob_duelo_contra_lider": st.column_config.TextColumn("Prob. contra líder"),
-            "prob_duelo_contra_anterior": st.column_config.TextColumn("Prob. contra anterior"),
-            "score_ensamble": st.column_config.NumberColumn("Score ensamble", format="%.4f"),
-            "score_modelo_posicional": st.column_config.NumberColumn("Score posicional", format="%.4f"),
-            "score_modelo_global": st.column_config.NumberColumn("Score global", format="%.4f"),
-        },
-    )
+    st.caption(f"Mostrando {len(filtered):,} jugadores".replace(",", "."))
+
+    def display_int(value):
+        number = pd.to_numeric(pd.Series([value]), errors="coerce").iloc[0]
+        return "—" if pd.isna(number) else str(int(number))
+
+    def display_score(value):
+        number = pd.to_numeric(pd.Series([value]), errors="coerce").iloc[0]
+        return "—" if pd.isna(number) else f"{number:.4f}"
+
+    def card_text(value, fallback="—"):
+        return html_escape(fallback if pd.isna(value) or str(value).strip() == "" else str(value))
+
+    # Tarjetas HTML: cada jugador tiene su propio recuadro sin rejilla de tabla.
+    for _, row in filtered.iterrows():
+        rank = display_int(row.get("posicion_predicha"))
+        name = card_text(row.get("nombre"), "Jugador desconocido")
+        club = card_text(row.get("club"))
+        position = card_text(row.get("posicion"))
+        actual = display_int(row.get("posicion_real"))
+        prob_leader = html_escape(format_probability(row.get("prob_duelo_contra_lider")))
+        prob_previous = html_escape(format_probability(row.get("prob_duelo_contra_anterior")))
+        score_ensemble = html_escape(display_score(row.get("score_ensamble")))
+        score_positional = html_escape(display_score(row.get("score_modelo_posicional")))
+        score_global = html_escape(display_score(row.get("score_modelo_global")))
+
+        card = f"""
+        <div class="ranking-card">
+          <div class="ranking-card-top">
+            <div class="ranking-rank">{html_escape(rank)}</div>
+            <div>
+              <div class="ranking-player-name">{name}</div>
+              <div class="ranking-player-meta">{club} · {position}</div>
+            </div>
+            <div class="ranking-top-value ranking-real-position">
+              <span class="ranking-label">Posición real</span>
+              <strong>{html_escape(actual)}</strong>
+            </div>
+            <div class="ranking-top-value">
+              <span class="ranking-label">Temporada</span>
+              <strong>{html_escape(season)}</strong>
+            </div>
+          </div>
+          <div class="ranking-card-metrics">
+            <div class="ranking-metric"><span class="ranking-label">Prob. contra líder</span><strong>{prob_leader}</strong></div>
+            <div class="ranking-metric"><span class="ranking-label">Prob. contra anterior</span><strong>{prob_previous}</strong></div>
+            <div class="ranking-metric"><span class="ranking-label">Score ensamble</span><strong>{score_ensemble}</strong></div>
+            <div class="ranking-metric"><span class="ranking-label">Score posicional</span><strong>{score_positional}</strong></div>
+            <div class="ranking-metric"><span class="ranking-label">Score global</span><strong>{score_global}</strong></div>
+          </div>
+        </div>
+        """
+        st.markdown(card, unsafe_allow_html=True)
     st.download_button(
         f"Descargar ranking {season} CSV", d.to_csv(index=False).encode("utf-8-sig"),
         f"ranking_{season.replace('/', '-')}.csv", "text/csv", key=f"dl_rank_{season}",

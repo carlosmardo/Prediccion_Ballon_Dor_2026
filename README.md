@@ -1,5 +1,7 @@
 # Modelo de predicción del Balón de Oro
 
+### Para ver los resultados del modelo visita: https://app-apppy-drjtfhstmpfw9umpncevzw.streamlit.app/
+
 ## 1. Objetivo y resumen
 
 Este proyecto construye un ranking de candidatos al Balón de Oro a partir de sus estadísticas por competición y temporada. El modelo aprende de los rankings históricos qué jugador debería quedar por encima de otro y transforma las estadísticas de cada candidato en una puntuación (`score_modelo`). Cuanto mayor es la puntuación, más arriba queda el jugador en el ranking predicho.

@@ -563,7 +563,73 @@ for titulo, set1, set2 in [
 
 
 # ===============================================================
-# 21. UNIR DATOS DE CLUBES Y SELECCIONES
+# NUEVA SECCIÓN: ACTUALIZAR CLUBES ESPECÍFICOS Y MOVER FIFA INTERCONTINENTAL CUP A 2025/26
+# ===============================================================
+
+print("\n" + "=" * 80 + "\nACTUALIZACIÓN DE CLUBES ESPECÍFICOS Y MOVIMIENTO DE FIFA INTERCONTINENTAL CUP\n" + "=" * 80)
+
+cambios_clubes_jugadores = [
+    ("Thierry Henry", "2006/07", "Arsenal"),
+    ("Cristiano Ronaldo", "2008/09", "Manchester United"),
+    ("Samuel Eto'o", "2008/09", "Barcelona"),
+    ("Sergio Agüero", "2010/11", "Atletico Madrid"),
+    ("Radamel Falcao", "2011/12", "Atletico Madrid"),
+    ("Zlatan Ibrahimović", "2011/12", "AC Milan"),
+    ("Mesut Özil", "2011/12", "Real Madrid"),
+    ("Gareth Bale", "2012/13", "Tottenham"),
+    ("Luis Suárez", "2012/13", "Liverpool"),
+    ("Neymar", "2016/17", "Barcelona"),
+    ("Cristiano Ronaldo", "2017/18", "Real Madrid"),
+    ("Thibaut Courtois", "2017/18", "Chelsea"),
+    ("Eden Hazard", "2018/19", "Chelsea"),
+    ("Matthijs de Ligt", "2018/19", "Ajax"),
+    ("Lionel Messi", "2020/21", "Barcelona"),
+    ("Cristiano Ronaldo", "2020/21", "Juventus"),
+    ("Gianluigi Donnarumma", "2020/21", "AC Milan"),
+    ("Romelu Lukaku", "2020/21", "Inter Milan"),
+    ("Sébastien Haller", "2021/22", "Ajax"),
+    ("Dušan Vlahović", "2021/22", "Juventus"),
+    ("Luis Díaz", "2021/22", "Liverpool"),
+    ("Gianluigi Donnarumma", "2024/25", "Paris Saint-Germain"),
+    ("Viktor Gyökeres", "2024/25", "Sporting CP"),
+    ("Florian Wirtz", "2024/25", "Bayer Leverkusen"),
+]
+
+for nombre_df in ["stats_historico_ballon_dor", "nominados_ballon_dor"]:
+    if nombre_df in dataframes:
+        df = dataframes[nombre_df]
+        if "nombre" in df.columns and "temporada" in df.columns and "club" in df.columns:
+            modificaciones_club = 0
+            for jugador, temporada, nuevo_club in cambios_clubes_jugadores:
+                mascara = (
+                    df["nombre"].astype(str).str.strip().eq(jugador) &
+                    df["temporada"].astype(str).str.strip().eq(temporada)
+                )
+                cant = mascara.sum()
+                if cant > 0:
+                    df.loc[mascara, "club"] = nuevo_club
+                    modificaciones_club += cant
+            dataframes[nombre_df] = df
+            print(f"{nombre_df}: {modificaciones_club} registro(s) con club actualizado.")
+
+# Mover la FIFA Intercontinental Cup directamente de 2024/25 a 2025/26
+for nombre_df in ["clubes_competiciones", "stats_historico_ballon_dor", "nominados_ballon_dor"]:
+    if nombre_df in dataframes:
+        df = dataframes[nombre_df]
+        if "competicion" in df.columns and "temporada" in df.columns:
+            mascara = (
+                df["competicion"].astype(str).str.strip().eq("FIFA Intercontinental Cup") &
+                df["temporada"].astype(str).str.strip().eq("2024/25")
+            )
+            cant = mascara.sum()
+            if cant > 0:
+                df.loc[mascara, "temporada"] = "2025/26"
+                dataframes[nombre_df] = df
+                print(f"{nombre_df}: {cant} registro(s) de FIFA Intercontinental Cup cambiados de 2024/25 a 2025/26.")
+
+
+# ===============================================================
+# 22. UNIR DATOS DE CLUBES Y SELECCIONES
 # ===============================================================
 
 print("\n" + "=" * 80 + "\nCARGANDO DATASETS PARA LA UNIÓN\n" + "=" * 80)
@@ -571,7 +637,7 @@ print("\n" + "=" * 80 + "\nCARGANDO DATASETS PARA LA UNIÓN\n" + "=" * 80)
 stats_historico_ballon_dor = dataframes["stats_historico_ballon_dor"].copy()
 nominados_ballon_dor = dataframes["nominados_ballon_dor"].copy()
 clubes_competiciones = dataframes["clubes_competiciones"].copy()
-clubes_ligas = dataframes["clubes_ligas"].copy()
+clubes_ligas = dataframes["clubes_ligas"].copy()  # <--- CORREGIDO AQUÍ (clubes_ligas en lugar de clubes_liga)
 selecciones_competiciones = dataframes["selecciones_competiciones"].copy()
 
 print(f"\nstats_historico_ballon_dor: {len(stats_historico_ballon_dor)} filas\nnominados_ballon_dor: {len(nominados_ballon_dor)} filas")
@@ -642,7 +708,7 @@ nominados_ballon_dor = combinar_pases_y_centros(nominados_ballon_dor, "nominados
 
 
 # ===============================================================
-# NUEVA FUNCIÓN: ACTUALIZAR POSICIONES DE JUGADORES ESPECÍFICOS
+# ACTUALIZANDO POSICIONES DE JUGADORES ESPECÍFICOS
 # ===============================================================
 
 print("\n" + "=" * 80 + "\nACTUALIZANDO POSICIONES DE JUGADORES ESPECÍFICOS\n" + "=" * 80)
@@ -686,7 +752,6 @@ nominados_ballon_dor = actualizar_posiciones_jugadores(nominados_ballon_dor, "no
 # LIMPIAR ESTADÍSTICAS SEGÚN POSICIÓN
 print("\n" + "=" * 80 + "\nLIMPIANDO ESTADÍSTICAS SEGÚN LA POSICIÓN DEL JUGADOR\n" + "=" * 80)
 
-# Se elimina 'cleanSheet' de la lista exclusiva de porteros
 estadisticas_solo_porteros = [
     "saves", "savesCaught", "savesParried", "savedShotsFromInsideTheBox", "savedShotsFromOutsideTheBox",
     "penaltySave", "goalsPrevented", "goalsConcededInsideTheBox", "goalsConcededOutsideTheBox",
@@ -807,25 +872,51 @@ for nombre, df in [("stats_historico_ballon_dor", stats_historico_ballon_dor), (
     df.loc[mascara_mundial_2022, "temporada"] = "2022/23"
     print(f"{nombre}: {int(mascara_mundial_2022.sum())} fila(s) restaurada(s) de 2021/22 -> 2022/23")
 
-# COMPROBACIÓN FINAL FIFA WORLD CUP 2022
-print("\n" + "=" * 80 + "\nCOMPROBACIÓN FINAL FIFA WORLD CUP 2022\n" + "=" * 80)
 
-for nombre, df in [("stats_historico_ballon_dor", stats_historico_ballon_dor), ("nominados_ballon_dor", nominados_ballon_dor)]:
-    m_2022 = df[df["temporada"].astype("string").str.strip().eq("2022/23") & df["competicion"].astype("string").str.strip().eq("FIFA World Cup")]
-    print(f"\n{nombre}:\nFilas FIFA World Cup 2022 en 2022/23: {len(m_2022)}")
-    if len(m_2022) > 0:
-        print(f"Resultados encontrados: {m_2022['resultado_competicion'].value_counts(dropna=False).to_dict()}")
+# ===============================================================
+# MOVER FIFA INTERCONTINENTAL CUP A NOMINADOS (FILTRANDO NO NOMINADOS)
+# ===============================================================
 
-# MOSTRAR EJEMPLOS
-print("\n" + "=" * 80 + "\nEJEMPLOS DE DATOS DESPUÉS DE LA UNIÓN\n" + "=" * 80)
+print("\n" + "=" * 80 + "\nMOVIENDO FIFA INTERCONTINENTAL CUP A NOMINADOS (FILTRANDO NO NOMINADOS)\n" + "=" * 80)
 
-cols_show = ["temporada", "posicion_balon_oro", "nombre", "club", "nacionalidad", "competicion", "resultado_competicion"]
+# Obtener los nombres de los jugadores que SÍ están nominados en 2025/26
+nombres_nominados_2025_26 = set(
+    nominados_ballon_dor[
+        nominados_ballon_dor["temporada"].astype(str).str.strip().eq("2025/26")
+    ]["nombre"].astype(str).str.strip()
+)
 
-print("\n--- STATS HISTÓRICOS ---")
-print(stats_historico_ballon_dor[[c for c in cols_show if c in stats_historico_ballon_dor.columns]].head(20).to_string(index=False))
+# Localizar filas de FIFA Intercontinental Cup en 2025/26 dentro de stats_historico_ballon_dor
+mascara_inter = (
+    stats_historico_ballon_dor["competicion"].astype(str).str.strip().eq("FIFA Intercontinental Cup") &
+    stats_historico_ballon_dor["temporada"].astype(str).str.strip().eq("2025/26")
+)
 
-print("\n--- NOMINADOS ---")
-print(nominados_ballon_dor[[c for c in cols_show if c in nominados_ballon_dor.columns]].head(20).to_string(index=False))
+filas_inter = stats_historico_ballon_dor[mascara_inter].copy()
+
+if len(filas_inter) > 0:
+    # Filtrar solo aquellos jugadores que realmente están nominados en 2025/26
+    mascara_validos = filas_inter["nombre"].astype(str).str.strip().isin(nombres_nominados_2025_26)
+    
+    filas_a_mover = filas_inter[mascara_validos].copy()
+    filas_a_eliminar = filas_inter[~mascara_validos].copy()
+
+    if len(filas_a_mover) > 0:
+        if "posicion_balon_oro" in filas_a_mover.columns:
+            filas_a_mover["posicion_balon_oro"] = 0
+        nominados_ballon_dor = pd.concat([nominados_ballon_dor, filas_a_mover], ignore_index=True)
+        print(f"[OK] Se movieron {len(filas_a_mover)} registro(s) de FIFA Intercontinental Cup a nominados_ballon_dor (con posicion_balon_oro = 0).")
+
+    if len(filas_a_eliminar) > 0:
+        print(f"[OK] Se eliminaron {len(filas_a_eliminar)} registro(s) de jugadores no nominados (ej. Désiré Doué) para que no se cuelen:")
+        for nom in filas_a_eliminar["nombre"].unique():
+            print(f"    - {nom}")
+
+    # Retirar todas las filas de intercontinental cup de stats_historico_ballon_dor
+    stats_historico_ballon_dor = stats_historico_ballon_dor[~mascara_inter].reset_index(drop=True)
+else:
+    print("[AVISO] No se encontraron registros de FIFA Intercontinental Cup en 2025/26 dentro de stats_historico_ballon_dor.")
+
 
 # ORDENAR DATASETS FINALES
 def ordenar_por_temporada_y_ranking(df, nombre_dataset):
@@ -854,8 +945,6 @@ for nombre, df in [("STATS HISTÓRICOS", stats_historico_ballon_dor), ("NOMINADO
     print(f"\n{nombre}:\nFilas: {len(df)} | Columnas: {len(df.columns)}")
     print(f"Últimas columnas: {df.columns[-5:].tolist()}")
     print(f"    resultado_competicion: {'OK' if 'resultado_competicion' in df.columns else 'ERROR'}")
-    print(f"    ronda eliminada: {'OK' if 'ronda' not in df.columns else 'ERROR'}")
-    print(f"    posicion_liga eliminada: {'OK' if 'posicion_liga' not in df.columns else 'ERROR'}")
 
 # COMPROBAR ARCHIVOS GENERADOS
 print("\n" + "=" * 80 + "\nARCHIVOS GENERADOS\n" + "=" * 80)

@@ -950,7 +950,7 @@ def crear_objetivo_optuna(temporadas_validacion, nombre_fase):
                      1e-9, 1e-8, 1e-7, 1e-6, 1e-5]
         )
         epsilon_val = trial.suggest_categorical(
-            'epsilon', [1e-6, 1e-5, 1e-4, 1e-3, 1e-2]
+            'epsilon', [0]
         )
 
         metricas_ranking = []

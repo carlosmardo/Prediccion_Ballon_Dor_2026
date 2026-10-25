@@ -546,28 +546,6 @@ with st.sidebar:
     else:
         st.info("No se encontraron CSV `prediccion_solo_temporada*.csv` en `data/ml/`.")
 
-    # Descargas auxiliares generadas por el nuevo script (coeficientes, importancia,
-    # backtest, búsquedas Optuna y comparaciones individuales).
-    auxiliary_prefixes = (
-        "coeficientes_", "importancia_", "resumen_backtest_",
-        "optuna_trials_", "optuna_best_params_", "comparacion_",
-    )
-    auxiliary_files = sorted(
-        path for path in ML_DIR.glob("*.csv")
-        if path.is_file() and path.name.startswith(auxiliary_prefixes)
-    ) if ML_DIR.exists() else []
-    if auxiliary_files:
-        st.markdown("**Resultados y análisis del modelo**")
-        for path in auxiliary_files:
-            try:
-                label = path.stem.replace("_", " ").capitalize()
-                st.download_button(
-                    label, path.read_bytes(), path.name, "text/csv",
-                    key=f"download_{path.name}",
-                )
-            except OSError as e:
-                st.warning(f"No se pudo leer {path.name}: {e}")
-
 dataset = read_path(DATASET_PATH)
 if dataset is None:
     dataset = pd.DataFrame()
